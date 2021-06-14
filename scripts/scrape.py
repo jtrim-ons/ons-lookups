@@ -21,18 +21,20 @@ def get_batch(batch_num):
     links = soup.select('a[href*="/dataset/"]', class_="govuk-link")
     for link in links:
         href = 'https://data.gov.uk' + link['href']
-        text = link.text.replace("_", "\\_")
-        md += "## " + text + "\n\n"
-        get_dataset(href)
+        title = link.text.replace("_", "\\_")
+        md += "## " + title + "\n\n"
+        get_dataset(href, title)
 
-def get_dataset(url):
+def get_dataset(url, title):
     global csv_index, md
+    dataset_info = f"## {title}\n\n"
     html = get_page(url)
     soup = BeautifulSoup(html, "html.parser")
     summary = soup.find('div', class_="js-summary")
     summary_p = summary.find_all('p')
     for item in summary_p:
         md += item.text.replace("_", "\\_") + "\n\n"
+        dataset_info += item.text.replace("_", "\\_") + "\n\n"
     links = soup.select('a[data-ga-format="CSV"]', class_="govuk-link")
     for link in links:
         href = link['href']
@@ -42,7 +44,10 @@ def get_dataset(url):
                 csv = csv[3:]
                 process_csv(csv)
                 csv_filename = f"csv/{csv_index:03}.csv"
-                md += "[CSV]({})\n\n".format(csv_filename)
+                md += "[CSV]({}) / [data.gov.uk]({})\n\n".format(csv_filename, url)
+                dataset_info += "[CSV]({}) / [data.gov.uk]({})\n\n".format(csv_filename, url)
+                with open(f"dataset_info/{csv_index:03}.md", "w") as f:
+                    f.write(dataset_info)
                 with open(csv_filename, "w") as f:
                     f.write(csv)
                 csv_index += 1
@@ -61,15 +66,16 @@ def process_csv(csv):
             for col2 in code_columns[i+1:]:
                 code1 = getattr(row, col1)
                 code2 = getattr(row, col2)
-                lookup_rows.append([col1, code1, col2, code2])
+                lookup_rows.append([col1, code1, col2, code2, f"{csv_index:03}"])
 
 if __name__ == "__main__":
     for batch in range(1, 16):
         print(f"batch {batch}")
         get_batch(batch)
-    lookup = pd.DataFrame(lookup_rows, columns=["type1", "code1", "type2", "code2"])
+    lookup_cols = ["type1", "code1", "type2", "code2", "dataset"]
+    lookup = pd.DataFrame(lookup_rows, columns=lookup_cols)
     names = pd.DataFrame(name_rows, columns=["type", "code", "name"])
-    lookup = lookup.drop_duplicates()
+    lookup = lookup.drop_duplicates(subset=lookup_cols[:-1])
     names = names.drop_duplicates()
     print(lookup)
     print(names)
