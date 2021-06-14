@@ -1,0 +1,472 @@
+FID,LPA19CD,LPA19NM,Coterm,LAD19CD,LAD19NM
+1,E60000180,North Norfolk LPA,N,E07000147,North Norfolk
+2,E60000329,London Legacy Development Corporation LPA,Y,E09000012,Hackney
+3,E60000114,Shropshire LPA,Y,E06000051,Shropshire
+4,E60000326,The Broads Authority LPA,Y,E07000147,North Norfolk
+5,E60000181,Norwich LPA,N,E07000148,Norwich
+6,E60000324,Peak District National Park LPA,Y,E08000004,Oldham
+7,E60000291,Cornwall LPA,Y,E06000052,Cornwall
+8,E60000293,Isles of Scilly LPA,Y,E06000053,Isles of Scilly
+9,E60000326,The Broads Authority LPA,Y,E07000148,Norwich
+10,E60000029,Rochdale LPA,Y,E08000005,Rochdale
+11,E60000299,Wiltshire LPA,N,E06000054,Wiltshire
+12,E60000191,Hammersmith and Fulham LPA,N,E09000013,Hammersmith and Fulham
+13,E60000182,South Norfolk LPA,N,E07000149,South Norfolk
+14,E60000030,Salford LPA,Y,E08000006,Salford
+15,E60000321,New Forest National Park LPA,Y,E06000054,Wiltshire
+16,E60000330,Old Oak and Park Royal Development Corporation LPA,Y,E09000013,Hammersmith and Fulham
+17,E60000326,The Broads Authority LPA,Y,E07000149,South Norfolk
+18,E60000003,Hartlepool LPA,Y,E06000001,Hartlepool
+19,E60000031,Stockport LPA,Y,E08000007,Stockport
+20,E60000143,Bedford LPA,Y,E06000055,Bedford
+21,E60000004,Middlesbrough LPA,Y,E06000002,Middlesbrough
+22,E60000099,Corby LPA,Y,E07000150,Corby
+23,E60000192,Haringey LPA,Y,E09000014,Haringey
+24,E60000032,Tameside LPA,Y,E08000008,Tameside
+25,E60000100,Daventry LPA,Y,E07000151,Daventry
+26,E60000144,Central Bedfordshire LPA,Y,E06000056,Central Bedfordshire
+27,E60000006,Redcar and Cleveland LPA,N,E06000003,Redcar and Cleveland
+28,E60000211,Harrow LPA,Y,E09000015,Harrow
+29,E60000101,East Northamptonshire LPA,Y,E07000152,East Northamptonshire
+30,E60000005,Northumberland LPA,N,E06000057,Northumberland
+31,E60000033,Trafford LPA,Y,E08000009,Trafford
+32,E60000170,North Hertfordshire LPA,Y,E07000099,North Hertfordshire
+33,E60000322,North York Moors National Park LPA,Y,E06000003,Redcar and Cleveland
+34,E60000212,Havering LPA,Y,E09000016,Havering
+35,E60000102,Kettering LPA,Y,E07000153,Kettering
+36,E60000323,Northumberland National Park LPA,Y,E06000057,Northumberland
+37,E60000173,Three Rivers LPA,Y,E07000102,Three Rivers
+38,E60000034,Wigan LPA,Y,E08000010,Wigan
+39,E60000213,Hillingdon LPA,Y,E09000017,Hillingdon
+40,E60000103,Northampton LPA,Y,E07000154,Northampton
+41,E60000007,Stockton-on-Tees LPA,Y,E06000004,Stockton-on-Tees
+42,E60000174,Watford LPA,Y,E07000103,Watford
+43,E60000289,"Bournemouth, Christchurch and Poole LPA",Y,E06000058,"Bournemouth, Christchurch and Poole"
+44,E60000214,Hounslow LPA,Y,E09000018,Hounslow
+45,E60000104,South Northamptonshire LPA,Y,E07000155,South Northamptonshire
+46,E60000047,Knowsley LPA,Y,E08000011,Knowsley
+47,E60000002,Darlington LPA,Y,E06000005,Darlington
+48,E60000253,Ashford LPA,Y,E07000105,Ashford
+49,E60000292,Dorset LPA,Y,E06000059,Dorset
+50,E60000193,Islington LPA,Y,E09000019,Islington
+51,E60000105,Wellingborough LPA,Y,E07000156,Wellingborough
+52,E60000048,Liverpool LPA,Y,E08000012,Liverpool
+53,E60000017,Halton LPA,Y,E06000006,Halton
+54,E60000233,Aylesbury Vale LPA,Y,E07000004,Aylesbury Vale
+55,E60000194,Kensington and Chelsea LPA,Y,E09000020,Kensington and Chelsea
+56,E60000254,Canterbury LPA,Y,E07000106,Canterbury
+57,E60000057,Craven LPA,N,E07000163,Craven
+58,E60000050,St. Helens LPA,Y,E08000013,St. Helens
+59,E60000018,Warrington LPA,Y,E06000007,Warrington
+60,E60000234,Chiltern LPA,Y,E07000005,Chiltern
+61,E60000215,Kingston upon Thames LPA,Y,E09000021,Kingston upon Thames
+62,E60000255,Dartford LPA,N,E07000107,Dartford
+63,E60000327,Yorkshire Dales National Park LPA,Y,E07000163,Craven
+64,E60000049,Sefton LPA,Y,E08000014,Sefton
+65,E60000013,Blackburn with Darwen LPA,Y,E06000008,Blackburn with Darwen
+66,E60000235,South Bucks LPA,Y,E07000006,South Bucks
+67,E60000236,Wycombe LPA,Y,E07000007,Wycombe
+68,E60000149,Cambridge LPA,Y,E07000008,Cambridge
+69,E60000150,East Cambridgeshire LPA,Y,E07000009,East Cambridgeshire
+70,E60000151,Fenland LPA,Y,E07000010,Fenland
+71,E60000152,Huntingdonshire LPA,Y,E07000011,Huntingdonshire
+72,E60000153,South Cambridgeshire LPA,Y,E07000012,South Cambridgeshire
+73,E60000019,Allerdale LPA,N,E07000026,Allerdale
+74,E60000320,Lake District National Park LPA,Y,E07000026,Allerdale
+75,E60000020,Barrow-in-Furness LPA,Y,E07000027,Barrow-in-Furness
+76,E60000021,Carlisle LPA,Y,E07000028,Carlisle
+77,E60000022,Copeland LPA,N,E07000029,Copeland
+78,E60000320,Lake District National Park LPA,Y,E07000029,Copeland
+79,E60000023,Eden LPA,N,E07000030,Eden
+80,E60000320,Lake District National Park LPA,Y,E07000030,Eden
+81,E60000327,Yorkshire Dales National Park LPA,Y,E07000030,Eden
+82,E60000024,South Lakeland LPA,N,E07000031,South Lakeland
+83,E60000320,Lake District National Park LPA,Y,E07000031,South Lakeland
+84,E60000327,Yorkshire Dales National Park LPA,Y,E07000031,South Lakeland
+85,E60000077,Amber Valley LPA,Y,E07000032,Amber Valley
+86,E60000078,Bolsover LPA,Y,E07000033,Bolsover
+87,E60000079,Chesterfield LPA,Y,E07000034,Chesterfield
+88,E60000080,Derbyshire Dales LPA,N,E07000035,Derbyshire Dales
+89,E60000324,Peak District National Park LPA,Y,E07000035,Derbyshire Dales
+90,E60000081,Erewash LPA,Y,E07000036,Erewash
+91,E60000082,High Peak LPA,N,E07000037,High Peak
+92,E60000324,Peak District National Park LPA,Y,E07000037,High Peak
+93,E60000083,North East Derbyshire LPA,N,E07000038,North East Derbyshire
+94,E60000324,Peak District National Park LPA,Y,E07000038,North East Derbyshire
+95,E60000084,South Derbyshire LPA,Y,E07000039,South Derbyshire
+96,E60000300,East Devon LPA,Y,E07000040,East Devon
+97,E60000301,Exeter LPA,Y,E07000041,Exeter
+98,E60000302,Mid Devon LPA,N,E07000042,Mid Devon
+99,E60000318,Dartmoor National Park LPA,Y,E07000042,Mid Devon
+100,E60000303,North Devon LPA,N,E07000043,North Devon
+101,E60000319,Exmoor National Park LPA,Y,E07000043,North Devon
+102,E60000304,South Hams LPA,N,E07000044,South Hams
+103,E60000328,Ebbsfleet Development Corporation LPA,Y,E07000107,Dartford
+104,E60000014,Blackpool LPA,Y,E06000009,Blackpool
+105,E60000058,Hambleton LPA,N,E07000164,Hambleton
+106,E60000256,Dover LPA,Y,E07000108,Dover
+107,E60000051,Wirral LPA,Y,E08000015,Wirral
+108,E60000053,"Kingston upon Hull, City of LPA",Y,E06000010,"Kingston upon Hull, City of"
+109,E60000322,North York Moors National Park LPA,Y,E07000164,Hambleton
+110,E60000258,Gravesham LPA,N,E07000109,Gravesham
+111,E60000064,Barnsley LPA,N,E08000016,Barnsley
+112,E60000052,East Riding of Yorkshire LPA,Y,E06000011,East Riding of Yorkshire
+113,E60000059,Harrogate LPA,Y,E07000165,Harrogate
+114,E60000328,Ebbsfleet Development Corporation LPA,Y,E07000109,Gravesham
+115,E60000324,Peak District National Park LPA,Y,E08000016,Barnsley
+116,E60000054,North East Lincolnshire LPA,Y,E06000012,North East Lincolnshire
+117,E60000060,Richmondshire LPA,N,E07000166,Richmondshire
+118,E60000259,Maidstone LPA,Y,E07000110,Maidstone
+119,E60000065,Doncaster LPA,Y,E08000017,Doncaster
+120,E60000055,North Lincolnshire LPA,Y,E06000013,North Lincolnshire
+121,E60000327,Yorkshire Dales National Park LPA,Y,E07000166,Richmondshire
+122,E60000260,Sevenoaks LPA,Y,E07000111,Sevenoaks
+123,E60000066,Rotherham LPA,Y,E08000018,Rotherham
+124,E60000067,Sheffield LPA,N,E08000019,Sheffield
+125,E60000324,Peak District National Park LPA,Y,E08000019,Sheffield
+126,E60000009,Newcastle upon Tyne LPA,Y,E08000021,Newcastle upon Tyne
+127,E60000010,North Tyneside LPA,Y,E08000022,North Tyneside
+128,E60000011,South Tyneside LPA,Y,E08000023,South Tyneside
+129,E60000012,Sunderland LPA,Y,E08000024,Sunderland
+130,E60000130,Birmingham LPA,Y,E08000025,Birmingham
+131,E60000131,Coventry LPA,Y,E08000026,Coventry
+132,E60000132,Dudley LPA,Y,E08000027,Dudley
+133,E60000133,Sandwell LPA,Y,E08000028,Sandwell
+134,E60000134,Solihull LPA,Y,E08000029,Solihull
+135,E60000135,Walsall LPA,Y,E08000030,Walsall
+136,E60000136,Wolverhampton LPA,Y,E08000031,Wolverhampton
+137,E60000068,Bradford LPA,Y,E08000032,Bradford
+138,E60000069,Calderdale LPA,Y,E08000033,Calderdale
+139,E60000070,Kirklees LPA,N,E08000034,Kirklees
+140,E60000324,Peak District National Park LPA,Y,E08000034,Kirklees
+141,E60000071,Leeds LPA,Y,E08000035,Leeds
+142,E60000072,Wakefield LPA,Y,E08000036,Wakefield
+143,E60000008,Gateshead LPA,Y,E08000037,Gateshead
+144,E60000189,City of London LPA,Y,E09000001,City of London
+145,E60000202,Barking and Dagenham LPA,Y,E09000002,Barking and Dagenham
+146,E60000203,Barnet LPA,Y,E09000003,Barnet
+147,E60000204,Bexley LPA,Y,E09000004,Bexley
+148,E60000205,Brent LPA,N,E09000005,Brent
+149,E60000330,Old Oak and Park Royal Development Corporation LPA,Y,E09000005,Brent
+150,E60000206,Bromley LPA,Y,E09000006,Bromley
+151,E60000188,Camden LPA,Y,E09000007,Camden
+152,E60000207,Croydon LPA,Y,E09000008,Croydon
+153,E60000208,Ealing LPA,N,E09000009,Ealing
+154,E60000330,Old Oak and Park Royal Development Corporation LPA,Y,E09000009,Ealing
+155,E60000209,Enfield LPA,Y,E09000010,Enfield
+156,E60000210,Greenwich LPA,Y,E09000011,Greenwich
+157,E60000190,Hackney LPA,N,E09000012,Hackney
+158,E60000195,Lambeth LPA,Y,E09000022,Lambeth
+159,E60000056,York LPA,Y,E06000014,York
+160,E60000196,Lewisham LPA,Y,E09000023,Lewisham
+161,E60000216,Merton LPA,Y,E09000024,Merton
+162,E60000073,Derby LPA,Y,E06000015,Derby
+163,E60000197,Newham LPA,Y,E09000025,Newham
+164,E60000061,Ryedale LPA,N,E07000167,Ryedale
+165,E60000257,Folkestone and Hythe LPA,Y,E07000112,Folkestone and Hythe
+166,E60000185,Ipswich LPA,Y,E07000202,Ipswich
+167,E60000074,Leicester LPA,Y,E06000016,Leicester
+168,E60000329,London Legacy Development Corporation LPA,N,E09000025,Newham
+169,E60000322,North York Moors National Park LPA,Y,E07000167,Ryedale
+170,E60000261,Swale LPA,Y,E07000113,Swale
+171,E60000076,Rutland LPA,Y,E06000017,Rutland
+172,E60000186,Mid Suffolk LPA,Y,E07000203,Mid Suffolk
+173,E60000217,Redbridge LPA,Y,E09000026,Redbridge
+174,E60000062,Scarborough LPA,N,E07000168,Scarborough
+175,E60000262,Thanet LPA,Y,E07000114,Thanet
+176,E60000075,Nottingham LPA,Y,E06000018,Nottingham
+177,E60000270,Elmbridge LPA,Y,E07000207,Elmbridge
+178,E60000218,Richmond upon Thames LPA,Y,E09000027,Richmond upon Thames
+179,E60000322,North York Moors National Park LPA,Y,E07000168,Scarborough
+180,E60000263,Tonbridge and Malling LPA,Y,E07000115,Tonbridge and Malling
+181,E60000113,"Herefordshire, County of LPA",Y,E06000019,"Herefordshire, County of"
+182,E60000271,Epsom and Ewell LPA,Y,E07000208,Epsom and Ewell
+183,E60000198,Southwark LPA,Y,E09000028,Southwark
+184,E60000063,Selby LPA,Y,E07000169,Selby
+185,E60000264,Tunbridge Wells LPA,Y,E07000116,Tunbridge Wells
+186,E60000106,Ashfield LPA,Y,E07000170,Ashfield
+187,E60000116,Telford and Wrekin LPA,Y,E06000020,Telford and Wrekin
+188,E60000115,Stoke-on-Trent LPA,Y,E06000021,Stoke-on-Trent
+189,E60000288,Bath and North East Somerset LPA,Y,E06000022,Bath and North East Somerset
+190,E60000290,"Bristol, City of LPA",Y,E06000023,"Bristol, City of"
+191,E60000294,North Somerset LPA,Y,E06000024,North Somerset
+192,E60000296,South Gloucestershire LPA,Y,E06000025,South Gloucestershire
+193,E60000295,Plymouth LPA,Y,E06000026,Plymouth
+194,E60000298,Torbay LPA,Y,E06000027,Torbay
+195,E60000297,Swindon LPA,Y,E06000030,Swindon
+196,E60000146,Peterborough LPA,Y,E06000031,Peterborough
+197,E60000145,Luton LPA,Y,E06000032,Luton
+198,E60000147,Southend-on-Sea LPA,Y,E06000033,Southend-on-Sea
+199,E60000148,Thurrock LPA,Y,E06000034,Thurrock
+200,E60000224,Medway LPA,Y,E06000035,Medway
+201,E60000221,Bracknell Forest LPA,Y,E06000036,Bracknell Forest
+202,E60000230,West Berkshire LPA,Y,E06000037,West Berkshire
+203,E60000227,Reading LPA,Y,E06000038,Reading
+204,E60000107,Bassetlaw LPA,Y,E07000171,Bassetlaw
+205,E60000272,Guildford LPA,Y,E07000209,Guildford
+206,E60000228,Slough LPA,Y,E06000039,Slough
+207,E60000108,Broxtowe LPA,Y,E07000172,Broxtowe
+208,E60000035,Burnley LPA,Y,E07000117,Burnley
+209,E60000318,Dartmoor National Park LPA,Y,E07000044,South Hams
+210,E60000219,Sutton LPA,Y,E09000029,Sutton
+211,E60000231,Windsor and Maidenhead LPA,Y,E06000040,Windsor and Maidenhead
+212,E60000109,Gedling LPA,Y,E07000173,Gedling
+213,E60000036,Chorley LPA,Y,E07000118,Chorley
+214,E60000273,Mole Valley LPA,Y,E07000210,Mole Valley
+215,E60000305,Teignbridge LPA,N,E07000045,Teignbridge
+216,E60000199,Tower Hamlets LPA,N,E09000030,Tower Hamlets
+217,E60000232,Wokingham LPA,Y,E06000041,Wokingham
+218,E60000110,Mansfield LPA,Y,E07000174,Mansfield
+219,E60000037,Fylde LPA,Y,E07000119,Fylde
+220,E60000274,Reigate and Banstead LPA,Y,E07000211,Reigate and Banstead
+221,E60000318,Dartmoor National Park LPA,Y,E07000045,Teignbridge
+222,E60000329,London Legacy Development Corporation LPA,Y,E09000030,Tower Hamlets
+223,E60000225,Milton Keynes LPA,Y,E06000042,Milton Keynes
+224,E60000111,Newark and Sherwood LPA,Y,E07000175,Newark and Sherwood
+225,E60000038,Hyndburn LPA,Y,E07000120,Hyndburn
+226,E60000275,Runnymede LPA,Y,E07000212,Runnymede
+227,E60000306,Torridge LPA,Y,E07000046,Torridge
+228,E60000220,Waltham Forest LPA,N,E09000031,Waltham Forest
+229,E60000222,Brighton and Hove LPA,N,E06000043,Brighton and Hove
+230,E60000112,Rushcliffe LPA,Y,E07000176,Rushcliffe
+231,E60000039,Lancaster LPA,N,E07000121,Lancaster
+232,E60000276,Spelthorne LPA,Y,E07000213,Spelthorne
+233,E60000307,West Devon LPA,N,E07000047,West Devon
+234,E60000329,London Legacy Development Corporation LPA,Y,E09000031,Waltham Forest
+235,E60000325,South Downs National Park LPA,Y,E06000043,Brighton and Hove
+236,E60000265,Cherwell LPA,Y,E07000177,Cherwell
+237,E60000327,Yorkshire Dales National Park LPA,Y,E07000121,Lancaster
+238,E60000277,Surrey Heath LPA,Y,E07000214,Surrey Heath
+239,E60000318,Dartmoor National Park LPA,Y,E07000047,West Devon
+240,E60000200,Wandsworth LPA,Y,E09000032,Wandsworth
+241,E60000226,Portsmouth LPA,Y,E06000044,Portsmouth
+242,E60000266,Oxford LPA,Y,E07000178,Oxford
+243,E60000040,Pendle LPA,Y,E07000122,Pendle
+244,E60000278,Tandridge LPA,Y,E07000215,Tandridge
+245,E60000267,South Oxfordshire LPA,Y,E07000179,South Oxfordshire
+246,E60000237,Eastbourne LPA,N,E07000061,Eastbourne
+247,E60000325,South Downs National Park LPA,Y,E07000061,Eastbourne
+248,E60000238,Hastings LPA,Y,E07000062,Hastings
+249,E60000239,Lewes LPA,N,E07000063,Lewes
+250,E60000325,South Downs National Park LPA,Y,E07000063,Lewes
+251,E60000240,Rother LPA,Y,E07000064,Rother
+252,E60000241,Wealden LPA,N,E07000065,Wealden
+253,E60000325,South Downs National Park LPA,Y,E07000065,Wealden
+254,E60000154,Basildon LPA,Y,E07000066,Basildon
+255,E60000155,Braintree LPA,Y,E07000067,Braintree
+256,E60000156,Brentwood LPA,Y,E07000068,Brentwood
+257,E60000157,Castle Point LPA,Y,E07000069,Castle Point
+258,E60000158,Chelmsford LPA,Y,E07000070,Chelmsford
+259,E60000159,Colchester LPA,Y,E07000071,Colchester
+260,E60000160,Epping Forest LPA,Y,E07000072,Epping Forest
+261,E60000161,Harlow LPA,Y,E07000073,Harlow
+262,E60000162,Maldon LPA,Y,E07000074,Maldon
+263,E60000163,Rochford LPA,Y,E07000075,Rochford
+264,E60000164,Tendring LPA,Y,E07000076,Tendring
+265,E60000165,Uttlesford LPA,Y,E07000077,Uttlesford
+266,E60000308,Cheltenham LPA,Y,E07000078,Cheltenham
+267,E60000309,Cotswold LPA,Y,E07000079,Cotswold
+268,E60000310,Forest of Dean LPA,Y,E07000080,Forest of Dean
+269,E60000311,Gloucester LPA,Y,E07000081,Gloucester
+270,E60000312,Stroud LPA,Y,E07000082,Stroud
+271,E60000313,Tewkesbury LPA,Y,E07000083,Tewkesbury
+272,E60000242,Basingstoke and Deane LPA,Y,E07000084,Basingstoke and Deane
+273,E60000243,East Hampshire LPA,N,E07000085,East Hampshire
+274,E60000325,South Downs National Park LPA,Y,E07000085,East Hampshire
+275,E60000244,Eastleigh LPA,Y,E07000086,Eastleigh
+276,E60000245,Fareham LPA,Y,E07000087,Fareham
+277,E60000246,Gosport LPA,Y,E07000088,Gosport
+278,E60000247,Hart LPA,Y,E07000089,Hart
+279,E60000248,Havant LPA,Y,E07000090,Havant
+280,E60000249,New Forest LPA,N,E07000091,New Forest
+281,E60000321,New Forest National Park LPA,Y,E07000091,New Forest
+282,E60000250,Rushmoor LPA,Y,E07000092,Rushmoor
+283,E60000251,Test Valley LPA,N,E07000093,Test Valley
+284,E60000321,New Forest National Park LPA,Y,E07000093,Test Valley
+285,E60000252,Winchester LPA,N,E07000094,Winchester
+286,E60000325,South Downs National Park LPA,Y,E07000094,Winchester
+287,E60000166,Broxbourne LPA,Y,E07000095,Broxbourne
+288,E60000167,Dacorum LPA,Y,E07000096,Dacorum
+289,E60000169,Hertsmere LPA,Y,E07000098,Hertsmere
+290,E60000268,Vale of White Horse LPA,Y,E07000180,Vale of White Horse
+291,E60000229,Southampton LPA,Y,E06000045,Southampton
+292,E60000269,West Oxfordshire LPA,Y,E07000181,West Oxfordshire
+293,E60000279,Waverley LPA,Y,E07000216,Waverley
+294,E60000041,Preston LPA,Y,E07000123,Preston
+295,E60000201,Westminster LPA,Y,E09000033,Westminster
+296,E60000223,Isle of Wight LPA,Y,E06000046,Isle of Wight
+297,E60000314,Mendip LPA,Y,E07000187,Mendip
+298,E60000280,Woking LPA,Y,E07000217,Woking
+299,E60000042,Ribble Valley LPA,Y,E07000124,Ribble Valley
+300,N13000001,Antrim and Newtownabbey LPA,Y,N09000001,Antrim and Newtownabbey
+301,E60000001,County Durham LPA,Y,E06000047,County Durham
+302,E60000315,Sedgemoor LPA,Y,E07000188,Sedgemoor
+303,E60000125,North Warwickshire LPA,Y,E07000218,North Warwickshire
+304,E60000043,Rossendale LPA,Y,E07000125,Rossendale
+305,N13000012,Department for Infrastructure LPA,Y,N09000001,Antrim and Newtownabbey
+306,E60000015,Cheshire East LPA,N,E06000049,Cheshire East
+307,E60000324,Peak District National Park LPA,Y,E06000049,Cheshire East
+308,E60000016,Cheshire West and Chester LPA,Y,E06000050,Cheshire West and Chester
+309,E60000126,Nuneaton and Bedworth LPA,Y,E07000219,Nuneaton and Bedworth
+310,E60000044,South Ribble LPA,Y,E07000126,South Ribble
+311,E60000317,South Somerset LPA,Y,E07000189,South Somerset
+312,E60000127,Rugby LPA,Y,E07000220,Rugby
+313,E60000045,West Lancashire LPA,Y,E07000127,West Lancashire
+314,E60000117,Cannock Chase LPA,Y,E07000192,Cannock Chase
+315,E60000128,Stratford-on-Avon LPA,Y,E07000221,Stratford-on-Avon
+316,E60000046,Wyre LPA,Y,E07000128,Wyre
+317,E60000118,East Staffordshire LPA,Y,E07000193,East Staffordshire
+318,E60000129,Warwick LPA,Y,E07000222,Warwick
+319,E60000085,Blaby LPA,Y,E07000129,Blaby
+320,E60000119,Lichfield LPA,Y,E07000194,Lichfield
+321,E60000281,Adur LPA,N,E07000223,Adur
+322,E60000086,Charnwood LPA,Y,E07000130,Charnwood
+323,E60000120,Newcastle-under-Lyme LPA,Y,E07000195,Newcastle-under-Lyme
+324,E60000325,South Downs National Park LPA,Y,E07000223,Adur
+325,E60000087,Harborough LPA,Y,E07000131,Harborough
+326,E60000121,South Staffordshire LPA,Y,E07000196,South Staffordshire
+327,E60000282,Arun LPA,N,E07000224,Arun
+328,E60000088,Hinckley and Bosworth LPA,Y,E07000132,Hinckley and Bosworth
+329,E60000122,Stafford LPA,Y,E07000197,Stafford
+330,E60000325,South Downs National Park LPA,Y,E07000224,Arun
+331,E60000089,Melton LPA,Y,E07000133,Melton
+332,E60000123,Staffordshire Moorlands LPA,N,E07000198,Staffordshire Moorlands
+333,E60000283,Chichester LPA,N,E07000225,Chichester
+334,E60000090,North West Leicestershire LPA,Y,E07000134,North West Leicestershire
+335,E60000324,Peak District National Park LPA,Y,E07000198,Staffordshire Moorlands
+336,E60000325,South Downs National Park LPA,Y,E07000225,Chichester
+337,E60000091,Oadby and Wigston LPA,Y,E07000135,Oadby and Wigston
+338,E60000124,Tamworth LPA,Y,E07000199,Tamworth
+339,E60000284,Crawley LPA,Y,E07000226,Crawley
+340,E60000092,Boston LPA,Y,E07000136,Boston
+341,E60000183,Babergh LPA,Y,E07000200,Babergh
+342,E60000285,Horsham LPA,N,E07000227,Horsham
+343,E60000093,East Lindsey LPA,Y,E07000137,East Lindsey
+344,E60000325,South Downs National Park LPA,Y,E07000227,Horsham
+345,E60000094,Lincoln LPA,Y,E07000138,Lincoln
+346,E60000286,Mid Sussex LPA,N,E07000228,Mid Sussex
+347,E60000095,North Kesteven LPA,Y,E07000139,North Kesteven
+348,E60000325,South Downs National Park LPA,Y,E07000228,Mid Sussex
+349,E60000096,South Holland LPA,Y,E07000140,South Holland
+350,E60000287,Worthing LPA,N,E07000229,Worthing
+351,E60000097,South Kesteven LPA,Y,E07000141,South Kesteven
+352,E60000325,South Downs National Park LPA,Y,E07000229,Worthing
+353,E60000098,West Lindsey LPA,Y,E07000142,West Lindsey
+354,E60000137,Bromsgrove LPA,Y,E07000234,Bromsgrove
+355,E60000176,Breckland LPA,Y,E07000143,Breckland
+356,E60000138,Malvern Hills LPA,Y,E07000235,Malvern Hills
+357,E60000177,Broadland LPA,N,E07000144,Broadland
+358,E60000139,Redditch LPA,Y,E07000236,Redditch
+359,E60000326,The Broads Authority LPA,Y,E07000144,Broadland
+360,E60000140,Worcester LPA,Y,E07000237,Worcester
+361,E60000178,Great Yarmouth LPA,N,E07000145,Great Yarmouth
+362,E60000141,Wychavon LPA,Y,E07000238,Wychavon
+363,E60000326,The Broads Authority LPA,Y,E07000145,Great Yarmouth
+364,E60000179,Kingâs Lynn and West Norfolk LPA,Y,E07000146,King's Lynn and West Norfolk
+365,N13000003,"Armagh City, Banbridge and Craigavon LPA",Y,N09000002,"Armagh City, Banbridge and Craigavon"
+366,E60000142,Wyre Forest LPA,Y,E07000239,Wyre Forest
+367,E60000171,St Albans LPA,Y,E07000240,St Albans
+368,E60000175,Welwyn Hatfield LPA,Y,E07000241,Welwyn Hatfield
+369,E60000168,East Hertfordshire LPA,Y,E07000242,East Hertfordshire
+370,E60000172,Stevenage LPA,Y,E07000243,Stevenage
+371,E60000184,East Suffolk LPA,N,E07000244,East Suffolk
+372,E60000326,The Broads Authority LPA,Y,E07000244,East Suffolk
+373,E60000187,West Suffolk LPA,Y,E07000245,West Suffolk
+374,E60000316,Somerset West and Taunton LPA,N,E07000246,Somerset West and Taunton
+375,E60000319,Exmoor National Park LPA,Y,E07000246,Somerset West and Taunton
+376,E60000025,Bolton LPA,Y,E08000001,Bolton
+377,E60000026,Bury LPA,Y,E08000002,Bury
+378,E60000027,Manchester LPA,Y,E08000003,Manchester
+379,E60000028,Oldham LPA,N,E08000004,Oldham
+380,N13000012,Department for Infrastructure LPA,Y,N09000002,"Armagh City, Banbridge and Craigavon"
+381,N13000004,Belfast LPA,Y,N09000003,Belfast
+382,N13000012,Department for Infrastructure LPA,Y,N09000003,Belfast
+383,N13000005,Causeway Coast and Glens LPA,Y,N09000004,Causeway Coast and Glens
+384,N13000012,Department for Infrastructure LPA,Y,N09000004,Causeway Coast and Glens
+385,N13000006,Derry City and Strabane LPA,Y,N09000005,Derry City and Strabane
+386,N13000012,Department for Infrastructure LPA,Y,N09000005,Derry City and Strabane
+387,N13000007,Fermanagh and Omagh LPA,Y,N09000006,Fermanagh and Omagh
+388,N13000012,Department for Infrastructure LPA,Y,N09000006,Fermanagh and Omagh
+389,N13000008,Lisburn and Castlereagh LPA,Y,N09000007,Lisburn and Castlereagh
+390,N13000012,Department for Infrastructure LPA,Y,N09000007,Lisburn and Castlereagh
+391,N13000009,Mid and East Antrim LPA,Y,N09000008,Mid and East Antrim
+392,N13000012,Department for Infrastructure LPA,Y,N09000008,Mid and East Antrim
+393,N13000010,Mid Ulster LPA,Y,N09000009,Mid Ulster
+394,N13000012,Department for Infrastructure LPA,Y,N09000009,Mid Ulster
+395,N13000011,"Newry, Mourne and Down LPA",Y,N09000010,"Newry, Mourne and Down"
+396,N13000012,Department for Infrastructure LPA,Y,N09000010,"Newry, Mourne and Down"
+397,N13000002,Ards and North Down LPA,Y,N09000011,Ards and North Down
+398,N13000012,Department for Infrastructure LPA,Y,N09000011,Ards and North Down
+399,S44000006,Clackmannanshire LPA,Y,S12000005,Clackmannanshire
+400,S44000007,Dumfries and Galloway LPA,Y,S12000006,Dumfries and Galloway
+401,S44000009,East Ayrshire LPA,Y,S12000008,East Ayrshire
+402,S44000011,East Lothian LPA,Y,S12000010,East Lothian
+403,S44000012,East Renfrewshire LPA,Y,S12000011,East Renfrewshire
+404,S44000020,Na h-Eileanan Siar LPA,Y,S12000013,Na h-Eileanan Siar
+405,S44000013,Falkirk LPA,Y,S12000014,Falkirk
+406,S44000016,Highland LPA,N,S12000017,Highland
+407,S44000031,The Cairngorms National Park LPA,Y,S12000017,Highland
+408,S44000017,Inverclyde LPA,Y,S12000018,Inverclyde
+409,S44000018,Midlothian LPA,Y,S12000019,Midlothian
+410,S44000019,Moray LPA,N,S12000020,Moray
+411,S44000031,The Cairngorms National Park LPA,Y,S12000020,Moray
+412,S44000021,North Ayrshire LPA,Y,S12000021,North Ayrshire
+413,S44000023,Orkney Islands LPA,Y,S12000023,Orkney Islands
+414,S44000026,Scottish Borders LPA,Y,S12000026,Scottish Borders
+415,S44000027,Shetland Islands LPA,Y,S12000027,Shetland Islands
+416,S44000028,South Ayrshire LPA,Y,S12000028,South Ayrshire
+417,S44000029,South Lanarkshire LPA,Y,S12000029,South Lanarkshire
+418,S44000030,Stirling LPA,N,S12000030,Stirling
+419,S44000032,The Loch Lomond and the Trossachs National Park LPA,Y,S12000030,Stirling
+420,S44000001,Aberdeen City LPA,Y,S12000033,Aberdeen City
+421,S44000002,Aberdeenshire LPA,N,S12000034,Aberdeenshire
+422,S44000031,The Cairngorms National Park LPA,Y,S12000034,Aberdeenshire
+423,S44000004,Argyll and Bute LPA,N,S12000035,Argyll and Bute
+424,S44000032,The Loch Lomond and the Trossachs National Park LPA,Y,S12000035,Argyll and Bute
+425,S44000005,City of Edinburgh LPA,Y,S12000036,City of Edinburgh
+426,S44000025,Renfrewshire LPA,Y,S12000038,Renfrewshire
+427,S44000032,The Loch Lomond and the Trossachs National Park LPA,Y,S12000039,West Dunbartonshire
+428,S44000033,West Dunbartonshire LPA,N,S12000039,West Dunbartonshire
+429,S44000034,West Lothian LPA,Y,S12000040,West Lothian
+430,S44000003,Angus LPA,N,S12000041,Angus
+431,S44000031,The Cairngorms National Park LPA,Y,S12000041,Angus
+432,S44000008,Dundee City LPA,Y,S12000042,Dundee City
+433,S44000010,East Dunbartonshire LPA,Y,S12000045,East Dunbartonshire
+434,S44000014,Fife LPA,Y,S12000047,Fife
+435,S44000024,Perth and Kinross LPA,N,S12000048,Perth and Kinross
+436,S44000031,The Cairngorms National Park LPA,Y,S12000048,Perth and Kinross
+437,S44000032,The Loch Lomond and the Trossachs National Park LPA,Y,S12000048,Perth and Kinross
+438,S44000015,Glasgow City LPA,Y,S12000049,Glasgow City
+439,S44000022,North Lanarkshire LPA,Y,S12000050,North Lanarkshire
+440,W43000001,Isle of Anglesey LPA,Y,W06000001,Isle of Anglesey
+441,W43000002,Gwynedd LPA,N,W06000002,Gwynedd
+442,W43000003,Snowdonia National Park LPA,Y,W06000002,Gwynedd
+443,W43000003,Snowdonia National Park LPA,Y,W06000003,Conwy
+444,W43000004,Conwy LPA,N,W06000003,Conwy
+445,W43000005,Denbighshire LPA,Y,W06000004,Denbighshire
+446,W43000006,Flintshire LPA,Y,W06000005,Flintshire
+447,W43000007,Wrexham LPA,Y,W06000006,Wrexham
+448,W43000009,Ceredigion LPA,Y,W06000008,Ceredigion
+449,W43000010,Pembrokeshire Coast National Park LPA,Y,W06000009,Pembrokeshire
+450,W43000011,Pembrokeshire LPA,N,W06000009,Pembrokeshire
+451,W43000012,Carmarthenshire LPA,N,W06000010,Carmarthenshire
+452,W43000013,Brecon Beacons National Park LPA,Y,W06000010,Carmarthenshire
+453,W43000014,Swansea LPA,Y,W06000011,Swansea
+454,W43000015,Neath Port Talbot LPA,Y,W06000012,Neath Port Talbot
+455,W43000016,Bridgend LPA,Y,W06000013,Bridgend
+456,W43000017,Vale of Glamorgan LPA,Y,W06000014,Vale of Glamorgan
+457,W43000018,Cardiff LPA,Y,W06000015,Cardiff
+458,W43000013,Brecon Beacons National Park LPA,Y,W06000016,Rhondda Cynon Taf
+459,W43000019,Rhondda Cynon Taf LPA,N,W06000016,Rhondda Cynon Taf
+460,W43000021,Caerphilly LPA,Y,W06000018,Caerphilly
+461,W43000013,Brecon Beacons National Park LPA,Y,W06000019,Blaenau Gwent
+462,W43000022,Blaenau Gwent LPA,N,W06000019,Blaenau Gwent
+463,W43000013,Brecon Beacons National Park LPA,Y,W06000020,Torfaen
+464,W43000023,Torfaen LPA,N,W06000020,Torfaen
+465,W43000013,Brecon Beacons National Park LPA,Y,W06000021,Monmouthshire
+466,W43000024,Monmouthshire LPA,N,W06000021,Monmouthshire
+467,W43000025,Newport LPA,Y,W06000022,Newport
+468,W43000008,Powys LPA,N,W06000023,Powys
+469,W43000013,Brecon Beacons National Park LPA,Y,W06000023,Powys
+470,W43000013,Brecon Beacons National Park LPA,Y,W06000024,Merthyr Tydfil
+471,W43000020,Merthyr Tydfil LPA,N,W06000024,Merthyr Tydfil

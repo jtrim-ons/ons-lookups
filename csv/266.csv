@@ -1,0 +1,174 @@
+FID,REGD19CD,REGD19NM
+1,E28000065,Camden
+2,E28000066,Southwark
+3,E28000067,Sutton
+4,E28000068,Waltham Forest
+5,E28000069,Wandsworth
+6,E28000070,Newham
+7,E28000071,Westminster
+8,E28000072,Hammersmith and Fulham
+9,E28000073,Bath and North East Somerset
+10,E28000074,Bristol
+11,E28000075,South Gloucestershire
+12,E28000076,North Somerset
+13,E28000078,Luton
+14,E28000079,Bracknell Forest
+15,E28000080,West Berkshire
+16,E28000081,Reading
+17,E28000082,Slough
+18,E28000083,Windsor and Maidenhead
+19,E28000084,Wokingham
+20,E28000085,Milton Keynes
+21,E28000086,Buckinghamshire
+22,E28000087,Peterborough
+23,E28000088,Cambridgeshire
+24,E28000089,Halton
+25,E28000090,Warrington
+26,E28000092,Middlesbrough
+27,E28000093,Redcar and Cleveland
+28,E28000094,Stockton-on-Tees
+29,E28000095,Hartlepool
+30,E28000001,Bolton
+31,E28000096,Isles of Scilly
+32,E28000097,Cornwall
+33,E28000111,Derby
+34,E28000002,Bury
+35,E28000003,Manchester
+36,E28000115,Plymouth
+37,E28000116,Torbay
+38,E28000004,Oldham
+39,E28000117,Devon
+40,E28000121,Darlington
+41,E28000005,Rochdale
+42,E28000006,Salford
+43,E28000122,County of Durham
+44,E28000123,Brighton and Hove
+45,E28000007,Stockport
+46,E28000008,Tameside
+47,E28000124,East Sussex
+48,E28000132,Southend-on-Sea
+49,E28000009,Trafford
+50,E28000010,Wigan and Leigh
+51,E28000133,Thurrock
+52,E28000135,Gloucestershire
+53,E28000011,Knowsley
+54,E28000012,Liverpool
+55,E28000136,Portsmouth
+56,E28000137,Southampton
+57,E28000013,St. Helens
+58,E28000016,Wirral
+59,E28000138,Hampshire
+60,E28000139,Herefordshire
+61,E28000152,Leicester
+62,E28000017,Barnsley
+63,E28000018,Doncaster
+64,E28000140,Worcestershire
+65,E28000153,Rutland
+66,E28000141,Hertfordshire
+67,E28000019,Rotherham
+68,E28000154,Leicestershire
+69,E28000142,East Riding of Yorkshire
+70,E28000020,Sheffield
+71,E28000155,Lincolnshire
+72,E28000143,North-East Lincolnshire
+73,E28000021,Gateshead
+74,E28000165,North Yorkshire
+75,E28000144,Hull
+76,E28000022,Newcastle upon Tyne
+77,E28000166,York
+78,E28000145,North Lincolnshire
+79,E28000023,North Tyneside
+80,E28000174,Northumberland
+81,E28000146,Isle of Wight
+82,E28000024,South Tyneside
+83,E28000179,Nottingham
+84,E28000147,Medway
+85,E28000025,Sunderland
+86,E28000181,Oxfordshire
+87,E28000148,Kent
+88,E28000026,Birmingham
+89,E28000182,Telford and Wrekin
+90,E28000149,Blackburn with Darwen
+91,E28000027,Coventry
+92,E28000183,Shropshire
+93,E28000150,Blackpool
+94,E28000028,Dudley
+95,E28000184,Somerset
+96,E28000151,Lancashire
+97,E28000029,Sandwell
+98,E28000185,Stoke-on-Trent
+99,E28000030,Solihull
+100,E28000186,Staffordshire
+101,E28000193,Surrey
+102,E28000031,Walsall
+103,E28000032,Wolverhampton
+104,E28000202,Swindon
+105,E28000203,Wiltshire
+106,E28000033,Bradford and Keighley
+107,E28000034,Calderdale
+108,E28000204,Bedford
+109,E28000205,Central Bedfordshire
+110,E28000037,Leeds
+111,E28000040,Barking and Dagenham
+112,E28000206,Cheshire East
+113,E28000041,Barnet
+114,E28000207,Cheshire West and Chester
+115,E28000208,Wakefield
+116,E28000209,Warwickshire
+117,E28000210,Essex
+118,E28000211,West Sussex
+119,E28000212,Northamptonshire
+120,E28000213,Suffolk
+121,E28000214,Norfolk
+122,E28000215,Sefton
+123,E28000216,Cumbria
+124,E28000217,Nottinghamshire
+125,E28000218,Kirklees
+126,E28000219,Derbyshire
+127,E28000220,"Bournemouth, Christchurch and Poole"
+128,E28000221,Dorset
+129,W20000001,Flintshire/Sir Y Fflint
+130,W20000004,Wrexham
+131,W20000008,Pembrokeshire
+132,W20000009,Carmarthenshire/Sir Gaerfyrddin
+133,W20000010,Blaenau Gwent
+134,W20000011,Newport
+135,W20000012,Torfaen
+136,W20000013,Monmouthshire/Sir Fynwy
+137,W20000018,Conwy
+138,W20000021,Ynys Mon (Isle of Anglesey)
+139,W20000022,Merthyr Tydfil/Merthyr Tudful
+140,W20000023,Bridgend
+141,W20000024,Caerphilly
+142,W20000025,Rhondda Cynon Taf
+143,W20000034,Cardiff/Caerdydd
+144,W20000035,Vale of Glamorgan/Bro Morgannwg
+145,W20000036,Neath Port Talbot
+146,W20000037,Swansea
+147,W20000038,Powys
+148,W20000039,Gwynedd
+149,W20000040,Ceredigion
+150,W20000041,Denbighshire/Sir Ddinbych
+151,E28000042,Bexley
+152,E28000043,Brent
+153,E28000044,Bromley
+154,E28000045,Croydon
+155,E28000046,Ealing
+156,E28000047,Enfield
+157,E28000048,Greenwich
+158,E28000049,Hackney
+159,E28000050,Harrow
+160,E28000051,Haringey
+161,E28000052,Havering
+162,E28000053,Hillingdon
+163,E28000054,Hounslow
+164,E28000055,Islington
+165,E28000056,Kensington and Chelsea
+166,E28000057,Kingston upon Thames
+167,E28000058,Lambeth
+168,E28000059,Lewisham
+169,E28000060,London City
+170,E28000061,Merton
+171,E28000062,Tower Hamlets
+172,E28000063,Redbridge
+173,E28000064,Richmond upon Thames

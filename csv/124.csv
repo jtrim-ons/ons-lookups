@@ -1,0 +1,1713 @@
+BUASD11CD,BUASD11NM,RGN11CD,RGN11NM,RGN11NMW,WHOLE_PART,FID
+E35000001,Sibford Ferris BUASD,E12000008,South East,,Whole,1
+E35000002,Redcar BUASD,E12000001,North East,,Whole,2
+E35000003,Kidderminster BUASD,E12000005,West Midlands,,Whole,3
+E35000004,Chadderton BUASD,E12000002,North West,,Whole,4
+E35000005,Colyton BUASD,E12000009,South West,,Whole,5
+E35000006,Longbenton BUASD,E12000001,North East,,Whole,6
+E35000007,Elsenham BUASD,E12000006,East of England,,Whole,7
+E35000008,Trowse Newton BUASD,E12000006,East of England,,Whole,8
+E35000009,Mabe Burnthouse BUASD,E12000009,South West,,Whole,9
+E35000010,Sutton BUASD,E12000007,London,,Part,10
+E35000010,Sutton BUASD,E12000008,South East,,Part,11
+E35000011,Hatton BUASD,E12000004,East Midlands,,Whole,12
+E35000012,Watford BUASD,E12000006,East of England,,Whole,13
+E35000013,Stevenage BUASD,E12000006,East of England,,Whole,14
+E35000014,Farcet BUASD,E12000006,East of England,,Whole,15
+E35000015,Ramsbottom BUASD,E12000002,North West,,Whole,16
+E35000016,Bradenstoke BUASD,E12000009,South West,,Whole,17
+E35000017,Queniborough BUASD,E12000004,East Midlands,,Whole,18
+E35000018,Collingham BUASD,E12000003,Yorkshire and The Humber,,Whole,19
+E35000019,Breadsall BUASD,E12000004,East Midlands,,Whole,20
+E35000020,Tidbury Green BUASD,E12000005,West Midlands,,Whole,21
+E35000021,Holmfirth BUASD,E12000003,Yorkshire and The Humber,,Whole,22
+E35000022,North Benfleet BUASD,E12000006,East of England,,Whole,23
+E35000023,Barrow Hill BUASD,E12000004,East Midlands,,Whole,24
+E35000024,Shalmsford Street BUASD,E12000008,South East,,Whole,25
+E35000025,Feering BUASD,E12000006,East of England,,Whole,26
+E35000026,Eye Green BUASD,E12000006,East of England,,Whole,27
+E35000027,Chalford BUASD,E12000009,South West,,Whole,28
+E35000028,Brundall BUASD,E12000006,East of England,,Whole,29
+E35000029,Wanborough BUASD,E12000009,South West,,Whole,30
+E35000031,Copster Green BUASD,E12000002,North West,,Whole,31
+E35000032,Church BUASD,E12000002,North West,,Whole,32
+E35000033,Bentley BUASD,E12000003,Yorkshire and The Humber,,Whole,33
+E35000034,Drax BUASD,E12000003,Yorkshire and The Humber,,Whole,34
+E35000035,Wednesbury BUASD,E12000005,West Midlands,,Whole,35
+E35000036,Bursledon BUASD,E12000008,South East,,Whole,36
+E35000037,Hyde (Tameside) BUASD,E12000002,North West,,Whole,37
+E35000038,Kilburn BUASD,E12000004,East Midlands,,Whole,38
+E35000039,Swanland BUASD,E12000003,Yorkshire and The Humber,,Whole,39
+E35000040,Ironville BUASD,E12000004,East Midlands,,Whole,40
+E35000041,Sedbury BUASD,E12000009,South West,,Whole,41
+E35000042,Clayton-le-Moors BUASD,E12000002,North West,,Whole,42
+E35000043,Birstall BUASD,E12000004,East Midlands,,Whole,43
+E35000044,Urmston BUASD,E12000002,North West,,Whole,44
+E35000045,Littlewick Green BUASD,E12000008,South East,,Whole,45
+E35000046,Billington BUASD,E12000002,North West,,Whole,46
+E35000047,Midhurst BUASD,E12000008,South East,,Whole,47
+E35000048,Elmbridge Village BUASD,E12000008,South East,,Whole,48
+E35000049,Lingwood BUASD,E12000006,East of England,,Whole,49
+E35000050,Poynton BUASD,E12000002,North West,,Whole,50
+E35000200,Wargrave BUASD,E12000008,South East,,Whole,51
+E35000201,Lynemouth BUASD,E12000001,North East,,Whole,52
+E35000202,Pelton BUASD,E12000001,North East,,Whole,53
+E35000203,Rothwell BUASD,E12000003,Yorkshire and The Humber,,Whole,54
+E35000204,Althorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,55
+E35000205,Coldfair Green BUASD,E12000006,East of England,,Whole,56
+E35000206,Reepham BUASD,E12000004,East Midlands,,Whole,57
+E35000207,Aldershot BUASD,E12000008,South East,,Whole,58
+E35000208,Ovingham BUASD,E12000001,North East,,Whole,59
+E35000209,Puriton BUASD,E12000009,South West,,Whole,60
+E35000210,Long Duckmanton BUASD,E12000004,East Midlands,,Whole,61
+E35000211,Sibford Gower BUASD,E12000008,South East,,Whole,62
+E35000212,Weldon BUASD,E12000004,East Midlands,,Whole,63
+E35000213,Hale (New Forest) BUASD,E12000008,South East,,Whole,64
+E35000214,Weeley BUASD,E12000006,East of England,,Whole,65
+E35000215,Old Arley BUASD,E12000005,West Midlands,,Whole,66
+E35000216,Cradley BUASD,E12000005,West Midlands,,Whole,67
+E35000217,Netherne On-The-Hill BUASD,E12000008,South East,,Whole,68
+E35000218,Dunstable BUASD,E12000006,East of England,,Whole,69
+E35000219,Trimley St Mary BUASD,E12000006,East of England,,Whole,70
+E35000220,Braunton BUASD,E12000009,South West,,Whole,71
+E35000221,Warden BUASD,E12000008,South East,,Whole,72
+E35000222,Great Chishill BUASD,E12000006,East of England,,Whole,73
+E35000223,Marldon BUASD,E12000009,South West,,Whole,74
+E35000224,Hazel Grove BUASD,E12000002,North West,,Whole,75
+E35000225,Northfleet BUASD,E12000008,South East,,Whole,76
+E35000226,Betchworth BUASD,E12000008,South East,,Whole,77
+E35000227,Fen End BUASD,E12000005,West Midlands,,Whole,78
+E35000228,Halton BUASD,E12000008,South East,,Whole,79
+E35000229,New Milton BUASD,E12000008,South East,,Whole,80
+E35000230,Heckmondwike BUASD,E12000003,Yorkshire and The Humber,,Whole,81
+E35000231,Dormansland BUASD,E12000008,South East,,Whole,82
+E35000232,Chew Moor BUASD,E12000002,North West,,Whole,83
+E35000233,Ottershaw BUASD,E12000008,South East,,Whole,84
+E35000234,Caldecote BUASD,E12000006,East of England,,Whole,85
+E35000235,Brookwood BUASD,E12000008,South East,,Whole,86
+E35000236,Ashtead BUASD,E12000008,South East,,Whole,87
+E35000237,Fradley BUASD,E12000005,West Midlands,,Whole,88
+E35000238,Southam BUASD,E12000009,South West,,Whole,89
+E35000239,Wyke BUASD,E12000008,South East,,Whole,90
+E35000240,Middleton (Ryedale) BUASD,E12000003,Yorkshire and The Humber,,Whole,91
+E35000241,The Sands BUASD,E12000008,South East,,Whole,92
+E35000242,St Day BUASD,E12000009,South West,,Whole,93
+E35000243,Altrincham BUASD,E12000002,North West,,Whole,94
+E35000244,Moulsford BUASD,E12000008,South East,,Whole,95
+E35000245,Cleadon BUASD,E12000001,North East,,Whole,96
+E35000246,Hullbridge BUASD,E12000006,East of England,,Whole,97
+E35000247,Bilston BUASD,E12000005,West Midlands,,Whole,98
+E35000248,Woodbridge BUASD,E12000006,East of England,,Whole,99
+E35000249,Bramford BUASD,E12000006,East of England,,Whole,100
+E35000250,Steeton BUASD,E12000003,Yorkshire and The Humber,,Whole,101
+E35000251,Winchester BUASD,E12000008,South East,,Whole,102
+E35000252,Histon BUASD,E12000006,East of England,,Whole,103
+E35000253,Chelwood Gate BUASD,E12000008,South East,,Whole,104
+E35000254,Denton BUASD,E12000002,North West,,Whole,105
+E35000255,Plymstock BUASD,E12000009,South West,,Whole,106
+E35000256,Ash BUASD,E12000008,South East,,Whole,107
+E35000257,Irlam BUASD,E12000002,North West,,Whole,108
+E35000258,Bedworth BUASD,E12000005,West Midlands,,Whole,109
+E35000259,Southwell BUASD,E12000009,South West,,Whole,110
+E35000260,Brighton and Hove BUASD,E12000008,South East,,Whole,111
+E35000261,Grayswood BUASD,E12000008,South East,,Whole,112
+E35000262,Whickham BUASD,E12000001,North East,,Whole,113
+E35000263,Lostock Gralam BUASD,E12000002,North West,,Whole,114
+E35000264,Eastchurch BUASD,E12000008,South East,,Whole,115
+E35000265,Sunniside BUASD,E12000001,North East,,Whole,116
+E35000266,Tutts Clump BUASD,E12000008,South East,,Whole,117
+E35000267,Kirkby-in-Ashfield BUASD,E12000004,East Midlands,,Whole,118
+E35000268,Yatton BUASD,E12000009,South West,,Whole,119
+E35000269,Woodham Ferrers BUASD,E12000006,East of England,,Whole,120
+E35000270,Denby Bottles BUASD,E12000004,East Midlands,,Whole,121
+E35000271,North Littleton BUASD,E12000005,West Midlands,,Whole,122
+E35000272,Lower Langford BUASD,E12000009,South West,,Whole,123
+E35000273,Campton BUASD,E12000006,East of England,,Whole,124
+E35000274,Buckfastleigh BUASD,E12000009,South West,,Whole,125
+E35000275,Abbotts Ann BUASD,E12000008,South East,,Whole,126
+E35000276,Tickton BUASD,E12000003,Yorkshire and The Humber,,Whole,127
+E35000277,Middleton (Rochdale) BUASD,E12000002,North West,,Whole,128
+E35000278,Swinton BUASD,E12000002,North West,,Whole,129
+E35000279,Sandhurst BUASD,E12000008,South East,,Whole,130
+E35000280,St Austell BUASD,E12000009,South West,,Whole,131
+E35000281,Swallownest BUASD,E12000003,Yorkshire and The Humber,,Whole,132
+E35000282,Stoke Poges BUASD,E12000008,South East,,Whole,133
+E35000283,Streatley BUASD,E12000008,South East,,Whole,134
+E35000284,Dudley (Dudley) BUASD,E12000005,West Midlands,,Whole,135
+E35000285,Reydon BUASD,E12000006,East of England,,Whole,136
+E35000286,Charlton Mackrell BUASD,E12000009,South West,,Whole,137
+E35000287,Finchampstead BUASD,E12000008,South East,,Whole,138
+E35000288,Pilsley BUASD,E12000004,East Midlands,,Whole,139
+E35000289,Great Harwood BUASD,E12000002,North West,,Whole,140
+E35000290,Witton Gilbert BUASD,E12000001,North East,,Whole,141
+E35000291,Tintwistle BUASD,E12000004,East Midlands,,Whole,142
+E35000292,Clayton West BUASD,E12000003,Yorkshire and The Humber,,Whole,143
+E35000293,Potten End BUASD,E12000006,East of England,,Whole,144
+E35000294,Groby BUASD,E12000004,East Midlands,,Whole,145
+E35000295,Knottingley BUASD,E12000003,Yorkshire and The Humber,,Whole,146
+E35000296,Stowupland BUASD,E12000006,East of England,,Whole,147
+E35000297,Cullompton BUASD,E12000009,South West,,Whole,148
+E35000298,Wednesfield BUASD,E12000005,West Midlands,,Whole,149
+E35000299,Stoke Ferry BUASD,E12000006,East of England,,Whole,150
+E35000101,Fence Houses BUASD,E12000001,North East,,Whole,151
+E35000102,Gastard BUASD,E12000009,South West,,Whole,152
+E35000103,Cliffe BUASD,E12000003,Yorkshire and The Humber,,Whole,153
+E35000104,Ware BUASD,E12000006,East of England,,Whole,154
+E35000105,Itchen Abbas BUASD,E12000008,South East,,Whole,155
+E35000106,Northam BUASD,E12000009,South West,,Whole,156
+E35000107,Walton BUASD,E12000003,Yorkshire and The Humber,,Whole,157
+E35000108,Farnborough BUASD,E12000008,South East,,Whole,158
+E35000109,Clutton BUASD,E12000009,South West,,Whole,159
+E35000110,Rowhedge BUASD,E12000006,East of England,,Whole,160
+E35000111,Fordingbridge BUASD,E12000008,South East,,Whole,161
+E35000112,Birdwell BUASD,E12000003,Yorkshire and The Humber,,Whole,162
+E35000113,Great Corby BUASD,E12000002,North West,,Whole,163
+E35000114,Baldock BUASD,E12000006,East of England,,Whole,164
+E35000115,Letchworth Garden City BUASD,E12000006,East of England,,Whole,165
+E35000116,Nether Padley BUASD,E12000004,East Midlands,,Whole,166
+E35000117,Lower Farringdon BUASD,E12000008,South East,,Whole,167
+E35000118,Worsthorne BUASD,E12000002,North West,,Whole,168
+E35000119,Goosnargh BUASD,E12000002,North West,,Whole,169
+E35000120,Chorley BUASD,E12000002,North West,,Whole,170
+E35000121,Guiseley BUASD,E12000003,Yorkshire and The Humber,,Whole,171
+E35000122,Waverton BUASD,E12000002,North West,,Whole,172
+E35000123,Sharpthorne BUASD,E12000008,South East,,Whole,173
+E35000124,Mundford BUASD,E12000006,East of England,,Whole,174
+E35000125,Maidenhead BUASD,E12000008,South East,,Whole,175
+E35000126,Fishbourne BUASD,E12000008,South East,,Whole,176
+E35000127,Little Shelford BUASD,E12000006,East of England,,Whole,177
+E35000128,New Longton BUASD,E12000002,North West,,Whole,178
+E35000129,Hartley (Tunbridge Wells) BUASD,E12000008,South East,,Whole,179
+E35000130,Perranporth BUASD,E12000009,South West,,Whole,180
+E35000131,Basingstoke BUASD,E12000008,South East,,Whole,181
+E35000132,Causeway End BUASD,E12000006,East of England,,Whole,182
+E35000133,Chipping Campden BUASD,E12000009,South West,,Whole,183
+E35000134,Little Irchester BUASD,E12000004,East Midlands,,Whole,184
+E35000135,Swanley BUASD,E12000008,South East,,Whole,185
+E35000136,Horwich BUASD,E12000002,North West,,Whole,186
+E35000137,Thornton (Wyre) BUASD,E12000002,North West,,Whole,187
+E35000138,Ruddington BUASD,E12000004,East Midlands,,Whole,188
+E35000139,Minster (Thanet) BUASD,E12000008,South East,,Whole,189
+E35000140,Westfield BUASD,E12000005,West Midlands,,Whole,190
+E35000141,Chorleywood BUASD,E12000006,East of England,,Whole,191
+E35000142,Shevington Vale BUASD,E12000002,North West,,Whole,192
+E35000143,South Harting BUASD,E12000008,South East,,Whole,193
+E35000144,Hemingford Grey BUASD,E12000006,East of England,,Whole,194
+E35000145,Broadmayne BUASD,E12000009,South West,,Whole,195
+E35000146,Hedon BUASD,E12000003,Yorkshire and The Humber,,Whole,196
+E35000147,Newlyn BUASD,E12000009,South West,,Whole,197
+E35000148,Worthing BUASD,E12000008,South East,,Whole,198
+E35000149,Hackleton BUASD,E12000004,East Midlands,,Whole,199
+E35000150,Hipsburn BUASD,E12000001,North East,,Whole,200
+E35000051,York BUASD,E12000003,Yorkshire and The Humber,,Whole,201
+E35000151,Eye (City of Peterborough) BUASD,E12000006,East of England,,Whole,202
+E35000052,Hindley BUASD,E12000002,North West,,Whole,203
+E35000053,Stretton BUASD,E12000004,East Midlands,,Whole,204
+E35000054,Claydon BUASD,E12000006,East of England,,Whole,205
+E35000055,Horspath BUASD,E12000008,South East,,Whole,206
+E35000056,Duffield BUASD,E12000004,East Midlands,,Whole,207
+E35000057,Innsworth BUASD,E12000009,South West,,Whole,208
+E35000058,Lewisham BUASD,E12000007,London,,Whole,209
+E35000152,Tiptoe BUASD,E12000008,South East,,Whole,210
+E35000059,Yarmouth BUASD,E12000008,South East,,Whole,211
+E35000153,Saltdean BUASD,E12000008,South East,,Whole,212
+E35000060,Bicknacre BUASD,E12000006,East of England,,Whole,213
+E35000154,Great Blakenham BUASD,E12000006,East of England,,Whole,214
+E35000061,Leeming Bar BUASD,E12000003,Yorkshire and The Humber,,Whole,215
+E35000155,Crockenhill BUASD,E12000008,South East,,Whole,216
+E35000062,New Hartley BUASD,E12000001,North East,,Whole,217
+E35000156,Bottom Boat BUASD,E12000003,Yorkshire and The Humber,,Whole,218
+E35000063,Hill Dale BUASD,E12000002,North West,,Whole,219
+E35000157,Romiley BUASD,E12000002,North West,,Whole,220
+E35000064,Uppermill BUASD,E12000002,North West,,Whole,221
+E35000158,Clifton (City of Nottingham) BUASD,E12000004,East Midlands,,Whole,222
+E35000065,Shaldon BUASD,E12000009,South West,,Whole,223
+E35000159,South Elmsall BUASD,E12000003,Yorkshire and The Humber,,Whole,224
+E35000066,Great Knowley BUASD,E12000002,North West,,Whole,225
+E35000160,Bignall End BUASD,E12000005,West Midlands,,Whole,226
+E35000161,Lambeth BUASD,E12000007,London,,Whole,227
+E35000162,Wretton BUASD,E12000006,East of England,,Whole,228
+E35000163,Nutley BUASD,E12000008,South East,,Whole,229
+E35000164,Cheswick Green BUASD,E12000005,West Midlands,,Whole,230
+E35000165,Hutton Rudby BUASD,E12000003,Yorkshire and The Humber,,Whole,231
+E35000166,Ashton-in-Makerfield BUASD,E12000002,North West,,Whole,232
+E35000167,Dunholme BUASD,E12000004,East Midlands,,Whole,233
+E35000168,Islington BUASD,E12000007,London,,Whole,234
+E35000169,Frinton-on-Sea BUASD,E12000006,East of England,,Whole,235
+E35000170,Prescot BUASD,E12000002,North West,,Whole,236
+E35000171,Devoran BUASD,E12000009,South West,,Whole,237
+E35000172,Morgan's Vale BUASD,E12000008,South East,,Part,238
+E35000172,Morgan's Vale BUASD,E12000009,South West,,Part,239
+E35000173,Sale BUASD,E12000002,North West,,Whole,240
+E35000174,Barnt Green BUASD,E12000005,West Midlands,,Whole,241
+E35000175,South Kirkby BUASD,E12000003,Yorkshire and The Humber,,Whole,242
+E35000176,Hartfield BUASD,E12000008,South East,,Whole,243
+E35000177,South Horrington BUASD,E12000009,South West,,Whole,244
+E35000178,Compton BUASD,E12000008,South East,,Whole,245
+E35000179,Barnby Dun BUASD,E12000003,Yorkshire and The Humber,,Whole,246
+E35000180,Botley (Chiltern) BUASD,E12000008,South East,,Whole,247
+E35000181,Eccles BUASD,E12000002,North West,,Whole,248
+E35000182,Welton BUASD,E12000004,East Midlands,,Whole,249
+E35000183,Cottingham BUASD,E12000003,Yorkshire and The Humber,,Whole,250
+E35000184,Grain BUASD,E12000008,South East,,Whole,251
+E35000185,Blunsdon St Andrew BUASD,E12000009,South West,,Whole,252
+E35000186,Distington BUASD,E12000002,North West,,Whole,253
+E35000187,Newburgh BUASD,E12000002,North West,,Whole,254
+E35000188,Ramsden Heath BUASD,E12000006,East of England,,Whole,255
+E35000189,Ruddington Grange BUASD,E12000004,East Midlands,,Whole,256
+E35000190,Sunningwell BUASD,E12000008,South East,,Whole,257
+E35000191,Dewsbury BUASD,E12000003,Yorkshire and The Humber,,Whole,258
+E35000192,Flax Bourton BUASD,E12000009,South West,,Whole,259
+E35000193,Syston BUASD,E12000004,East Midlands,,Whole,260
+E35000194,Morley BUASD,E12000003,Yorkshire and The Humber,,Whole,261
+E35000195,Bickershaw BUASD,E12000002,North West,,Whole,262
+E35000196,Staining BUASD,E12000002,North West,,Whole,263
+E35000197,Lyneham Airfield BUASD,E12000009,South West,,Whole,264
+E35000198,Gillingham BUASD,E12000008,South East,,Whole,265
+E35000199,Tollerton BUASD,E12000004,East Midlands,,Whole,266
+E35000349,Balderton BUASD,E12000004,East Midlands,,Whole,267
+E35000300,Waterbeach BUASD,E12000006,East of England,,Whole,268
+E35000067,Seaton Delaval BUASD,E12000001,North East,,Whole,269
+E35000351,Wivelsfield Green BUASD,E12000008,South East,,Whole,270
+E35000301,Farley Green BUASD,E12000008,South East,,Whole,271
+E35000068,Coddington BUASD,E12000004,East Midlands,,Whole,272
+E35000352,Collett's Green BUASD,E12000005,West Midlands,,Whole,273
+E35000302,Bay View BUASD,E12000008,South East,,Whole,274
+E35000069,Sedgley BUASD,E12000005,West Midlands,,Whole,275
+E35000353,High Lane BUASD,E12000002,North West,,Whole,276
+E35000303,Holywell Row BUASD,E12000006,East of England,,Whole,277
+E35000070,Sandy BUASD,E12000006,East of England,,Whole,278
+E35000354,Euxton BUASD,E12000002,North West,,Whole,279
+E35000304,Hooley BUASD,E12000008,South East,,Whole,280
+E35000071,Launceston BUASD,E12000009,South West,,Whole,281
+E35000355,Weston BUASD,E12000009,South West,,Whole,282
+E35000356,Parkeston BUASD,E12000006,East of England,,Whole,283
+E35000357,Kingswinford BUASD,E12000005,West Midlands,,Whole,284
+E35000358,Uckfield BUASD,E12000008,South East,,Whole,285
+E35000359,Wells BUASD,E12000009,South West,,Whole,286
+E35000360,Hetton-le-Hole BUASD,E12000001,North East,,Whole,287
+E35000361,Danesfield BUASD,E12000008,South East,,Whole,288
+E35000362,Trowbridge BUASD,E12000009,South West,,Whole,289
+E35000363,Redhill BUASD,E12000008,South East,,Whole,290
+E35000364,Addlestone BUASD,E12000008,South East,,Whole,291
+E35000365,Weston Rhyn BUASD,E12000005,West Midlands,,Whole,292
+E35000366,Cherry Willingham BUASD,E12000004,East Midlands,,Whole,293
+E35000367,Ushaw Moor BUASD,E12000001,North East,,Whole,294
+E35000368,Haydock BUASD,E12000002,North West,,Whole,295
+E35000369,Denstone BUASD,E12000005,West Midlands,,Whole,296
+E35000370,Moore BUASD,E12000002,North West,,Whole,297
+E35000371,Bedmond BUASD,E12000006,East of England,,Whole,298
+E35000372,Ashley BUASD,E12000005,West Midlands,,Whole,299
+E35000373,Stapleford Abbotts BUASD,E12000006,East of England,,Whole,300
+E35000374,Stonnall BUASD,E12000005,West Midlands,,Whole,301
+E35000375,Ballinger Common BUASD,E12000008,South East,,Whole,302
+E35000376,Houghton BUASD,E12000002,North West,,Whole,303
+E35000377,Pye Bridge BUASD,E12000004,East Midlands,,Whole,304
+E35000378,Coleford BUASD,E12000009,South West,,Whole,305
+E35000379,Broadbottom BUASD,E12000002,North West,,Whole,306
+E35000380,Smethwick BUASD,E12000005,West Midlands,,Whole,307
+E35000381,Sutton in Ashfield BUASD,E12000004,East Midlands,,Whole,308
+E35000382,Kidlington BUASD,E12000008,South East,,Whole,309
+E35000383,Jacksdale BUASD,E12000004,East Midlands,,Whole,310
+E35000384,Honey Hill BUASD,E12000008,South East,,Whole,311
+E35000385,Choppington BUASD,E12000001,North East,,Whole,312
+E35000386,Chigwell BUASD,E12000006,East of England,,Whole,313
+E35000387,Ossett BUASD,E12000003,Yorkshire and The Humber,,Whole,314
+E35000388,Mansfield Woodhouse BUASD,E12000004,East Midlands,,Whole,315
+E35000389,Langley BUASD,E12000002,North West,,Whole,316
+E35000390,Southend-on-Sea BUASD,E12000006,East of England,,Whole,317
+E35000391,Ramsden BUASD,E12000008,South East,,Whole,318
+E35000392,Earswick BUASD,E12000003,Yorkshire and The Humber,,Whole,319
+E35000393,Grassington BUASD,E12000003,Yorkshire and The Humber,,Whole,320
+E35000394,Crowmarsh Gifford BUASD,E12000008,South East,,Whole,321
+E35000395,Girton BUASD,E12000006,East of England,,Whole,322
+E35000396,Netherton BUASD,E12000003,Yorkshire and The Humber,,Whole,323
+E35000397,Brierley Hill BUASD,E12000005,West Midlands,,Whole,324
+E35000398,Wallasey BUASD,E12000002,North West,,Whole,325
+E35000399,George Green BUASD,E12000008,South East,,Whole,326
+E35000305,Queen's Hills BUASD,E12000006,East of England,,Whole,327
+E35000072,Brinsley BUASD,E12000004,East Midlands,,Whole,328
+E35000306,Fairford Airfield BUASD,E12000009,South West,,Whole,329
+E35000073,Elton BUASD,E12000002,North West,,Whole,330
+E35000307,Boxted Cross BUASD,E12000006,East of England,,Whole,331
+E35000074,Kensington and Chelsea BUASD,E12000007,London,,Whole,332
+E35000308,Longlane BUASD,E12000008,South East,,Whole,333
+E35000075,Stock BUASD,E12000006,East of England,,Whole,334
+E35000309,Kennington BUASD,E12000008,South East,,Whole,335
+E35000076,Trewoon BUASD,E12000009,South West,,Whole,336
+E35000310,Little Burstead BUASD,E12000006,East of England,,Whole,337
+E35000311,Ainsworth BUASD,E12000002,North West,,Whole,338
+E35000312,Ince-in-Makerfield BUASD,E12000002,North West,,Whole,339
+E35000313,Freshford BUASD,E12000009,South West,,Whole,340
+E35000314,Rayne BUASD,E12000006,East of England,,Whole,341
+E35000315,Holme-on-Spalding-Moor BUASD,E12000003,Yorkshire and The Humber,,Whole,342
+E35000316,Salford BUASD,E12000002,North West,,Whole,343
+E35000317,Halifax BUASD,E12000003,Yorkshire and The Humber,,Whole,344
+E35000318,Cambridge Batch BUASD,E12000009,South West,,Whole,345
+E35000319,Elmesthorpe BUASD,E12000004,East Midlands,,Whole,346
+E35000320,Backwell BUASD,E12000009,South West,,Whole,347
+E35000321,Towngate BUASD,E12000002,North West,,Whole,348
+E35000322,Crowthorne BUASD,E12000008,South East,,Whole,349
+E35000323,Tokers Green BUASD,E12000008,South East,,Whole,350
+E35000324,Trowell BUASD,E12000004,East Midlands,,Whole,351
+E35000325,Broadley Common BUASD,E12000006,East of England,,Whole,352
+E35000326,Bromsgrove BUASD,E12000005,West Midlands,,Whole,353
+E35000327,Holcombe BUASD,E12000009,South West,,Whole,354
+E35000328,Little Eaton BUASD,E12000004,East Midlands,,Whole,355
+E35000329,Grindleford BUASD,E12000004,East Midlands,,Whole,356
+E35000330,Little Singleton BUASD,E12000002,North West,,Whole,357
+E35000331,Woodcroft BUASD,E12000009,South West,,Whole,358
+E35000332,Scawthorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,359
+E35000333,Cheapside BUASD,E12000008,South East,,Whole,360
+E35000334,St Blazey BUASD,E12000009,South West,,Whole,361
+E35000335,Boorley Green BUASD,E12000008,South East,,Whole,362
+E35000336,Thearne BUASD,E12000003,Yorkshire and The Humber,,Whole,363
+E35000337,New Brancepeth BUASD,E12000001,North East,,Whole,364
+E35000338,Gatley BUASD,E12000002,North West,,Whole,365
+E35000339,Bloxwich BUASD,E12000005,West Midlands,,Whole,366
+E35000340,Beeston (Central Bedfordshire) BUASD,E12000006,East of England,,Whole,367
+E35000341,Kelly Bray BUASD,E12000009,South West,,Whole,368
+E35000342,Crow BUASD,E12000008,South East,,Whole,369
+E35000343,Pickering BUASD,E12000003,Yorkshire and The Humber,,Whole,370
+E35000344,South Hetton BUASD,E12000001,North East,,Whole,371
+E35000345,West Itchenor BUASD,E12000008,South East,,Whole,372
+E35000346,East Hanney BUASD,E12000008,South East,,Whole,373
+E35000347,Woburn Sands BUASD,E12000006,East of England,,Part,374
+E35000347,Woburn Sands BUASD,E12000008,South East,,Part,375
+E35000348,Heathfield BUASD,E12000008,South East,,Whole,376
+E35000077,Sonning Common BUASD,E12000008,South East,,Whole,377
+E35000078,Great Moulton BUASD,E12000006,East of England,,Whole,378
+E35000079,Gorleston-on-Sea BUASD,E12000006,East of England,,Whole,379
+E35000080,Maynard's Green BUASD,E12000008,South East,,Whole,380
+E35000081,Wootton (Bedford) BUASD,E12000006,East of England,,Whole,381
+E35000082,Broadbridge Heath BUASD,E12000008,South East,,Whole,382
+E35000083,North Ascot BUASD,E12000008,South East,,Whole,383
+E35000084,Walton-on-the-Naze BUASD,E12000006,East of England,,Whole,384
+E35000085,West Hendred BUASD,E12000008,South East,,Whole,385
+E35000086,Sprotbrough BUASD,E12000003,Yorkshire and The Humber,,Whole,386
+E35000087,Meare Green BUASD,E12000009,South West,,Whole,387
+E35000088,Borrowash BUASD,E12000004,East Midlands,,Whole,388
+E35000089,Catsfield BUASD,E12000008,South East,,Whole,389
+E35000090,Yaverland BUASD,E12000008,South East,,Whole,390
+E35000091,St Merryn Holiday Village BUASD,E12000009,South West,,Whole,391
+E35000092,Dunscroft BUASD,E12000003,Yorkshire and The Humber,,Whole,392
+E35000093,Ravenshall BUASD,E12000005,West Midlands,,Whole,393
+E35000094,Great Kingshill BUASD,E12000008,South East,,Whole,394
+E35000095,Wandsworth BUASD,E12000007,London,,Whole,395
+E35000096,Norton BUASD,E12000005,West Midlands,,Whole,396
+E35000097,Whiteshill BUASD,E12000009,South West,,Whole,397
+E35000098,Halstead BUASD,E12000008,South East,,Whole,398
+E35000099,Effingham BUASD,E12000008,South East,,Whole,399
+E35000100,Hardington Mandeville BUASD,E12000009,South West,,Whole,400
+E35000651,Great Casterton BUASD,E12000004,East Midlands,,Whole,401
+E35000652,Carlton (Gedling) BUASD,E12000004,East Midlands,,Whole,402
+E35000653,Stratton BUASD,E12000009,South West,,Whole,403
+E35000654,Woodside BUASD,E12000008,South East,,Whole,404
+E35000655,Fiskerton BUASD,E12000004,East Midlands,,Whole,405
+E35000656,Hunger Hill BUASD,E12000002,North West,,Whole,406
+E35000657,Wallingford BUASD,E12000008,South East,,Whole,407
+E35000658,Swaffham Bulbeck BUASD,E12000006,East of England,,Whole,408
+E35000659,Bouldnor BUASD,E12000008,South East,,Whole,409
+E35000660,Horsham BUASD,E12000008,South East,,Whole,410
+E35000661,Partridge Green BUASD,E12000008,South East,,Whole,411
+E35000662,Briston BUASD,E12000006,East of England,,Whole,412
+E35000663,South Littleton BUASD,E12000005,West Midlands,,Whole,413
+E35000664,Horsham St Faith BUASD,E12000006,East of England,,Whole,414
+E35000665,Coalpit Heath BUASD,E12000009,South West,,Whole,415
+E35000666,Bacup BUASD,E12000002,North West,,Whole,416
+E35000667,Stanborough BUASD,E12000006,East of England,,Whole,417
+E35000668,Tyldesley BUASD,E12000002,North West,,Whole,418
+E35000669,Castleford BUASD,E12000003,Yorkshire and The Humber,,Whole,419
+E35000670,Parton BUASD,E12000002,North West,,Whole,420
+E35000671,Hampton in Arden BUASD,E12000005,West Midlands,,Whole,421
+E35000672,Woodingdean BUASD,E12000008,South East,,Whole,422
+E35000673,Billingborough BUASD,E12000004,East Midlands,,Whole,423
+E35000601,Whitburn BUASD,E12000001,North East,,Whole,424
+E35000674,Heywood BUASD,E12000002,North West,,Whole,425
+E35000675,Landbeach BUASD,E12000006,East of England,,Whole,426
+E35000676,Bramhall BUASD,E12000002,North West,,Whole,427
+E35000602,Leekbrook BUASD,E12000005,West Midlands,,Whole,428
+E35000400,Tye Green (Braintree) BUASD,E12000006,East of England,,Whole,429
+E35000501,Wolviston BUASD,E12000001,North East,,Whole,430
+E35000677,Dullingham BUASD,E12000006,East of England,,Whole,431
+E35000603,Burton Latimer BUASD,E12000004,East Midlands,,Whole,432
+E35000678,Lenham Heath BUASD,E12000008,South East,,Whole,433
+E35000401,St Piers School BUASD,E12000008,South East,,Whole,434
+E35000502,Hatfield BUASD,E12000006,East of England,,Whole,435
+E35000604,East Keswick BUASD,E12000003,Yorkshire and The Humber,,Whole,436
+E35000679,West Hythe BUASD,E12000008,South East,,Whole,437
+E35000402,Harwich BUASD,E12000006,East of England,,Whole,438
+E35000503,Griffydam BUASD,E12000004,East Midlands,,Whole,439
+E35000605,Hucknall BUASD,E12000004,East Midlands,,Whole,440
+E35000680,Hextable BUASD,E12000008,South East,,Whole,441
+E35000403,Barrow upon Soar BUASD,E12000004,East Midlands,,Whole,442
+E35000504,Callington BUASD,E12000009,South West,,Whole,443
+E35000606,Crich BUASD,E12000004,East Midlands,,Whole,444
+E35000681,Hartley (Sevenoaks) BUASD,E12000008,South East,,Whole,445
+E35000404,Kendal BUASD,E12000002,North West,,Whole,446
+E35000505,West Hanney BUASD,E12000008,South East,,Whole,447
+E35000607,Stoborough Green BUASD,E12000009,South West,,Whole,448
+E35000608,Oldbury (Sandwell) BUASD,E12000005,West Midlands,,Whole,449
+E35000609,Maypole BUASD,E12000008,South East,,Whole,450
+E35000610,Dodworth BUASD,E12000003,Yorkshire and The Humber,,Whole,451
+E35000611,Porton BUASD,E12000009,South West,,Whole,452
+E35000612,Heskin Green BUASD,E12000002,North West,,Whole,453
+E35000613,New Gate BUASD,E12000002,North West,,Whole,454
+E35000614,Lanner BUASD,E12000009,South West,,Whole,455
+E35000615,Glapwell BUASD,E12000004,East Midlands,,Whole,456
+E35000616,Eversley BUASD,E12000008,South East,,Whole,457
+E35000617,Bearpark BUASD,E12000001,North East,,Whole,458
+E35000618,Stalybridge BUASD,E12000002,North West,,Whole,459
+E35000619,Stapleford BUASD,E12000004,East Midlands,,Whole,460
+E35000620,Felton BUASD,E12000009,South West,,Whole,461
+E35000621,Moorends BUASD,E12000003,Yorkshire and The Humber,,Whole,462
+E35000622,North Ferriby BUASD,E12000003,Yorkshire and The Humber,,Whole,463
+E35000623,Headley Down BUASD,E12000008,South East,,Whole,464
+E35000624,Bury St Edmunds BUASD,E12000006,East of England,,Whole,465
+E35000625,Duporth BUASD,E12000009,South West,,Whole,466
+E35000626,Odiham BUASD,E12000008,South East,,Whole,467
+E35000627,Willaston BUASD,E12000002,North West,,Whole,468
+E35000628,Nounsley BUASD,E12000006,East of England,,Whole,469
+E35000629,Romsey BUASD,E12000008,South East,,Whole,470
+E35000630,Rotherfield BUASD,E12000008,South East,,Whole,471
+E35000631,Caterham BUASD,E12000008,South East,,Whole,472
+E35000632,Teversham BUASD,E12000006,East of England,,Whole,473
+E35000633,Thatcham BUASD,E12000008,South East,,Whole,474
+E35000634,Sheringham BUASD,E12000006,East of England,,Whole,475
+E35000635,Carterton BUASD,E12000008,South East,,Whole,476
+E35000636,Newstead BUASD,E12000004,East Midlands,,Whole,477
+E35000637,Holbeach Drove BUASD,E12000004,East Midlands,,Whole,478
+E35000638,Badshot Lea BUASD,E12000008,South East,,Whole,479
+E35000639,Eastbourne BUASD,E12000008,South East,,Whole,480
+E35000640,Darwen BUASD,E12000002,North West,,Whole,481
+E35000641,Withnoe BUASD,E12000009,South West,,Whole,482
+E35000642,Shaw (Wiltshire) BUASD,E12000009,South West,,Whole,483
+E35000643,Welwyn BUASD,E12000006,East of England,,Whole,484
+E35000644,Horbury BUASD,E12000003,Yorkshire and The Humber,,Whole,485
+E35000645,Whatton-in-the-Vale BUASD,E12000004,East Midlands,,Whole,486
+E35000646,Stanbridge BUASD,E12000006,East of England,,Whole,487
+E35000647,Byram BUASD,E12000003,Yorkshire and The Humber,,Whole,488
+E35000648,Braintree BUASD,E12000006,East of England,,Whole,489
+E35000649,Bawtry BUASD,E12000003,Yorkshire and The Humber,,Whole,490
+E35000650,Fornham St Martin BUASD,E12000006,East of England,,Whole,491
+E35000405,South Shields BUASD,E12000001,North East,,Whole,492
+E35000506,Bristol International Airport BUASD,E12000009,South West,,Whole,493
+E35000682,Thurnscoe BUASD,E12000003,Yorkshire and The Humber,,Whole,494
+E35000406,Arborfield Garrison BUASD,E12000008,South East,,Whole,495
+E35000507,Burnham-on-Sea BUASD,E12000009,South West,,Whole,496
+E35000683,Woldingham BUASD,E12000008,South East,,Whole,497
+E35000407,Langley Heath BUASD,E12000008,South East,,Whole,498
+E35000508,Ingatestone BUASD,E12000006,East of England,,Whole,499
+E35000684,Radstock BUASD,E12000009,South West,,Whole,500
+E35000408,East Goscote BUASD,E12000004,East Midlands,,Whole,501
+E35000551,Polegate BUASD,E12000008,South East,,Whole,502
+E35000509,Broad Oak (Canterbury) BUASD,E12000008,South East,,Whole,503
+E35000510,Bingley BUASD,E12000003,Yorkshire and The Humber,,Whole,504
+E35000701,Littlethorpe BUASD,E12000004,East Midlands,,Whole,505
+E35000511,Marlow Bottom BUASD,E12000008,South East,,Whole,506
+E35000512,Great Gransden BUASD,E12000006,East of England,,Whole,507
+E35000513,Blackwater BUASD,E12000008,South East,,Whole,508
+E35000514,Crosby BUASD,E12000002,North West,,Whole,509
+E35000515,Whitehill BUASD,E12000001,North East,,Whole,510
+E35000516,Sandown BUASD,E12000008,South East,,Whole,511
+E35000517,Water BUASD,E12000002,North West,,Whole,512
+E35000518,Dunswell BUASD,E12000003,Yorkshire and The Humber,,Whole,513
+E35000519,Frating Green BUASD,E12000006,East of England,,Whole,514
+E35000520,Buckland BUASD,E12000008,South East,,Whole,515
+E35000521,Osgodby BUASD,E12000003,Yorkshire and The Humber,,Whole,516
+E35000522,Havering's Grove BUASD,E12000006,East of England,,Whole,517
+E35000523,Hessle BUASD,E12000003,Yorkshire and The Humber,,Whole,518
+E35000524,Heydon BUASD,E12000006,East of England,,Whole,519
+E35000525,Rudgwick BUASD,E12000008,South East,,Whole,520
+E35000526,Mappleborough Green BUASD,E12000005,West Midlands,,Whole,521
+E35000527,Horbling BUASD,E12000004,East Midlands,,Whole,522
+E35000528,Bishop Auckland BUASD,E12000001,North East,,Whole,523
+E35000529,Immingham BUASD,E12000003,Yorkshire and The Humber,,Whole,524
+E35000530,Leadgate BUASD,E12000001,North East,,Whole,525
+E35000531,Clifford BUASD,E12000003,Yorkshire and The Humber,,Whole,526
+E35000532,Siddington BUASD,E12000009,South West,,Whole,527
+E35000533,Leysdown-on-Sea BUASD,E12000008,South East,,Whole,528
+E35000534,Rhodes BUASD,E12000002,North West,,Whole,529
+E35000535,Downham BUASD,E12000006,East of England,,Whole,530
+E35000536,South Ferriby BUASD,E12000003,Yorkshire and The Humber,,Whole,531
+E35000537,Kelsall BUASD,E12000002,North West,,Whole,532
+E35000538,Bootle BUASD,E12000002,North West,,Whole,533
+E35000539,Stenalees BUASD,E12000009,South West,,Whole,534
+E35000540,Lower Upham BUASD,E12000008,South East,,Whole,535
+E35000541,Alverstone Garden Village BUASD,E12000008,South East,,Whole,536
+E35000542,Dormans Park BUASD,E12000008,South East,,Whole,537
+E35000543,Blackhall Colliery BUASD,E12000001,North East,,Whole,538
+E35000544,Ruardean BUASD,E12000009,South West,,Whole,539
+E35000545,Threemilestone BUASD,E12000009,South West,,Whole,540
+E35000546,City of Westminster BUASD,E12000007,London,,Whole,541
+E35000547,Tutbury BUASD,E12000005,West Midlands,,Whole,542
+E35000548,Cosby BUASD,E12000004,East Midlands,,Whole,543
+E35000549,Brough BUASD,E12000003,Yorkshire and The Humber,,Whole,544
+E35000550,Ouston BUASD,E12000001,North East,,Whole,545
+E35000552,Curridge BUASD,E12000008,South East,,Whole,546
+E35000702,Delph BUASD,E12000002,North West,,Whole,547
+E35000553,Haworth BUASD,E12000003,Yorkshire and The Humber,,Whole,548
+E35000409,Carnon Downs BUASD,E12000009,South West,,Whole,549
+E35000703,Sturry BUASD,E12000008,South East,,Whole,550
+E35000554,Hurley BUASD,E12000008,South East,,Whole,551
+E35000410,Goldsithney BUASD,E12000009,South West,,Whole,552
+E35000704,Otterbourne BUASD,E12000008,South East,,Whole,553
+E35000555,Ryarsh BUASD,E12000008,South East,,Whole,554
+E35000411,Fryerning BUASD,E12000006,East of England,,Whole,555
+E35000705,Borough Green BUASD,E12000008,South East,,Whole,556
+E35000556,Gamesley BUASD,E12000004,East Midlands,,Whole,557
+E35000412,Morton (North East Derbyshire) BUASD,E12000004,East Midlands,,Whole,558
+E35000413,Scotby BUASD,E12000002,North West,,Whole,559
+E35000414,Corsham BUASD,E12000009,South West,,Whole,560
+E35000415,Carharrack BUASD,E12000009,South West,,Whole,561
+E35000416,Carlton (Leeds) BUASD,E12000003,Yorkshire and The Humber,,Whole,562
+E35000417,Mirfield BUASD,E12000003,Yorkshire and The Humber,,Whole,563
+E35000418,Coppull BUASD,E12000002,North West,,Whole,564
+E35000419,Norwich BUASD,E12000006,East of England,,Whole,565
+E35000420,Almondsbury BUASD,E12000009,South West,,Whole,566
+E35000421,Highleigh BUASD,E12000008,South East,,Whole,567
+E35000422,Higham Ferrers BUASD,E12000004,East Midlands,,Whole,568
+E35000423,Sandford BUASD,E12000009,South West,,Whole,569
+E35000424,Norton-on-Derwent BUASD,E12000003,Yorkshire and The Humber,,Whole,570
+E35000425,Gibraltar BUASD,E12000006,East of England,,Whole,571
+E35000426,Welham Green BUASD,E12000006,East of England,,Whole,572
+E35000427,Stourbridge BUASD,E12000005,West Midlands,,Whole,573
+E35000428,Darfield BUASD,E12000003,Yorkshire and The Humber,,Whole,574
+E35000429,Westhoughton BUASD,E12000002,North West,,Whole,575
+E35000430,Carlton (Suffolk Coastal) BUASD,E12000006,East of England,,Whole,576
+E35000431,Felixstowe BUASD,E12000006,East of England,,Whole,577
+E35000432,Melton Constable BUASD,E12000006,East of England,,Whole,578
+E35000433,Coldeast BUASD,E12000009,South West,,Whole,579
+E35000434,Bromley BUASD,E12000007,London,,Whole,580
+E35000435,Streethouse BUASD,E12000003,Yorkshire and The Humber,,Whole,581
+E35000436,Yate BUASD,E12000009,South West,,Whole,582
+E35000437,Sutton Abinger BUASD,E12000008,South East,,Whole,583
+E35000438,Goldthorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,584
+E35000439,Whitehaven BUASD,E12000002,North West,,Whole,585
+E35000440,Baildon BUASD,E12000003,Yorkshire and The Humber,,Whole,586
+E35000441,Shefford BUASD,E12000006,East of England,,Whole,587
+E35000442,Lees BUASD,E12000002,North West,,Whole,588
+E35000443,Clifton (Central Bedfordshire) BUASD,E12000006,East of England,,Whole,589
+E35000444,Steyning BUASD,E12000008,South East,,Whole,590
+E35000445,Liddington BUASD,E12000009,South West,,Whole,591
+E35000446,New Arley BUASD,E12000005,West Midlands,,Whole,592
+E35000447,St Margarets BUASD,E12000006,East of England,,Whole,593
+E35000448,Ightham BUASD,E12000008,South East,,Whole,594
+E35000449,Broom BUASD,E12000005,West Midlands,,Whole,595
+E35000450,Nuneaton BUASD,E12000005,West Midlands,,Whole,596
+E35000557,Northill BUASD,E12000006,East of England,,Whole,597
+E35000706,Stoneyhills BUASD,E12000006,East of England,,Whole,598
+E35000451,Minchinhampton BUASD,E12000009,South West,,Whole,599
+E35000558,Pirbright BUASD,E12000008,South East,,Whole,600
+E35000707,Cromer BUASD,E12000006,East of England,,Whole,601
+E35000452,Kirby Hill BUASD,E12000003,Yorkshire and The Humber,,Whole,602
+E35000559,Yorkletts BUASD,E12000008,South East,,Whole,603
+E35000708,Ewell BUASD,E12000008,South East,,Whole,604
+E35000453,Wisbech BUASD,E12000006,East of England,,Whole,605
+E35000750,Swallowfield BUASD,E12000008,South East,,Whole,606
+E35000560,Chirk Bank BUASD,E12000005,West Midlands,,Whole,607
+E35000709,Upham BUASD,E12000008,South East,,Whole,608
+E35000454,Little Waltham BUASD,E12000006,East of England,,Whole,609
+E35000561,Islip BUASD,E12000004,East Midlands,,Whole,610
+E35000751,Earlswood BUASD,E12000005,West Midlands,,Whole,611
+E35000710,Sowerby Bridge BUASD,E12000003,Yorkshire and The Humber,,Whole,612
+E35000562,Great Wyrley BUASD,E12000005,West Midlands,,Whole,613
+E35000455,Chatham BUASD,E12000008,South East,,Whole,614
+E35000563,Thrapston BUASD,E12000004,East Midlands,,Whole,615
+E35000456,Lingfield BUASD,E12000008,South East,,Whole,616
+E35000752,Baker's Wood BUASD,E12000008,South East,,Whole,617
+E35000564,Lympne BUASD,E12000008,South East,,Whole,618
+E35000457,Great Eccleston BUASD,E12000002,North West,,Whole,619
+E35000711,Moor Park BUASD,E12000008,South East,,Whole,620
+E35000753,Sevenoaks BUASD,E12000008,South East,,Whole,621
+E35000565,Broadstairs BUASD,E12000008,South East,,Whole,622
+E35000458,Dukinfield BUASD,E12000002,North West,,Whole,623
+E35000712,Chivenor Airfield BUASD,E12000009,South West,,Whole,624
+E35000754,Bollington BUASD,E12000002,North West,,Whole,625
+E35000566,Manton BUASD,E12000009,South West,,Whole,626
+E35000459,Winchelsea BUASD,E12000008,South East,,Whole,627
+E35000713,High Ackworth BUASD,E12000003,Yorkshire and The Humber,,Whole,628
+E35000755,Bitterscote BUASD,E12000005,West Midlands,,Whole,629
+E35000567,Banstead BUASD,E12000008,South East,,Whole,630
+E35000461,Bolingey BUASD,E12000009,South West,,Whole,631
+E35000714,Charlton Adam BUASD,E12000009,South West,,Whole,632
+E35000756,Shevington BUASD,E12000002,North West,,Whole,633
+E35000568,West Wellow BUASD,E12000008,South East,,Whole,634
+E35000462,Falmouth BUASD,E12000009,South West,,Whole,635
+E35000715,Throckley BUASD,E12000001,North East,,Whole,636
+E35000757,Blackburn BUASD,E12000002,North West,,Whole,637
+E35000569,Cheadle BUASD,E12000002,North West,,Whole,638
+E35000463,Springwell BUASD,E12000001,North East,,Whole,639
+E35000716,Ellington BUASD,E12000001,North East,,Whole,640
+E35000758,City of London BUASD,E12000007,London,,Whole,641
+E35000570,Waltham BUASD,E12000003,Yorkshire and The Humber,,Whole,642
+E35000464,Copmanthorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,643
+E35000717,Wormley BUASD,E12000008,South East,,Whole,644
+E35000759,Tilsworth BUASD,E12000006,East of England,,Whole,645
+E35000571,Holton BUASD,E12000008,South East,,Whole,646
+E35000465,How Wood BUASD,E12000006,East of England,,Whole,647
+E35000718,Penryn BUASD,E12000009,South West,,Whole,648
+E35000760,Kempston BUASD,E12000006,East of England,,Whole,649
+E35000572,Rawtenstall BUASD,E12000002,North West,,Whole,650
+E35000466,Bugle BUASD,E12000009,South West,,Whole,651
+E35000719,Borehamwood BUASD,E12000006,East of England,,Part,652
+E35000761,Cirencester BUASD,E12000009,South West,,Whole,653
+E35000573,Houghton Regis BUASD,E12000006,East of England,,Whole,654
+E35000467,Farnworth BUASD,E12000002,North West,,Whole,655
+E35000719,Borehamwood BUASD,E12000007,London,,Part,656
+E35000762,Broad Oak (Rother) BUASD,E12000008,South East,,Whole,657
+E35000574,Rowley Regis BUASD,E12000005,West Midlands,,Whole,658
+E35000468,Grassmoor BUASD,E12000004,East Midlands,,Whole,659
+E35000720,Dedham Heath BUASD,E12000006,East of England,,Whole,660
+E35000763,Westhumble BUASD,E12000008,South East,,Whole,661
+E35000575,Workington BUASD,E12000002,North West,,Whole,662
+E35000469,Sutton Weaver BUASD,E12000002,North West,,Whole,663
+E35000721,Leigh Woods BUASD,E12000009,South West,,Whole,664
+E35000764,Chobham BUASD,E12000008,South East,,Whole,665
+E35000576,Chipping Sodbury BUASD,E12000009,South West,,Whole,666
+E35000470,Sawbridgeworth BUASD,E12000006,East of England,,Whole,667
+E35000722,Littleworth BUASD,E12000008,South East,,Whole,668
+E35000723,Edith Weston BUASD,E12000004,East Midlands,,Whole,669
+E35000724,Hyde (New Forest) BUASD,E12000008,South East,,Whole,670
+E35000725,South Earlswood BUASD,E12000008,South East,,Whole,671
+E35000726,Royton BUASD,E12000002,North West,,Whole,672
+E35000727,Kibworth Harcourt BUASD,E12000004,East Midlands,,Whole,673
+E35000728,Thornton (Bradford) BUASD,E12000003,Yorkshire and The Humber,,Whole,674
+E35000729,Pinvin BUASD,E12000005,West Midlands,,Whole,675
+E35000730,Cawston BUASD,E12000005,West Midlands,,Whole,676
+E35000731,Shipley BUASD,E12000003,Yorkshire and The Humber,,Whole,677
+E35000732,Shorne Ridgeway BUASD,E12000008,South East,,Whole,678
+E35000733,Terry's Green BUASD,E12000005,West Midlands,,Whole,679
+E35000734,Droylsden BUASD,E12000002,North West,,Whole,680
+E35000735,Thorne BUASD,E12000003,Yorkshire and The Humber,,Whole,681
+E35000736,Felcourt BUASD,E12000008,South East,,Whole,682
+E35000737,Buckfast BUASD,E12000009,South West,,Whole,683
+E35000738,Kingsley Green BUASD,E12000008,South East,,Whole,684
+E35000739,Stake Pool BUASD,E12000002,North West,,Whole,685
+E35000740,Shireoaks BUASD,E12000004,East Midlands,,Whole,686
+E35000741,Stetchworth BUASD,E12000006,East of England,,Whole,687
+E35000742,Wharncliffe Side BUASD,E12000003,Yorkshire and The Humber,,Whole,688
+E35000743,Ruardean Woodside BUASD,E12000009,South West,,Whole,689
+E35000744,Westonzoyland BUASD,E12000009,South West,,Whole,690
+E35000745,Banbury BUASD,E12000008,South East,,Whole,691
+E35000746,West Parley BUASD,E12000009,South West,,Whole,692
+E35000747,Aslockton BUASD,E12000004,East Midlands,,Whole,693
+E35000748,Carr Hall BUASD,E12000002,North West,,Whole,694
+E35000749,Whitley BUASD,E12000009,South West,,Whole,695
+E35000685,Yalding BUASD,E12000008,South East,,Whole,696
+E35000765,Colney BUASD,E12000006,East of England,,Whole,697
+E35000471,Lower Shiplake BUASD,E12000008,South East,,Whole,698
+E35000577,Ashmore Green BUASD,E12000008,South East,,Whole,699
+E35000766,East Runton BUASD,E12000006,East of England,,Whole,700
+E35000472,Higham on the Hill BUASD,E12000004,East Midlands,,Whole,701
+E35000767,Hyde Lea BUASD,E12000005,West Midlands,,Whole,702
+E35000578,Runcton BUASD,E12000008,South East,,Whole,703
+E35000473,Whitstable BUASD,E12000008,South East,,Whole,704
+E35000768,Whetstone BUASD,E12000004,East Midlands,,Whole,705
+E35000579,Betley BUASD,E12000005,West Midlands,,Whole,706
+E35000474,Burley Street BUASD,E12000008,South East,,Whole,707
+E35000769,Barlby BUASD,E12000003,Yorkshire and The Humber,,Whole,708
+E35000580,Billingham BUASD,E12000001,North East,,Whole,709
+E35000475,Cleckheaton BUASD,E12000003,Yorkshire and The Humber,,Whole,710
+E35000770,Pirbright Camp BUASD,E12000008,South East,,Whole,711
+E35000581,Norton Fitzwarren BUASD,E12000009,South West,,Whole,712
+E35000476,Halesowen BUASD,E12000005,West Midlands,,Whole,713
+E35000771,Hemingbrough BUASD,E12000003,Yorkshire and The Humber,,Whole,714
+E35000582,Hebburn BUASD,E12000001,North East,,Whole,715
+E35000477,Nailsea BUASD,E12000009,South West,,Whole,716
+E35000772,Brighouse BUASD,E12000003,Yorkshire and The Humber,,Whole,717
+E35000583,Midsomer Norton BUASD,E12000009,South West,,Whole,718
+E35000478,Haringey BUASD,E12000007,London,,Whole,719
+E35000773,Shotton Colliery BUASD,E12000001,North East,,Whole,720
+E35000584,Eye (Mid Suffolk) BUASD,E12000006,East of England,,Whole,721
+E35000479,Edenfield BUASD,E12000002,North West,,Whole,722
+E35000774,Walton Highway BUASD,E12000006,East of England,,Whole,723
+E35000775,Nelson (Pendle) BUASD,E12000002,North West,,Whole,724
+E35000776,Whitefield BUASD,E12000002,North West,,Whole,725
+E35000777,Topsham BUASD,E12000009,South West,,Whole,726
+E35000778,Truro BUASD,E12000009,South West,,Whole,727
+E35000779,Arnold BUASD,E12000004,East Midlands,,Whole,728
+E35000780,Stamford BUASD,E12000004,East Midlands,,Whole,729
+E35000781,Broseley BUASD,E12000005,West Midlands,,Whole,730
+E35000782,Crays Hill BUASD,E12000006,East of England,,Whole,731
+E35000783,Commercial End BUASD,E12000006,East of England,,Whole,732
+E35000784,Boroughbridge BUASD,E12000003,Yorkshire and The Humber,,Whole,733
+E35000785,Taunton BUASD,E12000009,South West,,Whole,734
+E35000786,Temple Cloud BUASD,E12000009,South West,,Whole,735
+E35000787,Ashton-under-Lyne BUASD,E12000002,North West,,Whole,736
+E35000788,High Clarence BUASD,E12000001,North East,,Whole,737
+E35000789,Eckington BUASD,E12000004,East Midlands,,Whole,738
+E35000790,Marsh Lane BUASD,E12000004,East Midlands,,Whole,739
+E35000791,Broad Campden BUASD,E12000009,South West,,Whole,740
+E35000792,South Stoke BUASD,E12000008,South East,,Whole,741
+E35000793,New Mills BUASD,E12000002,North West,,Part,742
+E35000793,New Mills BUASD,E12000004,East Midlands,,Part,743
+E35000794,Bembridge BUASD,E12000008,South East,,Whole,744
+E35000795,Bournmoor BUASD,E12000001,North East,,Whole,745
+E35000796,Great Gonerby BUASD,E12000004,East Midlands,,Whole,746
+E35000797,Oaklands BUASD,E12000006,East of England,,Whole,747
+E35000798,Knockholt Pound BUASD,E12000008,South East,,Whole,748
+E35000585,Brent BUASD,E12000007,London,,Whole,749
+E35000480,Farndon (Newark and Sherwood) BUASD,E12000004,East Midlands,,Whole,750
+E35000586,Millhouse Green BUASD,E12000003,Yorkshire and The Humber,,Whole,751
+E35000481,Ashford (Spelthorne) BUASD,E12000008,South East,,Whole,752
+E35000587,Higham BUASD,E12000008,South East,,Whole,753
+E35000482,Ashurst BUASD,E12000008,South East,,Whole,754
+E35000588,Aldridge BUASD,E12000005,West Midlands,,Whole,755
+E35000483,Sutton Coldfield BUASD,E12000005,West Midlands,,Whole,756
+E35000589,Kimberley BUASD,E12000004,East Midlands,,Whole,757
+E35000484,Hughenden Valley BUASD,E12000008,South East,,Whole,758
+E35000590,Macclesfield BUASD,E12000002,North West,,Whole,759
+E35000485,Northwood BUASD,E12000006,East of England,,Whole,760
+E35000591,Windsor BUASD,E12000008,South East,,Whole,761
+E35000486,Manchester BUASD,E12000002,North West,,Whole,762
+E35000592,Smallford BUASD,E12000006,East of England,,Whole,763
+E35000487,Narborough/Enderby BUASD,E12000004,East Midlands,,Whole,764
+E35000593,Henlow BUASD,E12000006,East of England,,Whole,765
+E35000488,Brize Norton BUASD,E12000008,South East,,Whole,766
+E35000594,Fernhurst BUASD,E12000008,South East,,Whole,767
+E35000489,Begbroke BUASD,E12000008,South East,,Whole,768
+E35000595,Walkden BUASD,E12000002,North West,,Whole,769
+E35000490,Great Notley BUASD,E12000006,East of England,,Whole,770
+E35000596,Broad Blunsdon BUASD,E12000009,South West,,Whole,771
+E35000491,North Wingfield BUASD,E12000004,East Midlands,,Whole,772
+E35000597,Darlaston BUASD,E12000005,West Midlands,,Whole,773
+E35000492,Sutton Courtenay BUASD,E12000008,South East,,Whole,774
+E35000598,Pondwell BUASD,E12000008,South East,,Whole,775
+E35000493,Matlock Bath BUASD,E12000004,East Midlands,,Whole,776
+E35000599,New Houghton BUASD,E12000004,East Midlands,,Whole,777
+E35000600,Heage BUASD,E12000004,East Midlands,,Whole,778
+E35000494,Maresfield BUASD,E12000008,South East,,Whole,779
+E35000495,St Eval BUASD,E12000009,South West,,Whole,780
+E35000496,Snaith BUASD,E12000003,Yorkshire and The Humber,,Whole,781
+E35000497,Hardwick Wood BUASD,E12000004,East Midlands,,Whole,782
+E35000498,Burnley BUASD,E12000002,North West,,Whole,783
+E35000499,Soham BUASD,E12000006,East of England,,Whole,784
+E35000500,Eldon Lane BUASD,E12000001,North East,,Whole,785
+E35000686,Gunness BUASD,E12000003,Yorkshire and The Humber,,Whole,786
+E35000687,Symonds Yat West BUASD,E12000005,West Midlands,,Whole,787
+E35000688,Crawley BUASD,E12000008,South East,,Whole,788
+E35000689,Worsbrough BUASD,E12000003,Yorkshire and The Humber,,Whole,789
+E35000690,Littlehampton BUASD,E12000008,South East,,Whole,790
+E35000691,Tower Hill BUASD,E12000008,South East,,Whole,791
+E35000692,Goole BUASD,E12000003,Yorkshire and The Humber,,Whole,792
+E35000693,Ide BUASD,E12000009,South West,,Whole,793
+E35000694,Kewstoke BUASD,E12000009,South West,,Whole,794
+E35000695,Nettlestone BUASD,E12000008,South East,,Whole,795
+E35000696,Little Gransden BUASD,E12000006,East of England,,Whole,796
+E35000697,Mexborough BUASD,E12000003,Yorkshire and The Humber,,Whole,797
+E35000698,Threshfield BUASD,E12000003,Yorkshire and The Humber,,Whole,798
+E35000699,East Wittering BUASD,E12000008,South East,,Whole,799
+E35000700,Chichester BUASD,E12000008,South East,,Whole,800
+E35000995,Bolton Upon Dearne BUASD,E12000003,Yorkshire and The Humber,,Whole,801
+E35000848,Ingleby Barwick BUASD,E12000001,North East,,Whole,802
+E35000996,Fritchley BUASD,E12000004,East Midlands,,Whole,803
+E35000997,Lytham St Anne's BUASD,E12000002,North West,,Whole,804
+E35000849,Poyle BUASD,E12000008,South East,,Whole,805
+E35000998,Wellington BUASD,E12000009,South West,,Whole,806
+E35000850,Breaston BUASD,E12000004,East Midlands,,Whole,807
+E35000999,Shavington BUASD,E12000002,North West,,Whole,808
+E35000851,Monkton BUASD,E12000008,South East,,Whole,809
+E35001000,Ickwell BUASD,E12000006,East of England,,Whole,810
+E35000852,Costessey BUASD,E12000006,East of England,,Whole,811
+E35001001,Failsworth BUASD,E12000002,North West,,Whole,812
+E35000853,North Hykeham BUASD,E12000004,East Midlands,,Whole,813
+E35001002,Skelmanthorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,814
+E35000854,Eversley Centre BUASD,E12000008,South East,,Whole,815
+E35001003,Warton BUASD,E12000002,North West,,Whole,816
+E35000855,Finstock BUASD,E12000008,South East,,Whole,817
+E35001004,Haslingden BUASD,E12000002,North West,,Whole,818
+E35000856,Wivelsfield BUASD,E12000008,South East,,Whole,819
+E35001005,Grimsargh BUASD,E12000002,North West,,Whole,820
+E35000857,Rowly BUASD,E12000008,South East,,Whole,821
+E35001006,Colyford BUASD,E12000009,South West,,Whole,822
+E35000858,Hattersley BUASD,E12000002,North West,,Whole,823
+E35001007,Heysham BUASD,E12000002,North West,,Whole,824
+E35000859,Merton BUASD,E12000007,London,,Whole,825
+E35001008,Hordle BUASD,E12000008,South East,,Whole,826
+E35000860,Fairfield BUASD,E12000005,West Midlands,,Whole,827
+E35001009,Chickerell BUASD,E12000009,South West,,Whole,828
+E35000861,Rushmere St Andrew BUASD,E12000006,East of England,,Whole,829
+E35001010,Wetheral BUASD,E12000002,North West,,Whole,830
+E35000862,The Bank BUASD,E12000002,North West,,Whole,831
+E35001011,Cleethorpes BUASD,E12000003,Yorkshire and The Humber,,Whole,832
+E35001095,Golborne BUASD,E12000002,North West,,Whole,833
+E35000898,Hambledon BUASD,E12000008,South East,,Whole,834
+E35000863,West Cowick BUASD,E12000003,Yorkshire and The Humber,,Whole,835
+E35000864,Saxmundham BUASD,E12000006,East of England,,Whole,836
+E35000865,Camden BUASD,E12000007,London,,Whole,837
+E35000866,Barton Mills BUASD,E12000006,East of England,,Whole,838
+E35000867,Winford BUASD,E12000008,South East,,Whole,839
+E35000868,Rearsby BUASD,E12000004,East Midlands,,Whole,840
+E35000869,Wivenhoe BUASD,E12000006,East of England,,Whole,841
+E35000870,West Knighton BUASD,E12000009,South West,,Whole,842
+E35000871,Upper Beeding BUASD,E12000008,South East,,Whole,843
+E35000872,Didcot BUASD,E12000008,South East,,Whole,844
+E35000873,Birchanger BUASD,E12000006,East of England,,Whole,845
+E35000874,Chadwell St Mary BUASD,E12000006,East of England,,Whole,846
+E35000875,Chilsworthy BUASD,E12000009,South West,,Whole,847
+E35000876,Waltham Cross BUASD,E12000006,East of England,,Whole,848
+E35000877,Eastwood BUASD,E12000004,East Midlands,,Whole,849
+E35000878,Rosudgeon BUASD,E12000009,South West,,Whole,850
+E35000879,Bordon BUASD,E12000008,South East,,Whole,851
+E35000880,Camborne BUASD,E12000009,South West,,Whole,852
+E35000881,Little Abington BUASD,E12000006,East of England,,Whole,853
+E35000882,Blackheath BUASD,E12000005,West Midlands,,Whole,854
+E35000883,Taverham BUASD,E12000006,East of England,,Whole,855
+E35000884,Wood End BUASD,E12000005,West Midlands,,Whole,856
+E35000885,Little Lever BUASD,E12000002,North West,,Whole,857
+E35000886,Moor End BUASD,E12000003,Yorkshire and The Humber,,Whole,858
+E35000887,Potters Corner BUASD,E12000008,South East,,Whole,859
+E35000888,Atherton BUASD,E12000002,North West,,Whole,860
+E35000889,Lane End BUASD,E12000008,South East,,Whole,861
+E35000890,Withnell BUASD,E12000002,North West,,Whole,862
+E35000891,West Hill BUASD,E12000009,South West,,Whole,863
+E35000892,St Ives BUASD,E12000006,East of England,,Whole,864
+E35000893,Powick BUASD,E12000005,West Midlands,,Whole,865
+E35000894,Stonebroom BUASD,E12000004,East Midlands,,Whole,866
+E35000895,Birchall BUASD,E12000005,West Midlands,,Whole,867
+E35000896,Pill BUASD,E12000009,South West,,Whole,868
+E35000897,Marlborough BUASD,E12000009,South West,,Whole,869
+E35001046,Saham Toney BUASD,E12000006,East of England,,Whole,870
+E35000799,Great Doddington BUASD,E12000004,East Midlands,,Whole,871
+E35001096,Hardington Moor BUASD,E12000009,South West,,Whole,872
+E35001047,Palgrave BUASD,E12000006,East of England,,Whole,873
+E35001012,Walton-on-Thames BUASD,E12000008,South East,,Whole,874
+E35000899,Hertford BUASD,E12000006,East of England,,Whole,875
+E35001097,Cheshunt BUASD,E12000006,East of England,,Whole,876
+E35001048,Tye Green (Colchester) BUASD,E12000006,East of England,,Whole,877
+E35001013,Pudsey BUASD,E12000003,Yorkshire and The Humber,,Whole,878
+E35000900,Whelpley Hill BUASD,E12000008,South East,,Whole,879
+E35001098,Sacriston BUASD,E12000001,North East,,Whole,880
+E35000800,Gedney Hill BUASD,E12000004,East Midlands,,Whole,881
+E35001049,Sutton Lane Ends BUASD,E12000002,North West,,Whole,882
+E35001014,Grayshott BUASD,E12000008,South East,,Whole,883
+E35000901,West Bridgford BUASD,E12000004,East Midlands,,Whole,884
+E35001099,Shaw (Oldham) BUASD,E12000002,North West,,Whole,885
+E35000801,Poole BUASD,E12000009,South West,,Whole,886
+E35001050,Blackrod BUASD,E12000002,North West,,Whole,887
+E35001015,Brigsley BUASD,E12000003,Yorkshire and The Humber,,Whole,888
+E35000902,Bletchley BUASD,E12000008,South East,,Whole,889
+E35001100,Newhey BUASD,E12000002,North West,,Whole,890
+E35000802,Eccleston BUASD,E12000002,North West,,Whole,891
+E35001051,Ashingdon BUASD,E12000006,East of England,,Whole,892
+E35001052,East Ogwell BUASD,E12000009,South West,,Whole,893
+E35001053,Wraysbury BUASD,E12000008,South East,,Whole,894
+E35001054,Feock BUASD,E12000009,South West,,Whole,895
+E35001055,Newton Abbot BUASD,E12000009,South West,,Whole,896
+E35001056,Morecambe BUASD,E12000002,North West,,Whole,897
+E35001057,Aston BUASD,E12000006,East of England,,Whole,898
+E35001058,Wheatley BUASD,E12000008,South East,,Whole,899
+E35001059,Sileby BUASD,E12000004,East Midlands,,Whole,900
+E35001060,Grove BUASD,E12000009,South West,,Whole,901
+E35001061,Cleveleys BUASD,E12000002,North West,,Whole,902
+E35001062,Witherley BUASD,E12000004,East Midlands,,Whole,903
+E35001063,Coalway BUASD,E12000009,South West,,Whole,904
+E35001064,Penpol BUASD,E12000009,South West,,Whole,905
+E35001065,Paulton BUASD,E12000009,South West,,Whole,906
+E35001066,Stakeford BUASD,E12000001,North East,,Whole,907
+E35001067,Bowgreave BUASD,E12000002,North West,,Whole,908
+E35001068,East Tilbury BUASD,E12000006,East of England,,Whole,909
+E35001069,Yateley BUASD,E12000008,South East,,Whole,910
+E35001070,Stonehouse BUASD,E12000009,South West,,Whole,911
+E35001071,Linton BUASD,E12000004,East Midlands,,Whole,912
+E35001072,Colney Heath BUASD,E12000006,East of England,,Whole,913
+E35001073,Armthorpe BUASD,E12000003,Yorkshire and The Humber,,Whole,914
+E35001074,Fen Ditton BUASD,E12000006,East of England,,Whole,915
+E35001075,Stainforth BUASD,E12000003,Yorkshire and The Humber,,Whole,916
+E35001076,Thorpe Hesley BUASD,E12000003,Yorkshire and The Humber,,Whole,917
+E35001077,Southwark BUASD,E12000007,London,,Whole,918
+E35001078,Tower Hamlets BUASD,E12000007,London,,Whole,919
+E35001079,Hutton BUASD,E12000002,North West,,Whole,920
+E35001080,Beeston Regis BUASD,E12000006,East of England,,Whole,921
+E35001081,Dedham BUASD,E12000006,East of England,,Whole,922
+E35001082,Worthington BUASD,E12000002,North West,,Whole,923
+E35001083,Low Ackworth BUASD,E12000003,Yorkshire and The Humber,,Whole,924
+E35001084,Ickburgh BUASD,E12000006,East of England,,Whole,925
+E35001085,Keighley BUASD,E12000003,Yorkshire and The Humber,,Whole,926
+E35001086,Burnham-on-Crouch BUASD,E12000006,East of England,,Whole,927
+E35001087,Middlestown BUASD,E12000003,Yorkshire and The Humber,,Whole,928
+E35001088,East Hendred BUASD,E12000008,South East,,Whole,929
+E35001089,Longsdon BUASD,E12000005,West Midlands,,Whole,930
+E35001090,Selston BUASD,E12000004,East Midlands,,Whole,931
+E35001091,Bexley BUASD,E12000007,London,,Part,932
+E35001091,Bexley BUASD,E12000008,South East,,Part,933
+E35001092,Fornham All Saints BUASD,E12000006,East of England,,Whole,934
+E35001093,Charnock Richard BUASD,E12000002,North West,,Whole,935
+E35001094,Havant BUASD,E12000008,South East,,Whole,936
+E35001146,Bournemouth BUASD,E12000009,South West,,Whole,937
+E35000903,Binley Woods BUASD,E12000005,West Midlands,,Whole,938
+E35001147,Kearsley BUASD,E12000002,North West,,Whole,939
+E35001016,Culdrose Airfield BUASD,E12000009,South West,,Whole,940
+E35001101,Blofield BUASD,E12000006,East of England,,Whole,941
+E35000904,Berkhamsted BUASD,E12000006,East of England,,Whole,942
+E35001148,Combe St Nicholas BUASD,E12000009,South West,,Whole,943
+E35001017,Oldbury (Shropshire) BUASD,E12000005,West Midlands,,Whole,944
+E35001102,Earl Shilton BUASD,E12000004,East Midlands,,Whole,945
+E35000905,Sharlston BUASD,E12000003,Yorkshire and The Humber,,Whole,946
+E35001149,Ashford (Ashford) BUASD,E12000008,South East,,Whole,947
+E35001018,Todwick BUASD,E12000003,Yorkshire and The Humber,,Whole,948
+E35001019,Launton BUASD,E12000008,South East,,Whole,949
+E35001020,Smeeton Westerby BUASD,E12000004,East Midlands,,Whole,950
+E35001021,Cross in Hand BUASD,E12000008,South East,,Whole,951
+E35001022,Chilham BUASD,E12000008,South East,,Whole,952
+E35001023,Altham BUASD,E12000002,North West,,Whole,953
+E35001024,Cackle Street BUASD,E12000008,South East,,Whole,954
+E35001025,Middleyard BUASD,E12000009,South West,,Whole,955
+E35001026,Keevil BUASD,E12000009,South West,,Whole,956
+E35001027,Pontefract BUASD,E12000003,Yorkshire and The Humber,,Whole,957
+E35001028,Stretford BUASD,E12000002,North West,,Whole,958
+E35001029,Menston BUASD,E12000003,Yorkshire and The Humber,,Whole,959
+E35001030,Summit BUASD,E12000002,North West,,Whole,960
+E35001031,Collingtree BUASD,E12000004,East Midlands,,Whole,961
+E35001032,Winchelsea Beach BUASD,E12000008,South East,,Whole,962
+E35001033,Brinscall BUASD,E12000002,North West,,Whole,963
+E35001034,Boston Spa BUASD,E12000003,Yorkshire and The Humber,,Whole,964
+E35001035,Barnet BUASD,E12000007,London,,Whole,965
+E35001036,Teignmouth BUASD,E12000009,South West,,Whole,966
+E35001037,Trawden BUASD,E12000002,North West,,Whole,967
+E35001038,Ickleford BUASD,E12000006,East of England,,Whole,968
+E35001040,Crewe BUASD,E12000002,North West,,Whole,969
+E35001041,West Walton BUASD,E12000006,East of England,,Whole,970
+E35001042,Gravesend BUASD,E12000008,South East,,Whole,971
+E35001043,Rowlands Castle BUASD,E12000008,South East,,Whole,972
+E35001044,Hatfield Peverel BUASD,E12000006,East of England,,Whole,973
+E35001045,Frimley BUASD,E12000008,South East,,Whole,974
+E35000945,Woolsington BUASD,E12000001,North East,,Whole,975
+E35000803,Windermere BUASD,E12000002,North West,,Whole,976
+E35001150,Great Abington BUASD,E12000006,East of England,,Whole,977
+E35001103,Leverington BUASD,E12000006,East of England,,Whole,978
+E35000906,Knaresborough BUASD,E12000003,Yorkshire and The Humber,,Whole,979
+E35000804,Ackworth Moor Top BUASD,E12000003,Yorkshire and The Humber,,Whole,980
+E35001151,Waltham Forest BUASD,E12000007,London,,Whole,981
+E35001104,Natland BUASD,E12000002,North West,,Whole,982
+E35000907,Cumnor BUASD,E12000008,South East,,Whole,983
+E35000805,Harden BUASD,E12000003,Yorkshire and The Humber,,Whole,984
+E35000946,Stoke sub Hamdon BUASD,E12000009,South West,,Whole,985
+E35001152,Southborough BUASD,E12000008,South East,,Whole,986
+E35001105,South Harefield BUASD,E12000007,London,,Whole,987
+E35000908,Willenhall BUASD,E12000005,West Midlands,,Whole,988
+E35000806,Arborfield Cross BUASD,E12000008,South East,,Whole,989
+E35000947,Parbold BUASD,E12000002,North West,,Whole,990
+E35001153,Welwyn Garden City BUASD,E12000006,East of England,,Whole,991
+E35001106,Shanklin BUASD,E12000008,South East,,Whole,992
+E35000909,Eton BUASD,E12000008,South East,,Whole,993
+E35000807,Harrowbarrow BUASD,E12000009,South West,,Whole,994
+E35000948,Taplow BUASD,E12000008,South East,,Whole,995
+E35001154,Chalfont St Giles BUASD,E12000008,South East,,Whole,996
+E35001107,Catherington BUASD,E12000008,South East,,Whole,997
+E35000910,Helston BUASD,E12000009,South West,,Whole,998
+E35000808,Craghead BUASD,E12000001,North East,,Whole,999
+E35000949,South Petherton BUASD,E12000009,South West,,Whole,1000
+E35001155,Cowes BUASD,E12000008,South East,,Whole,1001
+E35001108,Harrow BUASD,E12000007,London,,Whole,1002
+E35000911,Cutthorpe BUASD,E12000004,East Midlands,,Whole,1003
+E35000809,Brayton BUASD,E12000003,Yorkshire and The Humber,,Whole,1004
+E35000810,Brightwell-cum-Sotwell BUASD,E12000008,South East,,Whole,1005
+E35000811,Rushden BUASD,E12000004,East Midlands,,Part,1006
+E35000811,Rushden BUASD,E12000006,East of England,,Part,1007
+E35000812,Fradley South BUASD,E12000005,West Midlands,,Whole,1008
+E35000813,Alsager BUASD,E12000002,North West,,Whole,1009
+E35000814,Oswaldtwistle BUASD,E12000002,North West,,Whole,1010
+E35000815,Doe Lea BUASD,E12000004,East Midlands,,Whole,1011
+E35000816,Linford BUASD,E12000006,East of England,,Whole,1012
+E35000817,Horndean BUASD,E12000008,South East,,Whole,1013
+E35000818,Martlesham BUASD,E12000006,East of England,,Whole,1014
+E35000819,Bodicote BUASD,E12000008,South East,,Whole,1015
+E35000820,Sandleheath BUASD,E12000008,South East,,Whole,1016
+E35000821,Monkton Heathfield BUASD,E12000009,South West,,Whole,1017
+E35000823,Great Preston BUASD,E12000003,Yorkshire and The Humber,,Whole,1018
+E35000824,Tatling End BUASD,E12000008,South East,,Whole,1019
+E35000825,Bramley Park BUASD,E12000008,South East,,Whole,1020
+E35000826,Preston (East Riding of Yorkshire) BUASD,E12000003,Yorkshire and The Humber,,Whole,1021
+E35000827,Thorpe End BUASD,E12000006,East of England,,Whole,1022
+E35000828,Frogham BUASD,E12000008,South East,,Whole,1023
+E35000829,Southwick BUASD,E12000008,South East,,Whole,1024
+E35000830,Bathpool BUASD,E12000009,South West,,Whole,1025
+E35000831,Dartmouth BUASD,E12000009,South West,,Whole,1026
+E35000832,Lee Common BUASD,E12000008,South East,,Whole,1027
+E35000833,Coseley BUASD,E12000005,West Midlands,,Whole,1028
+E35000834,Blackminster BUASD,E12000005,West Midlands,,Whole,1029
+E35000835,Christchurch BUASD,E12000008,South East,,Part,1030
+E35000835,Christchurch BUASD,E12000009,South West,,Part,1031
+E35000836,Tyrrell's Wood BUASD,E12000008,South East,,Whole,1032
+E35000837,Loggerheads BUASD,E12000005,West Midlands,,Whole,1033
+E35000838,Salfords BUASD,E12000008,South East,,Whole,1034
+E35000839,Hammersmith and Fulham BUASD,E12000007,London,,Whole,1035
+E35000840,Box BUASD,E12000009,South West,,Whole,1036
+E35000841,Birkenhead BUASD,E12000002,North West,,Whole,1037
+E35000842,Fulwood BUASD,E12000002,North West,,Whole,1038
+E35000843,Great Yarmouth BUASD,E12000006,East of England,,Whole,1039
+E35000844,Easebourne BUASD,E12000008,South East,,Whole,1040
+E35000845,Scholes BUASD,E12000003,Yorkshire and The Humber,,Whole,1041
+E35000846,Ebford BUASD,E12000009,South West,,Whole,1042
+E35000847,Hampton Lovett BUASD,E12000005,West Midlands,,Whole,1043
+E35001109,Whitnash BUASD,E12000005,West Midlands,,Whole,1044
+E35001156,Horam BUASD,E12000008,South East,,Whole,1045
+E35000912,Cleehill BUASD,E12000005,West Midlands,,Whole,1046
+E35001110,Wilden BUASD,E12000005,West Midlands,,Whole,1047
+E35001157,Cudworth BUASD,E12000003,Yorkshire and The Humber,,Whole,1048
+E35000913,Bulkington BUASD,E12000005,West Midlands,,Whole,1049
+E35001111,Woldingham Garden Village BUASD,E12000008,South East,,Whole,1050
+E35001158,Sandiacre BUASD,E12000004,East Midlands,,Whole,1051
+E35000914,Eversley Cross BUASD,E12000008,South East,,Whole,1052
+E35000950,Bridlington BUASD,E12000003,Yorkshire and The Humber,,Whole,1053
+E35001112,Hythe BUASD,E12000008,South East,,Whole,1054
+E35001159,Doncaster BUASD,E12000003,Yorkshire and The Humber,,Whole,1055
+E35000915,Wilsden BUASD,E12000003,Yorkshire and The Humber,,Whole,1056
+E35000951,Aspley Heath BUASD,E12000005,West Midlands,,Whole,1057
+E35001113,Down Field BUASD,E12000006,East of England,,Whole,1058
+E35001114,Mossley BUASD,E12000002,North West,,Whole,1059
+E35001115,Maltby BUASD,E12000003,Yorkshire and The Humber,,Whole,1060
+E35001116,Totton BUASD,E12000008,South East,,Whole,1061
+E35001117,Berry Hill BUASD,E12000009,South West,,Whole,1062
+E35001118,Portslade-by-Sea BUASD,E12000008,South East,,Whole,1063
+E35001119,Wothorpe BUASD,E12000006,East of England,,Whole,1064
+E35001120,Old Hunstanton BUASD,E12000006,East of England,,Whole,1065
+E35001121,Cross Hills BUASD,E12000003,Yorkshire and The Humber,,Whole,1066
+E35001122,West Hoathly BUASD,E12000008,South East,,Whole,1067
+E35001123,Pilling BUASD,E12000002,North West,,Whole,1068
+E35001124,Ellistown BUASD,E12000004,East Midlands,,Whole,1069
+E35001125,Theale BUASD,E12000008,South East,,Whole,1070
+E35001126,Lingfield Common BUASD,E12000008,South East,,Whole,1071
+E35001127,West Kirby BUASD,E12000002,North West,,Whole,1072
+E35001128,Blaydon BUASD,E12000001,North East,,Whole,1073
+E35001129,Killamarsh BUASD,E12000004,East Midlands,,Whole,1074
+E35001130,Southwold BUASD,E12000006,East of England,,Whole,1075
+E35001131,Milnrow BUASD,E12000002,North West,,Whole,1076
+E35001132,Bishop's Cleeve BUASD,E12000009,South West,,Whole,1077
+E35001133,Strumpshaw BUASD,E12000006,East of England,,Whole,1078
+E35001134,Burringham BUASD,E12000003,Yorkshire and The Humber,,Whole,1079
+E35001136,Lesbury BUASD,E12000001,North East,,Whole,1080
+E35001137,Ringwood BUASD,E12000008,South East,,Whole,1081
+E35001138,North Warnborough BUASD,E12000008,South East,,Whole,1082
+E35001139,Lower Weare BUASD,E12000009,South West,,Whole,1083
+E35001140,Dorking BUASD,E12000008,South East,,Whole,1084
+E35001141,Rawmarsh BUASD,E12000003,Yorkshire and The Humber,,Whole,1085
+E35001142,Stoke St Gregory BUASD,E12000009,South West,,Whole,1086
+E35001143,Felsted BUASD,E12000006,East of England,,Whole,1087
+E35001144,Addington BUASD,E12000008,South East,,Whole,1088
+E35001145,Barrowford BUASD,E12000002,North West,,Whole,1089
+E35000916,Cranbrook BUASD,E12000008,South East,,Whole,1090
+E35000917,Yaxley BUASD,E12000006,East of England,,Whole,1091
+E35001160,Selby BUASD,E12000003,Yorkshire and The Humber,,Whole,1092
+E35000918,Paley Street BUASD,E12000008,South East,,Whole,1093
+E35001161,Hartlepool BUASD,E12000001,North East,,Whole,1094
+E35000919,East Morton BUASD,E12000003,Yorkshire and The Humber,,Whole,1095
+E35001162,Wickford BUASD,E12000006,East of England,,Whole,1096
+E35000920,Kelvedon BUASD,E12000006,East of England,,Whole,1097
+E35001163,Wyboston BUASD,E12000006,East of England,,Whole,1098
+E35000921,Alsagers Bank BUASD,E12000005,West Midlands,,Whole,1099
+E35001164,Broomhall/Windlesham/Virginia Water BUASD,E12000008,South East,,Whole,1100
+E35000922,Biggin Hill BUASD,E12000007,London,,Part,1101
+E35001165,Eastleigh BUASD,E12000008,South East,,Whole,1102
+E35000922,Biggin Hill BUASD,E12000008,South East,,Part,1103
+E35001166,Birmingham BUASD,E12000005,West Midlands,,Whole,1104
+E35000923,Ramsgate BUASD,E12000008,South East,,Whole,1105
+E35001167,Kettering BUASD,E12000004,East Midlands,,Whole,1106
+E35000924,Adlington BUASD,E12000002,North West,,Whole,1107
+E35001168,Headley BUASD,E12000008,South East,,Whole,1108
+E35000925,Kippax BUASD,E12000003,Yorkshire and The Humber,,Whole,1109
+E35001169,Winterbourne Gunner BUASD,E12000009,South West,,Whole,1110
+E35000926,Penzance BUASD,E12000009,South West,,Whole,1111
+E35001170,Shedfield BUASD,E12000008,South East,,Whole,1112
+E35001171,Lymington BUASD,E12000008,South East,,Whole,1113
+E35001172,Walter's Ash BUASD,E12000008,South East,,Whole,1114
+E35001173,Redbridge BUASD,E12000006,East of England,,Part,1115
+E35001173,Redbridge BUASD,E12000007,London,,Part,1116
+E35001174,Churt BUASD,E12000008,South East,,Whole,1117
+E35001175,Royston BUASD,E12000003,Yorkshire and The Humber,,Whole,1118
+E35001176,Diss BUASD,E12000006,East of England,,Whole,1119
+E35001177,Goring BUASD,E12000008,South East,,Whole,1120
+E35001178,Longton BUASD,E12000002,North West,,Whole,1121
+E35001179,Newcastle upon Tyne BUASD,E12000001,North East,,Whole,1122
+E35001180,Esher BUASD,E12000007,London,,Part,1123
+E35001180,Esher BUASD,E12000008,South East,,Part,1124
+E35001181,Ryton BUASD,E12000001,North East,,Whole,1125
+E35001182,Rochdale BUASD,E12000002,North West,,Whole,1126
+E35001183,St Albans BUASD,E12000006,East of England,,Whole,1127
+E35001184,Bardsey BUASD,E12000003,Yorkshire and The Humber,,Whole,1128
+E35001185,North Walney BUASD,E12000002,North West,,Whole,1129
+E35001186,Kiveton Park BUASD,E12000003,Yorkshire and The Humber,,Whole,1130
+E35001187,Catshill BUASD,E12000005,West Midlands,,Whole,1131
+E35001188,Swannington BUASD,E12000004,East Midlands,,Whole,1132
+E35001189,Queenborough BUASD,E12000008,South East,,Whole,1133
+E35001190,Canterbury BUASD,E12000008,South East,,Whole,1134
+E35001191,Normanton BUASD,E12000003,Yorkshire and The Humber,,Whole,1135
+E35001192,Folkestone BUASD,E12000008,South East,,Whole,1136
+E35001193,Badsey BUASD,E12000005,West Midlands,,Whole,1137
+E35000952,Litherland BUASD,E12000002,North West,,Whole,1138
+E35000953,Kirkham BUASD,E12000002,North West,,Whole,1139
+E35000927,Hammerwich BUASD,E12000005,West Midlands,,Whole,1140
+E35000954,Major's Green BUASD,E12000005,West Midlands,,Whole,1141
+E35000928,Ford BUASD,E12000008,South East,,Whole,1142
+E35000955,Rudby BUASD,E12000003,Yorkshire and The Humber,,Whole,1143
+E35000929,Marks Tey BUASD,E12000006,East of England,,Whole,1144
+E35000956,Catterall BUASD,E12000002,North West,,Whole,1145
+E35000930,Sheffield BUASD,E12000003,Yorkshire and The Humber,,Part,1146
+E35000957,Austerfield BUASD,E12000003,Yorkshire and The Humber,,Whole,1147
+E35000930,Sheffield BUASD,E12000004,East Midlands,,Part,1148
+E35000958,Holymoorside BUASD,E12000004,East Midlands,,Whole,1149
+E35000931,Hellaby BUASD,E12000003,Yorkshire and The Humber,,Whole,1150
+E35000959,Waresley BUASD,E12000005,West Midlands,,Whole,1151
+E35000932,Cheadle Hulme BUASD,E12000002,North West,,Whole,1152
+E35000960,Upper Farringdon BUASD,E12000008,South East,,Whole,1153
+E35000933,Radcliffe BUASD,E12000002,North West,,Whole,1154
+E35000961,Barnsley BUASD,E12000003,Yorkshire and The Humber,,Whole,1155
+E35000934,Coalville BUASD,E12000004,East Midlands,,Whole,1156
+E35000962,Platt Bridge BUASD,E12000002,North West,,Whole,1157
+E35000935,Stoke Mandeville BUASD,E12000008,South East,,Whole,1158
+E35000963,Luton BUASD,E12000006,East of England,,Whole,1159
+E35000936,Kingswear BUASD,E12000009,South West,,Whole,1160
+E35000964,Wath upon Dearne BUASD,E12000003,Yorkshire and The Humber,,Whole,1161
+E35000937,Riseley BUASD,E12000008,South East,,Whole,1162
+E35000965,Quorn (Quorndon) BUASD,E12000004,East Midlands,,Whole,1163
+E35000938,Garstang BUASD,E12000002,North West,,Whole,1164
+E35000966,Cold Ash BUASD,E12000008,South East,,Whole,1165
+E35000939,Cromford BUASD,E12000004,East Midlands,,Whole,1166
+E35000967,Catcliffe BUASD,E12000003,Yorkshire and The Humber,,Whole,1167
+E35000940,Tipton BUASD,E12000005,West Midlands,,Whole,1168
+E35000941,Wythall BUASD,E12000005,West Midlands,,Whole,1169
+E35000942,Piddington BUASD,E12000004,East Midlands,,Whole,1170
+E35000943,Burstow BUASD,E12000008,South East,,Whole,1171
+E35000944,Kingston upon Thames BUASD,E12000007,London,,Part,1172
+E35000944,Kingston upon Thames BUASD,E12000008,South East,,Part,1173
+E35000968,Styal BUASD,E12000002,North West,,Whole,1174
+E35000969,Burscough BUASD,E12000002,North West,,Whole,1175
+E35000970,Dursley BUASD,E12000009,South West,,Whole,1176
+E35000971,Desford BUASD,E12000004,East Midlands,,Whole,1177
+E35000972,Greatham BUASD,E12000008,South East,,Whole,1178
+E35000973,Hackney BUASD,E12000007,London,,Whole,1179
+E35000974,Horsley BUASD,E12000009,South West,,Whole,1180
+E35000975,Harrogate BUASD,E12000003,Yorkshire and The Humber,,Whole,1181
+E35000976,Godalming BUASD,E12000008,South East,,Whole,1182
+E35000977,Deepcut BUASD,E12000008,South East,,Whole,1183
+E35000978,Enfield BUASD,E12000007,London,,Whole,1184
+E35000979,Kingsteignton BUASD,E12000009,South West,,Whole,1185
+E35000980,Shrivenham BUASD,E12000008,South East,,Whole,1186
+E35000981,Yapton BUASD,E12000008,South East,,Whole,1187
+E35000982,Seer Green BUASD,E12000008,South East,,Whole,1188
+E35000983,Rolleston on Dove BUASD,E12000005,West Midlands,,Whole,1189
+E35000984,Lower Pilsley BUASD,E12000004,East Midlands,,Whole,1190
+E35000985,Bebington BUASD,E12000002,North West,,Whole,1191
+E35000986,East Cowes BUASD,E12000008,South East,,Whole,1192
+E35000987,Frampton Cotterell/Winterbourne BUASD,E12000009,South West,,Whole,1193
+E35000988,St Ann's Chapel BUASD,E12000009,South West,,Whole,1194
+E35000989,Robin Hood BUASD,E12000003,Yorkshire and The Humber,,Whole,1195
+E35000990,Cringleford BUASD,E12000006,East of England,,Whole,1196
+E35000991,Norton sub Hamdon BUASD,E12000009,South West,,Whole,1197
+E35000992,Long Eaton BUASD,E12000004,East Midlands,,Whole,1198
+E35000993,West Bromwich (East) BUASD,E12000005,West Midlands,,Whole,1199
+E35000994,Bidford-on-Avon BUASD,E12000005,West Midlands,,Whole,1200
+E35001243,Burley BUASD,E12000008,South East,,Whole,1201
+E35001244,Cinderford BUASD,E12000009,South West,,Whole,1202
+E35001245,Cookham BUASD,E12000008,South East,,Whole,1203
+E35001246,Ferndown BUASD,E12000009,South West,,Whole,1204
+E35001247,Little Clacton BUASD,E12000006,East of England,,Whole,1205
+E35001248,Cannock BUASD,E12000005,West Midlands,,Whole,1206
+E35001249,Royal Tunbridge Wells BUASD,E12000008,South East,,Whole,1207
+E35001250,Preston BUASD,E12000002,North West,,Whole,1208
+E35001251,Oldham BUASD,E12000002,North West,,Whole,1209
+E35001252,Mildenhall BUASD,E12000006,East of England,,Whole,1210
+E35001253,Stoke-on-Trent BUASD,E12000005,West Midlands,,Whole,1211
+E35001254,Town Row BUASD,E12000008,South East,,Whole,1212
+E35001255,Hillingdon BUASD,E12000007,London,,Part,1213
+E35001255,Hillingdon BUASD,E12000008,South East,,Part,1214
+E35001256,Accrington BUASD,E12000002,North West,,Whole,1215
+E35001257,Bedford BUASD,E12000006,East of England,,Whole,1216
+E35001258,Peterlee BUASD,E12000001,North East,,Whole,1217
+E35001259,Stoneyford BUASD,E12000009,South West,,Whole,1218
+E35001260,Exeter BUASD,E12000009,South West,,Whole,1219
+E35001261,Bristol BUASD,E12000009,South West,,Whole,1220
+E35001262,Congresbury BUASD,E12000009,South West,,Whole,1221
+E35001263,Corby BUASD,E12000004,East Midlands,,Whole,1222
+E35001392,Royal Leamington Spa BUASD,E12000005,West Midlands,,Whole,1223
+E35001343,Watchfield BUASD,E12000008,South East,,Whole,1224
+E35001490,Leatherhead BUASD,E12000008,South East,,Whole,1225
+E35001441,Oxford BUASD,E12000008,South East,,Whole,1226
+E35001194,St Neots BUASD,E12000006,East of England,,Whole,1227
+E35001264,Reigate BUASD,E12000008,South East,,Whole,1228
+E35001265,Limpley Stoke BUASD,E12000009,South West,,Whole,1229
+E35001266,Stourport-on-Severn BUASD,E12000005,West Midlands,,Whole,1230
+E35001267,Prudhoe BUASD,E12000001,North East,,Whole,1231
+E35001268,Hastings BUASD,E12000008,South East,,Whole,1232
+E35001269,Audley BUASD,E12000005,West Midlands,,Whole,1233
+E35001270,Stockport BUASD,E12000002,North West,,Whole,1234
+E35001271,Harefield BUASD,E12000007,London,,Whole,1235
+E35001272,Rugby BUASD,E12000005,West Midlands,,Whole,1236
+E35001273,Four Marks BUASD,E12000008,South East,,Whole,1237
+E35001274,Ambergate BUASD,E12000004,East Midlands,,Whole,1238
+E35001275,Havering BUASD,E12000007,London,,Whole,1239
+E35001276,Marlow BUASD,E12000008,South East,,Whole,1240
+E35001277,Newburn BUASD,E12000001,North East,,Whole,1241
+E35001278,Aylesbury BUASD,E12000008,South East,,Whole,1242
+E35001279,Solihull BUASD,E12000005,West Midlands,,Whole,1243
+E35001280,Dunball BUASD,E12000009,South West,,Whole,1244
+E35001281,Ipswich BUASD,E12000006,East of England,,Whole,1245
+E35001282,Liversedge BUASD,E12000003,Yorkshire and The Humber,,Whole,1246
+E35001283,Penistone BUASD,E12000003,Yorkshire and The Humber,,Whole,1247
+E35001284,Basildon BUASD,E12000006,East of England,,Whole,1248
+E35001285,Offenham BUASD,E12000005,West Midlands,,Whole,1249
+E35001286,Worksop BUASD,E12000004,East Midlands,,Whole,1250
+E35001287,Chertsey BUASD,E12000008,South East,,Whole,1251
+E35001288,Chelmsford BUASD,E12000006,East of England,,Whole,1252
+E35001289,Worden BUASD,E12000002,North West,,Whole,1253
+E35001290,Standish BUASD,E12000002,North West,,Whole,1254
+E35001291,Fazeley BUASD,E12000005,West Midlands,,Whole,1255
+E35001292,Andover BUASD,E12000008,South East,,Whole,1256
+E35001393,Poulton-le-Fylde BUASD,E12000002,North West,,Whole,1257
+E35001442,Shoreham-by-Sea BUASD,E12000008,South East,,Whole,1258
+E35001344,Exton BUASD,E12000009,South West,,Whole,1259
+E35001293,Watton BUASD,E12000006,East of England,,Whole,1260
+E35001491,West Bromwich BUASD,E12000005,West Midlands,,Whole,1261
+E35001195,Fareham BUASD,E12000008,South East,,Whole,1262
+E35001394,Newham BUASD,E12000007,London,,Whole,1263
+E35001443,Duckmanton BUASD,E12000004,East Midlands,,Whole,1264
+E35001345,Rainford BUASD,E12000002,North West,,Whole,1265
+E35001294,Hounslow BUASD,E12000007,London,,Whole,1266
+E35001492,Whitley Bay BUASD,E12000001,North East,,Whole,1267
+E35001196,Sunderland BUASD,E12000001,North East,,Whole,1268
+E35001395,Stanley BUASD,E12000001,North East,,Whole,1269
+E35001444,Rochester BUASD,E12000008,South East,,Whole,1270
+E35001346,Stroud BUASD,E12000009,South West,,Whole,1271
+E35001295,Warlingham BUASD,E12000008,South East,,Whole,1272
+E35001493,Horley BUASD,E12000008,South East,,Whole,1273
+E35001197,Ripley BUASD,E12000004,East Midlands,,Whole,1274
+E35001396,Bramley BUASD,E12000008,South East,,Whole,1275
+E35001445,Speldhurst BUASD,E12000008,South East,,Whole,1276
+E35001347,Lancaster BUASD,E12000002,North West,,Whole,1277
+E35001296,Drybrook BUASD,E12000009,South West,,Whole,1278
+E35001494,Newark-on-Trent BUASD,E12000004,East Midlands,,Whole,1279
+E35001198,Farnham BUASD,E12000008,South East,,Whole,1280
+E35001397,Bexhill BUASD,E12000008,South East,,Whole,1281
+E35001446,Hoyland BUASD,E12000003,Yorkshire and The Humber,,Whole,1282
+E35001348,Harlow BUASD,E12000006,East of England,,Whole,1283
+E35001297,Wingerworth BUASD,E12000004,East Midlands,,Whole,1284
+E35001495,Great Horkesley BUASD,E12000006,East of England,,Whole,1285
+E35001199,Bolton BUASD,E12000002,North West,,Whole,1286
+E35001200,Guildford BUASD,E12000008,South East,,Whole,1287
+E35001201,Northampton BUASD,E12000004,East Midlands,,Whole,1288
+E35001202,Heanor BUASD,E12000004,East Midlands,,Whole,1289
+E35001203,Burntwood BUASD,E12000005,West Midlands,,Whole,1290
+E35001204,Carrington BUASD,E12000002,North West,,Whole,1291
+E35001205,Abingdon BUASD,E12000008,South East,,Whole,1292
+E35001206,Keadby BUASD,E12000003,Yorkshire and The Humber,,Whole,1293
+E35001207,Stanton-by-Dale BUASD,E12000004,East Midlands,,Whole,1294
+E35001208,Worsley BUASD,E12000002,North West,,Whole,1295
+E35001209,Gloucestershire Airport BUASD,E12000009,South West,,Whole,1296
+E35001210,High Wycombe BUASD,E12000008,South East,,Whole,1297
+E35001211,Bradford BUASD,E12000003,Yorkshire and The Humber,,Whole,1298
+E35001212,Blackwell BUASD,E12000005,West Midlands,,Whole,1299
+E35001213,East Grinstead BUASD,E12000008,South East,,Whole,1300
+E35001214,Brownhills BUASD,E12000005,West Midlands,,Whole,1301
+E35001215,Atherstone BUASD,E12000005,West Midlands,,Whole,1302
+E35001216,Burton upon Trent BUASD,E12000004,East Midlands,,Part,1303
+E35001216,Burton upon Trent BUASD,E12000005,West Midlands,,Part,1304
+E35001217,Bamber Bridge BUASD,E12000002,North West,,Whole,1305
+E35001218,Wilmslow BUASD,E12000002,North West,,Whole,1306
+E35001219,Gloucester BUASD,E12000009,South West,,Whole,1307
+E35001220,Otley BUASD,E12000003,Yorkshire and The Humber,,Whole,1308
+E35001221,Bushey BUASD,E12000006,East of England,,Whole,1309
+E35001222,Gateshead BUASD,E12000001,North East,,Whole,1310
+E35001223,Newport Pagnell BUASD,E12000008,South East,,Whole,1311
+E35001224,Ilkeston BUASD,E12000004,East Midlands,,Whole,1312
+E35001225,Newton-le-Willows BUASD,E12000002,North West,,Whole,1313
+E35001226,Bartley BUASD,E12000008,South East,,Whole,1314
+E35001227,Tilbury BUASD,E12000006,East of England,,Whole,1315
+E35001228,Droitwich BUASD,E12000005,West Midlands,,Whole,1316
+E35001229,Mountsorrel BUASD,E12000004,East Midlands,,Whole,1317
+E35001230,Chesterfield BUASD,E12000004,East Midlands,,Whole,1318
+E35001231,Bovingdon BUASD,E12000006,East of England,,Whole,1319
+E35001232,Billericay BUASD,E12000006,East of England,,Whole,1320
+E35001233,Crawley Down BUASD,E12000008,South East,,Whole,1321
+E35001234,Bideford BUASD,E12000009,South West,,Whole,1322
+E35001235,Wendover BUASD,E12000008,South East,,Whole,1323
+E35001236,Jarrow BUASD,E12000001,North East,,Whole,1324
+E35001237,Southampton BUASD,E12000008,South East,,Whole,1325
+E35001238,Tamworth BUASD,E12000005,West Midlands,,Whole,1326
+E35001239,Newbury BUASD,E12000008,South East,,Whole,1327
+E35001240,Hale (Trafford) BUASD,E12000002,North West,,Whole,1328
+E35001241,Weymouth BUASD,E12000009,South West,,Whole,1329
+E35001242,Bracknell BUASD,E12000008,South East,,Whole,1330
+E35001636,Boothsdale BUASD,E12000002,North West,,Whole,1331
+E35001398,Plymouth BUASD,E12000009,South West,,Whole,1332
+E35001447,Hemel Hempstead BUASD,E12000006,East of England,,Whole,1333
+E35001349,Wokingham BUASD,E12000008,South East,,Whole,1334
+E35001496,Pershore BUASD,E12000005,West Midlands,,Whole,1335
+E35001639,Hook Park Estate BUASD,E12000008,South East,,Whole,1336
+E35001399,Leicester BUASD,E12000004,East Midlands,,Whole,1337
+E35001448,Brierfield BUASD,E12000002,North West,,Whole,1338
+E35001350,Kidsgrove BUASD,E12000002,North West,,Part,1339
+E35001497,St Helens BUASD,E12000002,North West,,Whole,1340
+E35001640,Shipley Bridge BUASD,E12000008,South East,,Whole,1341
+E35001400,Leek BUASD,E12000005,West Midlands,,Whole,1342
+E35001401,Wallsend BUASD,E12000001,North East,,Whole,1343
+E35001402,Huddersfield BUASD,E12000003,Yorkshire and The Humber,,Whole,1344
+E35001403,Wheelton BUASD,E12000002,North West,,Whole,1345
+E35001404,Hunstanton BUASD,E12000006,East of England,,Whole,1346
+E35001405,Cambridge BUASD,E12000006,East of England,,Whole,1347
+E35001406,Knowl Hill BUASD,E12000008,South East,,Whole,1348
+E35001407,Colne BUASD,E12000002,North West,,Whole,1349
+E35001408,Park Street BUASD,E12000006,East of England,,Whole,1350
+E35001409,Weybridge BUASD,E12000008,South East,,Whole,1351
+E35001410,North Bradley BUASD,E12000009,South West,,Whole,1352
+E35001411,Glossop BUASD,E12000002,North West,,Part,1353
+E35001411,Glossop BUASD,E12000004,East Midlands,,Part,1354
+E35001412,Weeley Heath BUASD,E12000006,East of England,,Whole,1355
+E35001413,Hoddesdon BUASD,E12000006,East of England,,Whole,1356
+E35001414,Staveley BUASD,E12000004,East Midlands,,Whole,1357
+E35001415,Bury BUASD,E12000002,North West,,Whole,1358
+E35001416,Redruth BUASD,E12000009,South West,,Whole,1359
+E35001417,Amersham BUASD,E12000008,South East,,Whole,1360
+E35001418,Swanscombe BUASD,E12000008,South East,,Whole,1361
+E35001419,Wetherby BUASD,E12000003,Yorkshire and The Humber,,Whole,1362
+E35001420,Malton BUASD,E12000003,Yorkshire and The Humber,,Whole,1363
+E35001421,Locks Heath/Warsash/Whiteley BUASD,E12000008,South East,,Whole,1364
+E35001422,Medstead BUASD,E12000008,South East,,Whole,1365
+E35001423,Nailsworth BUASD,E12000009,South West,,Whole,1366
+E35001424,Leiston BUASD,E12000006,East of England,,Whole,1367
+E35001425,Skelmersdale BUASD,E12000002,North West,,Whole,1368
+E35001426,Whittingham BUASD,E12000002,North West,,Whole,1369
+E35001427,Washington BUASD,E12000001,North East,,Whole,1370
+E35001428,Ellesmere Port BUASD,E12000002,North West,,Whole,1371
+E35001429,Worplesdon BUASD,E12000008,South East,,Whole,1372
+E35001430,Awsworth BUASD,E12000004,East Midlands,,Whole,1373
+E35001431,Shortfield Common BUASD,E12000008,South East,,Whole,1374
+E35001432,Rickmansworth BUASD,E12000006,East of England,,Whole,1375
+E35001433,Pilley BUASD,E12000008,South East,,Whole,1376
+E35001434,Camblesforth BUASD,E12000003,Yorkshire and The Humber,,Whole,1377
+E35001435,Carnforth BUASD,E12000002,North West,,Whole,1378
+E35001436,Newcastle-under-Lyme BUASD,E12000005,West Midlands,,Whole,1379
+E35001437,Swindon BUASD,E12000009,South West,,Whole,1380
+E35001438,Walsall BUASD,E12000005,West Midlands,,Whole,1381
+E35001439,Gunnislake BUASD,E12000009,South West,,Whole,1382
+E35001440,Stanford Dingley BUASD,E12000008,South East,,Whole,1383
+E35001298,Woking BUASD,E12000008,South East,,Whole,1384
+E35001643,Over Stratton BUASD,E12000009,South West,,Whole,1385
+E35001299,Chesham BUASD,E12000008,South East,,Whole,1386
+E35001646,Lover BUASD,E12000009,South West,,Whole,1387
+E35001350,Kidsgrove BUASD,E12000005,West Midlands,,Part,1388
+E35001449,Copthorne BUASD,E12000008,South East,,Whole,1389
+E35001498,Stockton-on-Tees BUASD,E12000001,North East,,Whole,1390
+E35001300,North Mundham BUASD,E12000008,South East,,Whole,1391
+E35001667,Winkfield Street BUASD,E12000008,South East,,Whole,1392
+E35001351,Littleborough BUASD,E12000002,North West,,Whole,1393
+E35001450,Coleorton BUASD,E12000004,East Midlands,,Whole,1394
+E35001499,Hitchin BUASD,E12000006,East of England,,Whole,1395
+E35001301,Woodley BUASD,E12000008,South East,,Whole,1396
+E35001670,Bolter End BUASD,E12000008,South East,,Whole,1397
+E35001352,Camberley BUASD,E12000008,South East,,Whole,1398
+E35001353,Slough BUASD,E12000008,South East,,Whole,1399
+E35001354,Tynemouth BUASD,E12000001,North East,,Whole,1400
+E35001355,Peaslake BUASD,E12000008,South East,,Whole,1401
+E35001356,Alfreton BUASD,E12000004,East Midlands,,Whole,1402
+E35001357,Colchester BUASD,E12000006,East of England,,Whole,1403
+E35001358,Derby BUASD,E12000004,East Midlands,,Whole,1404
+E35001359,Wimborne Minster BUASD,E12000009,South West,,Whole,1405
+E35001360,Kingsnorth (Ashford) BUASD,E12000008,South East,,Whole,1406
+E35001361,Ryde BUASD,E12000008,South East,,Whole,1407
+E35001362,Cramlington BUASD,E12000001,North East,,Whole,1408
+E35001363,Grantham BUASD,E12000004,East Midlands,,Whole,1409
+E35001364,Barking and Dagenham BUASD,E12000007,London,,Whole,1410
+E35001365,Wombwell BUASD,E12000003,Yorkshire and The Humber,,Whole,1411
+E35001366,Chester-le-Street BUASD,E12000001,North East,,Whole,1412
+E35001367,Kesgrave BUASD,E12000006,East of England,,Whole,1413
+E35001368,Woodchester BUASD,E12000009,South West,,Whole,1414
+E35001369,Rocester BUASD,E12000005,West Midlands,,Whole,1415
+E35001370,Epsom BUASD,E12000008,South East,,Whole,1416
+E35001371,Hooton BUASD,E12000002,North West,,Whole,1417
+E35001372,Walhampton BUASD,E12000008,South East,,Whole,1418
+E35001373,Minster (Swale) BUASD,E12000008,South East,,Whole,1419
+E35001374,Horsforth BUASD,E12000003,Yorkshire and The Humber,,Whole,1420
+E35001375,Hoylake BUASD,E12000002,North West,,Whole,1421
+E35001376,Coventry BUASD,E12000005,West Midlands,,Whole,1422
+E35001377,Anna Valley BUASD,E12000008,South East,,Whole,1423
+E35001378,Rayleigh BUASD,E12000006,East of England,,Whole,1424
+E35001379,Wigan BUASD,E12000002,North West,,Whole,1425
+E35001380,Partington BUASD,E12000002,North West,,Whole,1426
+E35001381,Dudley (North Tyneside) BUASD,E12000001,North East,,Whole,1427
+E35001382,Waltham Chase BUASD,E12000008,South East,,Whole,1428
+E35001383,Leeming BUASD,E12000003,Yorkshire and The Humber,,Whole,1429
+E35001384,High Garrett BUASD,E12000006,East of England,,Whole,1430
+E35001385,Middlesbrough BUASD,E12000001,North East,,Whole,1431
+E35001386,Waltham Abbey BUASD,E12000006,East of England,,Whole,1432
+E35001387,Consett BUASD,E12000001,North East,,Whole,1433
+E35001388,Whitworth BUASD,E12000002,North West,,Whole,1434
+E35001389,Peterborough BUASD,E12000006,East of England,,Whole,1435
+E35001390,Elstree BUASD,E12000006,East of England,,Whole,1436
+E35001391,Carlisle BUASD,E12000002,North West,,Whole,1437
+K06000001,Farndon (Cheshire West and Chester) BUASD,E12000002,North West,,Whole,1438
+E35001500,Burley in Wharfedale BUASD,E12000003,Yorkshire and The Humber,,Whole,1439
+E35001451,Lincoln BUASD,E12000004,East Midlands,,Whole,1440
+K06000002,Holt BUASD,W92000004,Wales,Cymru,Whole,1441
+E35001501,Reading BUASD,E12000008,South East,,Whole,1442
+E35001452,Worcester BUASD,E12000005,West Midlands,,Whole,1443
+K06000003,Pulford BUASD,E12000002,North West,,Whole,1444
+E35001502,Hedge End BUASD,E12000008,South East,,Whole,1445
+E35001453,Stowmarket BUASD,E12000006,East of England,,Whole,1446
+K06000004,Chester BUASD,E12000002,North West,,Part,1447
+E35001503,Westergate BUASD,E12000008,South East,,Whole,1448
+E35001454,Grays BUASD,E12000006,East of England,,Whole,1449
+K06000004,Chester BUASD,W92000004,Wales,Cymru,Part,1450
+E35001504,Ealing BUASD,E12000007,London,,Whole,1451
+E35001455,Hartlebury BUASD,E12000005,West Midlands,,Whole,1452
+W38000001,Wrexham BUASD,W92000004,Wales,Cymru,Whole,1453
+W38000002,Castleton BUASD,W92000004,Wales,Cymru,Whole,1454
+W38000003,Abersychan BUASD,W92000004,Wales,Cymru,Whole,1455
+W38000004,New Hedges BUASD,W92000004,Wales,Cymru,Whole,1456
+W38000005,Rhostyllen BUASD,W92000004,Wales,Cymru,Whole,1457
+W38000006,Pantymwyn BUASD,W92000004,Wales,Cymru,Whole,1458
+W38000007,Abercarn BUASD,W92000004,Wales,Cymru,Whole,1459
+W38000008,Parcllyn BUASD,W92000004,Wales,Cymru,Whole,1460
+W38000009,Bangor BUASD,W92000004,Wales,Cymru,Whole,1461
+W38000010,Kinmel Bay BUASD,W92000004,Wales,Cymru,Whole,1462
+W38000011,Wattsville BUASD,W92000004,Wales,Cymru,Whole,1463
+W38000012,Ynysddu BUASD,W92000004,Wales,Cymru,Whole,1464
+W38000013,St Clears BUASD,W92000004,Wales,Cymru,Whole,1465
+W38000014,Pwll-trap BUASD,W92000004,Wales,Cymru,Whole,1466
+W38000015,Llanbadarn Fawr BUASD,W92000004,Wales,Cymru,Whole,1467
+W38000016,Maesteg BUASD,W92000004,Wales,Cymru,Whole,1468
+W38000017,Treharris BUASD,W92000004,Wales,Cymru,Whole,1469
+W38000018,Ammanford BUASD,W92000004,Wales,Cymru,Whole,1470
+W38000019,Shotton BUASD,W92000004,Wales,Cymru,Whole,1471
+W38000020,Gronant BUASD,W92000004,Wales,Cymru,Whole,1472
+W38000021,Llangennech BUASD,W92000004,Wales,Cymru,Whole,1473
+W38000022,Hendreforgan BUASD,W92000004,Wales,Cymru,Whole,1474
+W38000023,Croeserw BUASD,W92000004,Wales,Cymru,Whole,1475
+W38000024,Pembrey BUASD,W92000004,Wales,Cymru,Whole,1476
+W38000025,Rachub BUASD,W92000004,Wales,Cymru,Whole,1477
+W38000026,Aberbargoed BUASD,W92000004,Wales,Cymru,Whole,1478
+W38000027,Glyn-neath BUASD,W92000004,Wales,Cymru,Whole,1479
+W38000028,Loughor BUASD,W92000004,Wales,Cymru,Whole,1480
+W38000029,Blaina BUASD,W92000004,Wales,Cymru,Whole,1481
+W38000030,Llanfoist BUASD,W92000004,Wales,Cymru,Whole,1482
+W38000031,Hope BUASD,W92000004,Wales,Cymru,Whole,1483
+W38000032,Newbridge BUASD,W92000004,Wales,Cymru,Whole,1484
+W38000033,Gwaun-Cae-Gurwen BUASD,W92000004,Wales,Cymru,Whole,1485
+W38000034,Brynmawr BUASD,W92000004,Wales,Cymru,Whole,1486
+W38000035,Efail Isaf BUASD,W92000004,Wales,Cymru,Whole,1487
+W38000036,Begelly BUASD,W92000004,Wales,Cymru,Whole,1488
+W38000037,Blaengwrach BUASD,W92000004,Wales,Cymru,Whole,1489
+W38000038,Saron BUASD,W92000004,Wales,Cymru,Whole,1490
+E35001302,Yeadon BUASD,E12000003,Yorkshire and The Humber,,Whole,1491
+E35001303,Clay Cross BUASD,E12000004,East Midlands,,Whole,1492
+E35001456,Batley BUASD,E12000003,Yorkshire and The Humber,,Whole,1493
+E35001304,Charing Heath BUASD,E12000008,South East,,Whole,1494
+E35001505,Forest Row BUASD,E12000008,South East,,Whole,1495
+E35001457,Rochford BUASD,E12000006,East of England,,Whole,1496
+E35001305,Runcorn BUASD,E12000002,North West,,Whole,1497
+E35001506,Littleton BUASD,E12000008,South East,,Whole,1498
+E35001458,Margate BUASD,E12000008,South East,,Whole,1499
+E35001306,Wellingborough BUASD,E12000004,East Midlands,,Whole,1500
+E35001507,Loughton BUASD,E12000006,East of England,,Whole,1501
+E35001459,Haslemere BUASD,E12000008,South East,,Whole,1502
+E35001307,Telford BUASD,E12000005,West Midlands,,Whole,1503
+E35001508,Woodend BUASD,E12000003,Yorkshire and The Humber,,Whole,1504
+E35001460,Plaitford BUASD,E12000009,South West,,Whole,1505
+E35001308,Ditton BUASD,E12000008,South East,,Whole,1506
+E35001509,Newick BUASD,E12000008,South East,,Whole,1507
+E35001461,Cranleigh BUASD,E12000008,South East,,Whole,1508
+E35001309,East Wellow BUASD,E12000008,South East,,Whole,1509
+E35001510,Greenwich BUASD,E12000007,London,,Whole,1510
+E35001462,Bicester BUASD,E12000008,South East,,Whole,1511
+E35001463,Bridgnorth BUASD,E12000005,West Midlands,,Whole,1512
+E35001464,Wareham BUASD,E12000009,South West,,Whole,1513
+E35001465,Mimbridge BUASD,E12000008,South East,,Whole,1514
+E35001466,Croydon BUASD,E12000007,London,,Part,1515
+E35001466,Croydon BUASD,E12000008,South East,,Part,1516
+E35001467,Hersden BUASD,E12000008,South East,,Whole,1517
+E35001468,South Normanton BUASD,E12000004,East Midlands,,Whole,1518
+E35001469,Sutton Valence BUASD,E12000008,South East,,Whole,1519
+E35001470,Liverpool BUASD,E12000002,North West,,Whole,1520
+E35001471,Merley BUASD,E12000009,South West,,Whole,1521
+E35001472,Blackpool BUASD,E12000002,North West,,Whole,1522
+E35001473,Oughtibridge BUASD,E12000003,Yorkshire and The Humber,,Whole,1523
+E35001474,Wakefield BUASD,E12000003,Yorkshire and The Humber,,Whole,1524
+E35001475,Boxted BUASD,E12000006,East of England,,Whole,1525
+E35001476,Bude BUASD,E12000009,South West,,Whole,1526
+E35001477,Richmond upon Thames BUASD,E12000007,London,,Whole,1527
+E35001478,Bannister Green BUASD,E12000006,East of England,,Whole,1528
+E35001479,Gosport BUASD,E12000008,South East,,Whole,1529
+E35001480,Seaton BUASD,E12000002,North West,,Whole,1530
+E35001481,Thornaby-on-Tees BUASD,E12000001,North East,,Whole,1531
+E35001482,Adwick le Street BUASD,E12000003,Yorkshire and The Humber,,Whole,1532
+E35001483,Horney Common BUASD,E12000008,South East,,Whole,1533
+E35001484,Lyne BUASD,E12000008,South East,,Whole,1534
+E35001485,Houghton-le-Spring BUASD,E12000001,North East,,Whole,1535
+E35001486,Herne Bay BUASD,E12000008,South East,,Whole,1536
+E35001487,Tadley BUASD,E12000008,South East,,Whole,1537
+E35001488,Furness Vale BUASD,E12000004,East Midlands,,Whole,1538
+E35001489,Bowness-on-Windermere BUASD,E12000002,North West,,Whole,1539
+E35001511,North Chailey BUASD,E12000008,South East,,Whole,1540
+E35001310,Domewood BUASD,E12000008,South East,,Whole,1541
+E35001512,Clayhill BUASD,E12000008,South East,,Whole,1542
+E35001311,Egham BUASD,E12000008,South East,,Whole,1543
+E35001513,Denby Common BUASD,E12000004,East Midlands,,Whole,1544
+E35001312,Portsmouth BUASD,E12000008,South East,,Whole,1545
+E35001514,Everton BUASD,E12000006,East of England,,Whole,1546
+E35001313,Wolverhampton BUASD,E12000005,West Midlands,,Whole,1547
+E35001515,Tincklers Bridge BUASD,E12000002,North West,,Whole,1548
+E35001314,Staines BUASD,E12000008,South East,,Whole,1549
+E35001516,Milton Keynes BUASD,E12000008,South East,,Whole,1550
+E35001315,Torquay BUASD,E12000009,South West,,Whole,1551
+E35001517,Redditch BUASD,E12000005,West Midlands,,Whole,1552
+E35001316,Nottingham BUASD,E12000004,East Midlands,,Whole,1553
+E35001524,Baker Street BUASD,E12000006,East of England,,Whole,1554
+E35001317,Rockwell Green BUASD,E12000009,South West,,Whole,1555
+E35001526,Wadeford BUASD,E12000009,South West,,Whole,1556
+E35001318,Paignton BUASD,E12000009,South West,,Whole,1557
+E35001530,Picket Piece BUASD,E12000008,South East,,Whole,1558
+E35001319,Gomeldon BUASD,E12000009,South West,,Whole,1559
+E35001533,Whitchurch BUASD,E12000005,West Midlands,,Whole,1560
+E35001320,Grimsby BUASD,E12000003,Yorkshire and The Humber,,Whole,1561
+E35001536,Hambrook BUASD,E12000009,South West,,Whole,1562
+E35001321,West Hallam BUASD,E12000004,East Midlands,,Whole,1563
+E35001554,Newchapel BUASD,E12000008,South East,,Whole,1564
+E35001322,Weston-Super-Mare BUASD,E12000009,South West,,Whole,1565
+E35001559,Sneath Common BUASD,E12000006,East of England,,Whole,1566
+E35001566,Chelwood Common BUASD,E12000008,South East,,Whole,1567
+E35001574,Little Eccleston BUASD,E12000002,North West,,Whole,1568
+E35001575,Touchen-end BUASD,E12000008,South East,,Whole,1569
+E35001578,Abbotswood BUASD,E12000008,South East,,Whole,1570
+E35001581,Fold Hill BUASD,E12000004,East Midlands,,Whole,1571
+E35001583,Mapledurwell BUASD,E12000008,South East,,Whole,1572
+E35001591,Dean Row BUASD,E12000002,North West,,Whole,1573
+E35001594,Helford Passage BUASD,E12000009,South West,,Whole,1574
+E35001595,Longham BUASD,E12000009,South West,,Whole,1575
+E35001596,Easton BUASD,E12000008,South East,,Whole,1576
+E35001603,Street End BUASD,E12000008,South East,,Whole,1577
+E35001616,Hull Bridge BUASD,E12000003,Yorkshire and The Humber,,Whole,1578
+E35001630,Saighton Camp BUASD,E12000002,North West,,Whole,1579
+E35001633,Bullingstone BUASD,E12000008,South East,,Whole,1580
+E35001635,East Harting BUASD,E12000008,South East,,Whole,1581
+E35001323,Beeston (Broxtowe) BUASD,E12000004,East Midlands,,Whole,1582
+E35001324,Warwick BUASD,E12000005,West Midlands,,Whole,1583
+E35001325,Filton BUASD,E12000009,South West,,Whole,1584
+E35001326,Stafford BUASD,E12000005,West Midlands,,Whole,1585
+E35001327,West Kingsdown BUASD,E12000008,South East,,Whole,1586
+E35001329,Rotherham BUASD,E12000003,Yorkshire and The Humber,,Whole,1587
+E35001330,Upthorpe BUASD,E12000009,South West,,Whole,1588
+E35001331,Whalley BUASD,E12000002,North West,,Whole,1589
+E35001332,Leyland BUASD,E12000002,North West,,Whole,1590
+E35001333,Leeds BUASD,E12000003,Yorkshire and The Humber,,Whole,1591
+E35001334,Mansfield BUASD,E12000004,East Midlands,,Whole,1592
+E35001335,Kingston upon Hull BUASD,E12000003,Yorkshire and The Humber,,Whole,1593
+E35001336,Churchill BUASD,E12000009,South West,,Whole,1594
+E35001337,Swadlincote BUASD,E12000004,East Midlands,,Whole,1595
+E35001338,Friskney BUASD,E12000004,East Midlands,,Whole,1596
+E35001339,Great Holland BUASD,E12000006,East of England,,Whole,1597
+E35001340,Northwich BUASD,E12000002,North West,,Whole,1598
+E35001341,Iver Heath BUASD,E12000008,South East,,Whole,1599
+E35001342,Upper Hartfield BUASD,E12000008,South East,,Whole,1600
+W38000039,Gorsedd BUASD,W92000004,Wales,Cymru,Whole,1601
+W38000040,Undy BUASD,W92000004,Wales,Cymru,Whole,1602
+W38000041,Sydallt BUASD,W92000004,Wales,Cymru,Whole,1603
+W38000042,Caeathro BUASD,W92000004,Wales,Cymru,Whole,1604
+W38000043,Caernarfon BUASD,W92000004,Wales,Cymru,Whole,1605
+W38000044,Abergavenny BUASD,W92000004,Wales,Cymru,Whole,1606
+W38000045,Rhosllanerchrugog BUASD,W92000004,Wales,Cymru,Whole,1607
+W38000046,Nant-y-moel BUASD,W92000004,Wales,Cymru,Whole,1608
+W38000047,Prestatyn BUASD,W92000004,Wales,Cymru,Whole,1609
+W38000048,Dyserth BUASD,W92000004,Wales,Cymru,Whole,1610
+W38000049,Shirenewton BUASD,W92000004,Wales,Cymru,Whole,1611
+W38000050,Gowerton BUASD,W92000004,Wales,Cymru,Whole,1612
+W38000095,Trelales BUASD,W92000004,Wales,Cymru,Whole,1613
+W38000051,RAF Station St Athan BUASD,W92000004,Wales,Cymru,Whole,1614
+W38000052,Llanddulas BUASD,W92000004,Wales,Cymru,Whole,1615
+W38000053,Northop Hall BUASD,W92000004,Wales,Cymru,Whole,1616
+W38000054,Penybanc BUASD,W92000004,Wales,Cymru,Whole,1617
+W38000096,Sandycroft BUASD,W92000004,Wales,Cymru,Whole,1618
+W38000055,Connah's Quay BUASD,W92000004,Wales,Cymru,Whole,1619
+W38000097,Tumble BUASD,W92000004,Wales,Cymru,Whole,1620
+W38000056,Treherbert BUASD,W92000004,Wales,Cymru,Whole,1621
+W38000098,Nelson (Caerphilly) BUASD,W92000004,Wales,Cymru,Whole,1622
+W38000099,St Dogmaels BUASD,W92000004,Wales,Cymru,Whole,1623
+W38000100,Rossett BUASD,W92000004,Wales,Cymru,Whole,1624
+W38000101,Rhigos BUASD,W92000004,Wales,Cymru,Whole,1625
+W38000102,Llysfaen BUASD,W92000004,Wales,Cymru,Whole,1626
+W38000103,Trevor BUASD,W92000004,Wales,Cymru,Whole,1627
+W38000104,Fairbourne BUASD,W92000004,Wales,Cymru,Whole,1628
+W38000105,Ystradgynlais BUASD,W92000004,Wales,Cymru,Whole,1629
+W38000106,Fernhill BUASD,W92000004,Wales,Cymru,Whole,1630
+W38000107,Church Village BUASD,W92000004,Wales,Cymru,Whole,1631
+W38000108,Rhymney BUASD,W92000004,Wales,Cymru,Whole,1632
+W38000109,Brynsadler BUASD,W92000004,Wales,Cymru,Whole,1633
+W38000110,Pontllan-fraith BUASD,W92000004,Wales,Cymru,Whole,1634
+W38000111,Pontypool BUASD,W92000004,Wales,Cymru,Whole,1635
+W38000112,Rhyl BUASD,W92000004,Wales,Cymru,Whole,1636
+W38000113,Saundersfoot BUASD,W92000004,Wales,Cymru,Whole,1637
+W38000114,Welshpool BUASD,W92000004,Wales,Cymru,Whole,1638
+W38000115,Nantyglo BUASD,W92000004,Wales,Cymru,Whole,1639
+W38000116,Marshfield BUASD,W92000004,Wales,Cymru,Whole,1640
+W38000117,Abergele BUASD,W92000004,Wales,Cymru,Whole,1641
+W38000118,Penrhyn-side BUASD,W92000004,Wales,Cymru,Whole,1642
+W38000119,Ogmore Vale BUASD,W92000004,Wales,Cymru,Whole,1643
+W38000120,Colwyn Bay BUASD,W92000004,Wales,Cymru,Whole,1644
+W38000121,Cardigan BUASD,W92000004,Wales,Cymru,Whole,1645
+W38000122,Beddau BUASD,W92000004,Wales,Cymru,Whole,1646
+W38000123,Penarth BUASD,W92000004,Wales,Cymru,Whole,1647
+W38000124,Bargod BUASD,W92000004,Wales,Cymru,Whole,1648
+W38000125,Aberdare BUASD,W92000004,Wales,Cymru,Whole,1649
+W38000126,Blackwood BUASD,W92000004,Wales,Cymru,Whole,1650
+W38000127,Ystrad Mynach BUASD,W92000004,Wales,Cymru,Whole,1651
+W38000128,Swansea BUASD,W92000004,Wales,Cymru,Whole,1652
+W38000129,Bridgend BUASD,W92000004,Wales,Cymru,Whole,1653
+W38000130,Cardiff BUASD,W92000004,Wales,Cymru,Whole,1654
+W38000131,Taff's Well BUASD,W92000004,Wales,Cymru,Whole,1655
+W38000132,Holywell BUASD,W92000004,Wales,Cymru,Whole,1656
+W38000133,Aberystwyth BUASD,W92000004,Wales,Cymru,Whole,1657
+W38000134,Brynamman BUASD,W92000004,Wales,Cymru,Whole,1658
+W38000135,Neath BUASD,W92000004,Wales,Cymru,Whole,1659
+W38000136,Pen-y-groes BUASD,W92000004,Wales,Cymru,Whole,1660
+W38000137,Tycroes BUASD,W92000004,Wales,Cymru,Whole,1661
+W38000138,Ebbw Vale BUASD,W92000004,Wales,Cymru,Whole,1662
+W38000139,Gilfach Goch BUASD,W92000004,Wales,Cymru,Whole,1663
+W38000140,Cwmbran BUASD,W92000004,Wales,Cymru,Whole,1664
+W38000141,Deeside Industrial Park BUASD,W92000004,Wales,Cymru,Whole,1665
+W38000142,Llandudno Junction BUASD,W92000004,Wales,Cymru,Whole,1666
+W38000143,Flint BUASD,W92000004,Wales,Cymru,Whole,1667
+W38000144,Port Talbot BUASD,W92000004,Wales,Cymru,Whole,1668
+W38000145,Porth BUASD,W92000004,Wales,Cymru,Whole,1669
+W38000146,Pontardawe BUASD,W92000004,Wales,Cymru,Whole,1670
+W38000147,Newport BUASD,W92000004,Wales,Cymru,Whole,1671
+W38000149,Bryn Pydew BUASD,W92000004,Wales,Cymru,Whole,1672
+W38000150,Pentre Berw BUASD,W92000004,Wales,Cymru,Whole,1673
+W38000153,Mynydd-bach BUASD,W92000004,Wales,Cymru,Whole,1674
+W38000057,Glais BUASD,W92000004,Wales,Cymru,Whole,1675
+W38000058,Pentre Maelor BUASD,W92000004,Wales,Cymru,Whole,1676
+W38000059,Abertysswg BUASD,W92000004,Wales,Cymru,Whole,1677
+W38000060,Buckley BUASD,W92000004,Wales,Cymru,Whole,1678
+W38000061,Chepstow BUASD,W92000004,Wales,Cymru,Whole,1679
+W38000062,Gaerwen BUASD,W92000004,Wales,Cymru,Whole,1680
+W38000063,Cymmer BUASD,W92000004,Wales,Cymru,Whole,1681
+W38000064,Treorchy BUASD,W92000004,Wales,Cymru,Whole,1682
+W38000065,Rhondda BUASD,W92000004,Wales,Cymru,Whole,1683
+W38000066,Cwmfelinfach BUASD,W92000004,Wales,Cymru,Whole,1684
+W38000067,Llantwit Major BUASD,W92000004,Wales,Cymru,Whole,1685
+W38000068,Gwespyr BUASD,W92000004,Wales,Cymru,Whole,1686
+W38000069,Tonypandy BUASD,W92000004,Wales,Cymru,Whole,1687
+W38000070,Gwernaffield-y-Waun BUASD,W92000004,Wales,Cymru,Whole,1688
+W38000071,Mynydd Marian BUASD,W92000004,Wales,Cymru,Whole,1689
+W38000072,Sarn BUASD,W92000004,Wales,Cymru,Whole,1690
+W38000073,Burry Port BUASD,W92000004,Wales,Cymru,Whole,1691
+W38000074,Upper Killay BUASD,W92000004,Wales,Cymru,Whole,1692
+W38000075,Llantrisant BUASD,W92000004,Wales,Cymru,Whole,1693
+W38000076,Pwll BUASD,W92000004,Wales,Cymru,Whole,1694
+W38000077,Dinas Powis BUASD,W92000004,Wales,Cymru,Whole,1695
+W38000078,Ruabon BUASD,W92000004,Wales,Cymru,Whole,1696
+W38000079,Cefn-mawr BUASD,W92000004,Wales,Cymru,Whole,1697
+W38000080,Risca BUASD,W92000004,Wales,Cymru,Whole,1698
+W38000081,Pontypridd BUASD,W92000004,Wales,Cymru,Whole,1699
+W38000082,Bradley BUASD,W92000004,Wales,Cymru,Whole,1700
+W38000083,Penrhyn Bay BUASD,W92000004,Wales,Cymru,Whole,1701
+W38000084,Kilgetty BUASD,W92000004,Wales,Cymru,Whole,1702
+W38000085,Tylorstown BUASD,W92000004,Wales,Cymru,Whole,1703
+W38000086,Caerphilly BUASD,W92000004,Wales,Cymru,Whole,1704
+W38000087,Gorseinon BUASD,W92000004,Wales,Cymru,Whole,1705
+W38000088,Llanmaes BUASD,W92000004,Wales,Cymru,Whole,1706
+W38000089,Walwen BUASD,W92000004,Wales,Cymru,Whole,1707
+W38000090,Aberporth BUASD,W92000004,Wales,Cymru,Whole,1708
+W38000091,Bethesda BUASD,W92000004,Wales,Cymru,Whole,1709
+W38000092,Pontlottyn BUASD,W92000004,Wales,Cymru,Whole,1710
+W38000093,Meliden BUASD,W92000004,Wales,Cymru,Whole,1711
+W38000094,Llanelli BUASD,W92000004,Wales,Cymru,Whole,1712

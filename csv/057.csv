@@ -1,0 +1,862 @@
+FID,WD19CD,WD19NM,WD19NMW,NAWC19CD,NAWC19NM
+1,W05000128,Gower,Gwyr,W09000003,Aberconwy
+2,W05000133,Llansanffraid,Llansanffraid,W09000003,Aberconwy
+3,W05000138,Mostyn,Mostyn,W09000003,Aberconwy
+4,W05000139,Pandy,Pandy,W09000003,Aberconwy
+5,W05000140,Pant-yr-afon/Penmaenan,Pant-yr-afon/Penmaenan,W09000003,Aberconwy
+6,W05000146,Trefriw,Trefriw,W09000003,Aberconwy
+7,W05000148,Uwch Conwy,Uwch Conwy,W09000003,Aberconwy
+8,W05000913,Craig-y-Don,Craig-y-don,W09000003,Aberconwy
+9,W05000914,Deganwy,Deganwy,W09000003,Aberconwy
+10,W05000915,Marl,Marl,W09000003,Aberconwy
+11,W05000916,Penrhyn,Penrhyn,W09000003,Aberconwy
+12,W05000917,Pensarn,Pen-sarn,W09000003,Aberconwy
+13,W05000918,Tudno,Tudno,W09000003,Aberconwy
+14,W05000112,Abergele Pensarn,Abergele Pen-sarn,W09000004,Clwyd West
+15,W05000114,Betws yn Rhos,Betws yn Rhos,W09000004,Clwyd West
+16,W05000118,Colwyn,Colwyn,W09000004,Clwyd West
+17,W05000124,Eirias,Eirias,W09000004,Clwyd West
+18,W05000125,Gele,Gele,W09000004,Clwyd West
+19,W05000126,Glyn,Glyn,W09000004,Clwyd West
+20,W05000129,Kinmel Bay,Bae Cinmel,W09000004,Clwyd West
+21,W05000130,Llanddulas,Llanddulas,W09000004,Clwyd West
+22,W05000131,Llandrillo yn Rhos,Llandrillo yn Rhos,W09000004,Clwyd West
+23,W05000132,Llangernyw,Llangernyw,W09000004,Clwyd West
+24,W05000134,Llansannan,Llansannan,W09000004,Clwyd West
+25,W05000135,Llysfaen,Llysfaen,W09000004,Clwyd West
+26,W05000137,Mochdre,Mochdre,W09000004,Clwyd West
+27,W05000143,Pentre Mawr,Pentre Mawr,W09000004,Clwyd West
+28,W05000144,Rhiw,Rhiw,W09000004,Clwyd West
+29,W05000145,Towyn,Tywyn,W09000004,Clwyd West
+30,W05000149,Uwchaled,Uwchaled,W09000004,Clwyd West
+31,W05000156,Efenechtyd,Efenechdyd,W09000004,Clwyd West
+32,W05000157,Llanarmon-yn-Ial/Llandegla,Llanarmon-yn-IÃ¢l/Llandegla,W09000004,Clwyd West
+33,W05000158,Llanbedr Dyffryn Clwyd/Llangynhafal,Llanbedr Dyffryn Clwyd/Llangynhafal,W09000004,Clwyd West
+34,W05000161,Llanfair Dyffryn Clwyd/Gwyddelwern,Llanfair Dyffryn Clwyd/Gwyddelwern,W09000004,Clwyd West
+35,W05000163,Llanrhaeadr-yng-Nghinmeirch,Llanrhaeadr-yng-Nghinmeirch,W09000004,Clwyd West
+36,W05000175,Ruthin,Rhuthun,W09000004,Clwyd West
+37,W05000150,Bodelwyddan,Bodelwyddan,W09000005,Vale of Clwyd
+38,W05000152,Denbigh Central,Dinbych - Canol,W09000005,Vale of Clwyd
+39,W05000153,Denbigh Lower,Dinbych-Isaf,W09000005,Vale of Clwyd
+40,W05000154,Denbigh Upper/Henllan,Dinbych Uchaf/Henllan,W09000005,Vale of Clwyd
+41,W05000155,Dyserth,Diserth,W09000005,Vale of Clwyd
+42,W05000160,Llandyrnog,Llandyrnog,W09000005,Vale of Clwyd
+43,W05000164,Prestatyn Central,Prestatyn - Canol,W09000005,Vale of Clwyd
+44,W05000165,Prestatyn East,Prestatyn - Dwyrain,W09000005,Vale of Clwyd
+45,W05000166,Prestatyn Meliden,Prestatyn Allt Melyd,W09000005,Vale of Clwyd
+46,W05000167,Prestatyn North,Prestatyn - Gogledd,W09000005,Vale of Clwyd
+47,W05000168,Prestatyn South West,Prestatyn - De Orllewin,W09000005,Vale of Clwyd
+48,W05000169,Rhuddlan,Rhuddlan,W09000005,Vale of Clwyd
+49,W05000170,Rhyl East,Rhyl - Dwyrain,W09000005,Vale of Clwyd
+50,W05000171,Rhyl South,Rhyl - De,W09000005,Vale of Clwyd
+51,W05000981,Aethwy,Aethwy,W09000001,Ynys Mon
+52,W05000982,Bro Aberffraw,Bro Aberffraw,W09000001,Ynys Mon
+53,W05000983,Bro Rhosyr,Bro Rhosyr,W09000001,Ynys Mon
+54,W05000984,Caergybi,Caergybi,W09000001,Ynys Mon
+55,W05000985,Canolbarth MÃ´n,Canolbarth MÃ´n,W09000001,Ynys Mon
+56,W05000986,LlifÃ´n,LlifÃ´n,W09000001,Ynys Mon
+57,W05000987,Lligwy,Lligwy,W09000001,Ynys Mon
+58,W05000988,Seiriol,Seiriol,W09000001,Ynys Mon
+59,W05000989,Talybolion,Talybolion,W09000001,Ynys Mon
+60,W05000990,Twrcelyn,Twrcelyn,W09000001,Ynys Mon
+61,W05000991,Ynys Gybi,Ynys Gybi,W09000001,Ynys Mon
+62,W05000046,Arllechwedd,Arllechwedd,W09000002,Arfon
+63,W05000048,Bethel,Bethel,W09000002,Arfon
+64,W05000049,Bontnewydd,Bontnewydd,W09000002,Arfon
+65,W05000054,Cadnant,Cadnant,W09000002,Arfon
+66,W05000058,Cwm-y-Glo,Cwm-y-Glo,W09000002,Arfon
+67,W05000059,Deiniol,Deiniol,W09000002,Arfon
+68,W05000060,Deiniolen,Deiniolen,W09000002,Arfon
+69,W05000061,Dewi,Dewi,W09000002,Arfon
+70,W05000068,Garth,Garth,W09000002,Arfon
+71,W05000069,Gerlan,Gerlan,W09000002,Arfon
+72,W05000070,Glyder,Glyder,W09000002,Arfon
+73,W05000071,Groeslon,Y Groeslon,W09000002,Arfon
+74,W05000073,Hendre,Hendre,W09000002,Arfon
+75,W05000074,Hirael,Hirael,W09000002,Arfon
+76,W05000078,Llanberis,Llanberis,W09000002,Arfon
+77,W05000082,Llanllyfni,Llanllyfni,W09000002,Arfon
+78,W05000083,Llanrug,Llanrug,W09000002,Arfon
+79,W05000085,Llanwnda,Llanwnda,W09000002,Arfon
+80,W05000087,Marchog,Marchog,W09000002,Arfon
+81,W05000088,Menai (Bangor),Menai (Bangor),W09000002,Arfon
+82,W05000089,Menai (Caernarfon),Menai (Caernarfon),W09000002,Arfon
+83,W05000092,Ogwen,Ogwen,W09000002,Arfon
+84,W05000093,Peblig (Caernarfon),Peblig (Caernarfon),W09000002,Arfon
+85,W05000094,Penisarwaun,Penisa'r-waun,W09000002,Arfon
+86,W05000096,Pentir,Pentir,W09000002,Arfon
+87,W05000097,Penygroes,Pen-y-groes,W09000002,Arfon
+88,W05000103,Seiont,Seiont,W09000002,Arfon
+89,W05000104,Talysarn,Talysarn,W09000002,Arfon
+90,W05000107,Tregarth & Mynydd Llandygai,Tregarth & Mynydd Llandygai,W09000002,Arfon
+91,W05000110,Waunfawr,Waunfawr,W09000002,Arfon
+92,W05000111,Y Felinheli,Y Felinheli,W09000002,Arfon
+93,W05000113,Betws-y-Coed,Betws-y-Coed,W09000003,Aberconwy
+94,W05000115,Bryn,Bryn,W09000003,Aberconwy
+95,W05000116,Caerhun,Caerhun,W09000003,Aberconwy
+96,W05000117,Capelulo,Capel Lluo,W09000003,Aberconwy
+97,W05000119,Conwy,Conwy,W09000003,Aberconwy
+98,W05000121,Crwst,Crwst,W09000003,Aberconwy
+99,W05000123,Eglwysbach,Eglwysbach,W09000003,Aberconwy
+100,W05000127,Gogarth,Gogarth,W09000003,Aberconwy
+101,W05000447,St. David's,Tyddewi,W09000014,Preseli Pembrokeshire
+102,W05000448,St. Dogmaels,Llandudoch,W09000014,Preseli Pembrokeshire
+103,W05000449,St. Ishmael's,Llanisan yn Rhos,W09000014,Preseli Pembrokeshire
+104,W05000451,Scleddau,Scleddau,W09000014,Preseli Pembrokeshire
+105,W05000452,Solva,Solfach,W09000014,Preseli Pembrokeshire
+106,W05000455,The Havens,Yr Havens,W09000014,Preseli Pembrokeshire
+107,W05000456,Wiston,Cas-wis,W09000014,Preseli Pembrokeshire
+108,W05000947,Burton,Burton,W09000014,Preseli Pembrokeshire
+109,W05000948,Camrose,Camrose,W09000014,Preseli Pembrokeshire
+110,W05000949,Cilgerran,Cilgerran,W09000014,Preseli Pembrokeshire
+111,W05000950,Crymych,Crymych,W09000014,Preseli Pembrokeshire
+112,W05000951,Dinas Cross,Dinas,W09000014,Preseli Pembrokeshire
+113,W05000953,Haverfordwest: Portfield,Hwlffordd - Portfield,W09000014,Preseli Pembrokeshire
+114,W05000954,Haverfordwest: Prendergast,Hwlffordd - Prendergast,W09000014,Preseli Pembrokeshire
+115,W05000956,Llangwm,Llangwm,W09000014,Preseli Pembrokeshire
+116,W05000957,Martletwy,Martletwy,W09000014,Preseli Pembrokeshire
+117,W05000958,Rudbaxton,Rudbaxton,W09000014,Preseli Pembrokeshire
+118,W05000457,Abergwili,Abergwili,W09000015,Carmarthen East and Dinefwr
+119,W05000458,Ammanford,Rhydaman,W09000015,Carmarthen East and Dinefwr
+120,W05000459,Betws,Betws,W09000015,Carmarthen East and Dinefwr
+121,W05000466,Cenarth,Cenarth,W09000015,Carmarthen East and Dinefwr
+122,W05000467,Cilycwm,Cil-y-cwm,W09000015,Carmarthen East and Dinefwr
+123,W05000469,Cynwyl Gaeo,Cynwyl Gaeo,W09000015,Carmarthen East and Dinefwr
+124,W05000473,Garnant,Garnant,W09000015,Carmarthen East and Dinefwr
+125,W05000474,Glanamman,Glanaman,W09000015,Carmarthen East and Dinefwr
+126,W05000477,Gorslas,Gors-las,W09000015,Carmarthen East and Dinefwr
+127,W05000483,Llanddarog,Llanddarog,W09000015,Carmarthen East and Dinefwr
+128,W05000484,Llandeilo,Llandeilo,W09000015,Carmarthen East and Dinefwr
+129,W05000485,Llandovery,Llanymddyfri,W09000015,Carmarthen East and Dinefwr
+130,W05000486,Llandybie,LlandybÃ¯e,W09000015,Carmarthen East and Dinefwr
+131,W05000487,Llanegwad,Llanegwad,W09000015,Carmarthen East and Dinefwr
+132,W05000488,Llanfihangel Aberbythych,Llanfihangel Aberbythych,W09000015,Carmarthen East and Dinefwr
+133,W05000489,Llanfihangel-ar-Arth,Llanfihangel-ar-Arth,W09000015,Carmarthen East and Dinefwr
+134,W05000490,Llangadog,Llangadog,W09000015,Carmarthen East and Dinefwr
+135,W05000491,Llangeler,Llangeler,W09000015,Carmarthen East and Dinefwr
+136,W05000493,Llangunnor,Llangynnwr,W09000015,Carmarthen East and Dinefwr
+137,W05000494,Llangyndeyrn,Llangyndeyrn,W09000015,Carmarthen East and Dinefwr
+138,W05000497,Llanybydder,Llanybydder,W09000015,Carmarthen East and Dinefwr
+139,W05000500,Manordeilo and Salem,Monardeilo a Salem,W09000015,Carmarthen East and Dinefwr
+140,W05000502,Penygroes,Pen-y-groes,W09000015,Carmarthen East and Dinefwr
+141,W05000503,Pontamman,Pontaman,W09000015,Carmarthen East and Dinefwr
+142,W05000505,Quarter Bach,Cwarter Bach,W09000015,Carmarthen East and Dinefwr
+143,W05000507,St. Ishmael,Llanismel,W09000015,Carmarthen East and Dinefwr
+144,W05000508,Saron,Saron,W09000015,Carmarthen East and Dinefwr
+145,W05000400,Carew,Caeriw,W09000016,Carmarthen West and South Pembrokeshire
+146,W05000414,Hundleton,Hundleton,W09000016,Carmarthen West and South Pembrokeshire
+147,W05000417,Lampeter Velfrey,Llanbedr Efelffre,W09000016,Carmarthen West and South Pembrokeshire
+148,W05000418,Lamphey,LlandyfÃ¡i,W09000016,Carmarthen West and South Pembrokeshire
+149,W05000423,Manorbier,Maenorbyr,W09000016,Carmarthen West and South Pembrokeshire
+150,W05000432,Narberth,Arberth,W09000016,Carmarthen West and South Pembrokeshire
+151,W05000172,Rhyl South East,Rhyl - De Ddwyrain,W09000005,Vale of Clwyd
+152,W05000173,Rhyl South West,Rhyl - De-Orllewin,W09000005,Vale of Clwyd
+153,W05000174,Rhyl West,Rhyl - Gorllewin,W09000005,Vale of Clwyd
+154,W05000176,St. Asaph East,Llanelwy - Dwyrain,W09000005,Vale of Clwyd
+155,W05000177,St. Asaph West,Llanelwy - Gorllewin,W09000005,Vale of Clwyd
+156,W05000178,Trefnant,Trefnant,W09000005,Vale of Clwyd
+157,W05000179,Tremeirchion,Tremeirchion,W09000005,Vale of Clwyd
+158,W05000180,Argoed,Argoed,W09000006,Delyn
+159,W05000182,Bagillt East,Bagillt - Dwyrain,W09000006,Delyn
+160,W05000183,Bagillt West,Bagillt - Gorllewin,W09000006,Delyn
+161,W05000186,Brynford,Brynffordd,W09000006,Delyn
+162,W05000192,Caerwys,Caerwys,W09000006,Delyn
+163,W05000193,Cilcain,Cilcain,W09000006,Delyn
+164,W05000199,Ffynnongroyw,Ffynongroyw,W09000006,Delyn
+165,W05000200,Flint Castle,Y Fflint - Castell,W09000006,Delyn
+166,W05000201,Flint Coleshill,Y Fflint - Cwnsyllt,W09000006,Delyn
+167,W05000202,Flint Oakenholt,Y Fflint - Oakenholt,W09000006,Delyn
+168,W05000203,Flint Trelawny,Y Fflint - Trelawny,W09000006,Delyn
+169,W05000204,Greenfield,Maes-glas,W09000006,Delyn
+170,W05000205,Gronant,Gronant,W09000006,Delyn
+171,W05000206,Gwernaffield,Gwernaffield,W09000006,Delyn
+172,W05000207,Gwernymynydd,Gwernymynydd,W09000006,Delyn
+173,W05000211,Holywell Central,Treffynnon - Canol,W09000006,Delyn
+174,W05000212,Holywell East,Treffynnon - Dwyrain,W09000006,Delyn
+175,W05000213,Holywell West,Treffynnon - Gorllewin,W09000006,Delyn
+176,W05000218,Mold Broncoed,Yr Wyddgrug - Broncoed,W09000006,Delyn
+177,W05000220,Mold South,Yr Wyddgrug - De,W09000006,Delyn
+178,W05000221,Mold West,Yr Wyddgrug - Gorllewin,W09000006,Delyn
+179,W05000222,Mostyn,Mostyn,W09000006,Delyn
+180,W05000223,New Brighton,Pentre'r Diawl,W09000006,Delyn
+181,W05000224,Northop,Llaneurgain,W09000006,Delyn
+182,W05000225,Northop Hall,Pentre'r Moch,W09000006,Delyn
+183,W05000234,Trelawnyd and Gwaenysgor,Trelawnyd a Gwaenysgor,W09000006,Delyn
+184,W05000236,Whitford,Chwitffordd,W09000006,Delyn
+185,W05001005,Halkyn,Helygain,W09000006,Delyn
+186,W05001008,Leeswood,Coed-llai,W09000006,Delyn
+187,W05001009,Mold East,Yr Wyddgrug - Dwyrain,W09000006,Delyn
+188,W05001010,Penyffordd,Pen-y-ffordd,W09000006,Delyn
+189,W05000181,Aston,Aston,W09000007,Alyn and Deeside
+190,W05000187,Buckley Bistre East,Bwcle Dwyrain Bistre,W09000007,Alyn and Deeside
+191,W05000188,Buckley Bistre West,Bwcle Gorllewin Bistre,W09000007,Alyn and Deeside
+192,W05000189,Buckley Mountain,Mynydd Bwcle,W09000007,Alyn and Deeside
+193,W05000190,Buckley Pentrobin,Bwcle Pontrobin,W09000007,Alyn and Deeside
+194,W05000191,Caergwrle,Caergwrle,W09000007,Alyn and Deeside
+195,W05000194,Connah's Quay Central,Cei Connah - Canol,W09000007,Alyn and Deeside
+196,W05000195,Connah's Quay Golftyn,Cei Connah - Golftyn,W09000007,Alyn and Deeside
+197,W05000196,Connah's Quay South,Cei Connah - De,W09000007,Alyn and Deeside
+198,W05000197,Connah's Quay Wepre,Cei Connah Gwepre,W09000007,Alyn and Deeside
+199,W05000198,Ewloe,Ewlo,W09000007,Alyn and Deeside
+200,W05000209,Hawarden,PenarlÃ¢g,W09000007,Alyn and Deeside
+201,W05000102,Pwllheli South,Pwllheli - De,W09000010,Dwyfor Meirionnydd
+202,W05000368,Borth,Borth,W09000012,Ceredigion
+203,W05000369,Capel Dewi,Capel Dewi,W09000012,Ceredigion
+204,W05000370,Ceulanamaesmawr,Ceulanamaesmawr,W09000012,Ceredigion
+205,W05000371,Ciliau Aeron,Ciliau Aeron,W09000012,Ceredigion
+206,W05000372,Faenor,Faenor,W09000012,Ceredigion
+207,W05000373,Lampeter,Llanbedr Pont Steffan,W09000012,Ceredigion
+208,W05000374,Llanarth,Llanarth,W09000012,Ceredigion
+209,W05000375,Llanbadarn Fawr-Padarn,Llanbadarn Fawr-Padarn,W09000012,Ceredigion
+210,W05000376,Llanbadarn Fawr-Sulien,Llanbadarn Fawr-Sulien,W09000012,Ceredigion
+211,W05000377,Llandyfriog,LlandyfrÃ¯og,W09000012,Ceredigion
+212,W05000378,Llandysilio-gogo,Llandysiliogogo,W09000012,Ceredigion
+213,W05000105,Teigl,Teigl,W09000010,Dwyfor Meirionnydd
+214,W05000379,Llandysul Town,Tref Llandysul,W09000012,Ceredigion
+215,W05000106,Trawsfynydd,Trawsfynydd,W09000010,Dwyfor Meirionnydd
+216,W05000380,Llanfarian,Llanfarian,W09000012,Ceredigion
+217,W05000108,Tudweiliog,Tudweiliog,W09000010,Dwyfor Meirionnydd
+218,W05000381,Llanfihangel Ystrad,Llanfihangel Ystrad,W09000012,Ceredigion
+219,W05000109,Tywyn,Tywyn,W09000010,Dwyfor Meirionnydd
+220,W05000382,Llangeitho,Llangeitho,W09000012,Ceredigion
+221,W05000285,Banwy,Banwy,W09000011,Montgomeryshire
+222,W05000383,Llangybi,Llangybi,W09000012,Ceredigion
+223,W05000287,Berriew,Aberriw,W09000011,Montgomeryshire
+224,W05000384,Llanrhystyd,Llanrhystud,W09000012,Ceredigion
+225,W05000385,Llansantffraed,Llansanffraid,W09000012,Ceredigion
+226,W05000386,Llanwenog,Llanwenog,W09000012,Ceredigion
+227,W05000387,Lledrod,Lledrod,W09000012,Ceredigion
+228,W05000388,Melindwr,Melindwr,W09000012,Ceredigion
+229,W05000389,New Quay,Ceinewydd,W09000012,Ceredigion
+230,W05000390,Penbryn,Penbryn,W09000012,Ceredigion
+231,W05000391,Pen-parc,Pen-parc,W09000012,Ceredigion
+232,W05000392,Tirymynach,Tirymynach,W09000012,Ceredigion
+233,W05000393,Trefeurig,Trefeurig,W09000012,Ceredigion
+234,W05000394,Tregaron,Tregaron,W09000012,Ceredigion
+235,W05000395,Troedyraur,Troedyraur,W09000012,Ceredigion
+236,W05000396,Ystwyth,Ystwyth,W09000012,Ceredigion
+237,W05000402,Clydau,Clydau,W09000014,Preseli Pembrokeshire
+238,W05000406,Fishguard North East,Abergwaun - Gogledd-ddwyrain,W09000014,Preseli Pembrokeshire
+239,W05000407,Fishguard North West,Abergwaun - Gogledd-orllewin,W09000014,Preseli Pembrokeshire
+240,W05000408,Goodwick,Wdig,W09000014,Preseli Pembrokeshire
+241,W05000409,Haverfordwest: Castle,Hwlffordd - Castell,W09000014,Preseli Pembrokeshire
+242,W05000410,Haverfordwest: Garth,Hwlffordd - Garth,W09000014,Preseli Pembrokeshire
+243,W05000413,Haverfordwest: Priory,Hwlffordd - Priordy,W09000014,Preseli Pembrokeshire
+244,W05000415,Johnston,Johnston,W09000014,Preseli Pembrokeshire
+245,W05000419,Letterston,Treletert,W09000014,Preseli Pembrokeshire
+246,W05000421,Llanrhian,Llanrhian,W09000014,Preseli Pembrokeshire
+247,W05000422,Maenclochog,Maenclochog,W09000014,Preseli Pembrokeshire
+248,W05000425,Merlin's Bridge,Pont Fadlen,W09000014,Preseli Pembrokeshire
+249,W05000426,Milford: Central,Aberdaugleddau - Canol,W09000014,Preseli Pembrokeshire
+250,W05000427,Milford: East,Aberdaugleddau - Dwyrain,W09000014,Preseli Pembrokeshire
+251,W05000428,Milford: Hakin,Aberdaugleddau - Hakin,W09000014,Preseli Pembrokeshire
+252,W05000429,Milford: Hubberston,Aberdaugleddau - Hubberston,W09000014,Preseli Pembrokeshire
+253,W05000430,Milford: North,Aberdaugleddau - Gogledd,W09000014,Preseli Pembrokeshire
+254,W05000431,Milford: West,Aberdaugleddau - Gorllewin,W09000014,Preseli Pembrokeshire
+255,W05000434,Newport,Trefdraeth,W09000014,Preseli Pembrokeshire
+256,W05000435,Neyland: East,Neyland - Dwyrain,W09000014,Preseli Pembrokeshire
+257,W05000436,Neyland: West,Neyland - Gorllewin,W09000014,Preseli Pembrokeshire
+258,W05000260,Johnstown,Johnstown,W09000009,Clwyd South
+259,W05000262,Llangollen Rural,Llangollen Wledig,W09000009,Clwyd South
+260,W05000288,Blaen Hafren,Blaen Hafren,W09000011,Montgomeryshire
+261,W05000265,Marchwiel,Marchwiel,W09000009,Clwyd South
+262,W05000292,Caersws,Caersws,W09000011,Montgomeryshire
+263,W05000268,New Broughton,New Broughton,W09000009,Clwyd South
+264,W05000293,Churchstoke,Yr Ystog,W09000011,Montgomeryshire
+265,W05000270,Overton,Owrtyn,W09000009,Clwyd South
+266,W05000297,Dolforwyn,Dolforwyn,W09000011,Montgomeryshire
+267,W05000271,Pant,Pant,W09000009,Clwyd South
+268,W05000299,Forden,Ffordun,W09000011,Montgomeryshire
+269,W05000272,Penycae,Pen-y-cae,W09000009,Clwyd South
+270,W05000300,Glantwymyn,Glantwymyn,W09000011,Montgomeryshire
+271,W05000273,Penycae and Ruabon South,Penycae a De Rhiwabon,W09000009,Clwyd South
+272,W05000302,Guilsfield,Cegidfa,W09000011,Montgomeryshire
+273,W05000274,Plas Madoc,Plas Madoc,W09000009,Clwyd South
+274,W05000305,Kerry,Ceri,W09000011,Montgomeryshire
+275,W05000275,Ponciau,Ponciau,W09000009,Clwyd South
+276,W05000309,Llanbrynmair,Llanbryn-mair,W09000011,Montgomeryshire
+277,W05000279,Ruabon,Rhiwabon,W09000009,Clwyd South
+278,W05000903,Brymbo,Brymbo,W09000009,Clwyd South
+279,W05000904,Bryn Cefn,Bryn Cefn,W09000009,Clwyd South
+280,W05000906,Coedpoeth,Coedpoeth,W09000009,Clwyd South
+281,W05000910,Minera,Mwynglawdd,W09000009,Clwyd South
+282,W05000041,Aberdaron,Aberdaron,W09000010,Dwyfor Meirionnydd
+283,W05000042,Aberdovey,Aberdyfi,W09000010,Dwyfor Meirionnydd
+284,W05000043,Abererch,Abererch,W09000010,Dwyfor Meirionnydd
+285,W05000044,Abermaw,Abermaw,W09000010,Dwyfor Meirionnydd
+286,W05000045,Abersoch,Aber-soch,W09000010,Dwyfor Meirionnydd
+287,W05000047,Bala,Y Bala,W09000010,Dwyfor Meirionnydd
+288,W05000050,Botwnnog,Botwnnog,W09000010,Dwyfor Meirionnydd
+289,W05000051,Bowydd and Rhiw,Bowydd a Rhiw,W09000010,Dwyfor Meirionnydd
+290,W05000052,Brithdir and Llanfachreth/Ganllwyd/Llanelltyd,Brithdir a Llanfachreth/Ganllwyd/Llanelltyd,W09000010,Dwyfor Meirionnydd
+291,W05000053,Bryn-crug/Llanfihangel,Bryn-crug/Llanfihangel,W09000010,Dwyfor Meirionnydd
+292,W05000055,Clynnog,Clynnog,W09000010,Dwyfor Meirionnydd
+293,W05000056,Corris/Mawddwy,Corris/Mawddwy,W09000010,Dwyfor Meirionnydd
+294,W05000057,Criccieth,Cricieth,W09000010,Dwyfor Meirionnydd
+295,W05000062,Diffwys and Maenofferen,Diffwys a Maenofferen,W09000010,Dwyfor Meirionnydd
+296,W05000063,Dolbenmaen,Dolbenmaen,W09000010,Dwyfor Meirionnydd
+297,W05000064,Dolgellau North,Dolgellau - Gogledd,W09000010,Dwyfor Meirionnydd
+298,W05000065,Dolgellau South,Dolgellau - De,W09000010,Dwyfor Meirionnydd
+299,W05000066,Dyffryn Ardudwy,Dyffryn Ardudwy,W09000010,Dwyfor Meirionnydd
+300,W05000067,Efail-newydd/Buan,Efail-Newydd/Buan,W09000010,Dwyfor Meirionnydd
+301,W05000072,Harlech,Harlech,W09000010,Dwyfor Meirionnydd
+302,W05000075,Llanaelhaearn,Llanaelhaearn,W09000010,Dwyfor Meirionnydd
+303,W05000076,Llanbedr,Llanbedr,W09000010,Dwyfor Meirionnydd
+304,W05000077,Llanbedrog,Llanbedrog,W09000010,Dwyfor Meirionnydd
+305,W05000079,Llandderfel,Llandderfel,W09000010,Dwyfor Meirionnydd
+306,W05000080,Llanengan,Llanengan,W09000010,Dwyfor Meirionnydd
+307,W05000081,Llangelynin,Llangelynnin,W09000010,Dwyfor Meirionnydd
+308,W05000084,Llanuwchllyn,Llanuwchllyn,W09000010,Dwyfor Meirionnydd
+309,W05000086,Llanystumdwy,Llanystumdwy,W09000010,Dwyfor Meirionnydd
+310,W05000090,Morfa Nefyn,Morfa Nefyn,W09000010,Dwyfor Meirionnydd
+311,W05000091,Nefyn,Nefyn,W09000010,Dwyfor Meirionnydd
+312,W05000095,Penrhyndeudraeth,Penrhyndeudraeth,W09000010,Dwyfor Meirionnydd
+313,W05000098,Porthmadog East,Porthmadog - Dwyrain,W09000010,Dwyfor Meirionnydd
+314,W05000099,Porthmadog West,Porthmadog - Gorllewin,W09000010,Dwyfor Meirionnydd
+315,W05000100,Porthmadog-Tremadog,Porthmadog - Tremadog,W09000010,Dwyfor Meirionnydd
+316,W05000101,Pwllheli North,Pwllheli - Gogledd,W09000010,Dwyfor Meirionnydd
+317,W05000310,Llandinam,Llandinam,W09000011,Montgomeryshire
+318,W05000314,Llandrinio,Llandrinio,W09000011,Montgomeryshire
+319,W05000315,Llandysilio,Llandysilio,W09000011,Montgomeryshire
+320,W05000317,Llanfair Caereinion,Llanfair Caereinion,W09000011,Montgomeryshire
+321,W05000318,Llanfihangel,Llanfihangel,W09000011,Montgomeryshire
+322,W05000319,Llanfyllin,Llanfyllin,W09000011,Montgomeryshire
+323,W05000324,Llanidloes,Llanidloes,W09000011,Montgomeryshire
+324,W05000325,Llanwddyn,Llanwddyn,W09000011,Montgomeryshire
+325,W05000326,Llanrhaeadr-ym-Mochnant/Llansilin,Llanrhaeadr-ym-Mochnant/Llansilin,W09000011,Montgomeryshire
+326,W05000327,Llansantffraid,Llansanffraid,W09000011,Montgomeryshire
+327,W05000330,Machynlleth,Machynlleth,W09000011,Montgomeryshire
+328,W05000332,Meifod,Meifod,W09000011,Montgomeryshire
+329,W05000333,Montgomery,Trefaldwyn,W09000011,Montgomeryshire
+330,W05000335,Newtown Central,Y Drenewydd - Canol,W09000011,Montgomeryshire
+331,W05000336,Newtown East,Y Drenewydd - Dwyrain,W09000011,Montgomeryshire
+332,W05000337,Newtown Llanllwchaiarn North,Y Drenewydd Gogledd Llanllwchaearn,W09000011,Montgomeryshire
+333,W05000338,Newtown Llanllwchaiarn West,Y Drenewydd Gorllewin Llanllwchaearn,W09000011,Montgomeryshire
+334,W05000339,Newtown South,Y Drenewydd - De,W09000011,Montgomeryshire
+335,W05000343,Rhiwcynon,Rhiwcynon,W09000011,Montgomeryshire
+336,W05000350,Trewern,Tre-wern,W09000011,Montgomeryshire
+337,W05000351,Welshpool Castle,Y Trallwng - Castell,W09000011,Montgomeryshire
+338,W05000352,Welshpool Gungrog,Y Trallwng Gungrog,W09000011,Montgomeryshire
+339,W05000353,Welshpool Llanerchyddol,Y Trallwng Llanerchyddol,W09000011,Montgomeryshire
+340,W05000357,Aberaeron,Aberaeron,W09000012,Ceredigion
+341,W05000358,Aberporth,Aberporth,W09000012,Ceredigion
+342,W05000359,Aberteifi/Cardigan-Mwldan,Aberteifi-Mwldan,W09000012,Ceredigion
+343,W05000360,Aberteifi/Cardigan-Rhyd-y-Fuwch,Aberteifi-Rhyd-y-Fuwch,W09000012,Ceredigion
+344,W05000361,Aberteifi/Cardigan-Teifi,Aberteifi-Teifi,W09000012,Ceredigion
+345,W05000362,Aberystwyth Bronglais,Aberystwyth Bronglais,W09000012,Ceredigion
+346,W05000363,Aberystwyth Canol/Central,Aberystwyth Canol,W09000012,Ceredigion
+347,W05000364,Aberystwyth Gogledd/North,Aberystwyth Gogledd,W09000012,Ceredigion
+348,W05000365,Aberystwyth Penparcau,Aberystwyth Penparcau,W09000012,Ceredigion
+349,W05000366,Aberystwyth Rheidol,Aberystwyth Rheidol,W09000012,Ceredigion
+350,W05000367,Beulah,Beulah,W09000012,Ceredigion
+351,W05000216,Llanfynydd,Llanfynydd,W09000007,Alyn and Deeside
+352,W05000217,Mancot,Mancot,W09000007,Alyn and Deeside
+353,W05000227,Queensferry,Queensferry,W09000007,Alyn and Deeside
+354,W05000228,Saltney Mold Junction,Saltney Cyffordd yr Wyddgrug,W09000007,Alyn and Deeside
+355,W05000229,Saltney Stonebridge,Saltney Stonebridge,W09000007,Alyn and Deeside
+356,W05000230,Sealand,Sealand,W09000007,Alyn and Deeside
+357,W05000231,Shotton East,Shotton - Dwyrain,W09000007,Alyn and Deeside
+358,W05000232,Shotton Higher,Shotton Uchaf,W09000007,Alyn and Deeside
+359,W05000233,Shotton West,Shotton - Gorllewin,W09000007,Alyn and Deeside
+360,W05000235,Treuddyn,Treuddyn,W09000007,Alyn and Deeside
+361,W05001004,Broughton North East,Brychdyn - Gogledd Ddwyrain,W09000007,Alyn and Deeside
+362,W05001006,Higher Kinnerton,Kinnerton Uchaf,W09000007,Alyn and Deeside
+363,W05001007,Hope,Yr HÃ´b,W09000007,Alyn and Deeside
+364,W05001010,Penyffordd,Pen-y-ffordd,W09000007,Alyn and Deeside
+365,W05001036,Broughton South,Brychdyn - De,W09000007,Alyn and Deeside
+366,W05000237,Acton,Acton,W09000008,Wrexham
+367,W05000238,Borras Park,Parc Borras,W09000008,Wrexham
+368,W05000241,Brynyffynnon,Brynyffynnon,W09000008,Wrexham
+369,W05000249,Erddig,Erddig,W09000008,Wrexham
+370,W05000251,Garden Village,Garden Village,W09000008,Wrexham
+371,W05000253,Grosvenor,Grosvenor,W09000008,Wrexham
+372,W05000256,Gwersyllt North,Gwersyllt - Gogledd,W09000008,Wrexham
+373,W05000257,Gwersyllt West,Gwersyllt - Gorllewin,W09000008,Wrexham
+374,W05000258,Hermitage,Hermitage,W09000008,Wrexham
+375,W05000261,Little Acton,Little Acton,W09000008,Wrexham
+376,W05000263,Llay,Llai,W09000008,Wrexham
+377,W05000264,Maesydre,Maes-y-dre,W09000008,Wrexham
+378,W05000266,Marford and Hoseley,Marford a Hoseley,W09000008,Wrexham
+379,W05000269,Offa,Offa,W09000008,Wrexham
+380,W05000276,Queensway,Queensway,W09000008,Wrexham
+381,W05000278,Rossett,Yr Orsedd,W09000008,Wrexham
+382,W05000280,Smithfield,Smithfield,W09000008,Wrexham
+383,W05000281,Stansty,Stansty,W09000008,Wrexham
+384,W05000283,Wynnstay,Wynnstay,W09000008,Wrexham
+385,W05000905,Cartrefle,Cartrefle,W09000008,Wrexham
+386,W05000907,Gresford East and West,Gresffordd - Dwyrain a Gorllewin,W09000008,Wrexham
+387,W05000908,Gwersyllt East and South,Gwersyllt - Dwyrain a De,W09000008,Wrexham
+388,W05000909,Holt,Holt,W09000008,Wrexham
+389,W05000911,Rhosnesni,Rhosnesni,W09000008,Wrexham
+390,W05000912,Whitegate,Whitegate,W09000008,Wrexham
+391,W05000151,Corwen,Corwen,W09000009,Clwyd South
+392,W05000159,Llandrillo,Llandrillo,W09000009,Clwyd South
+393,W05000162,Llangollen,Llangollen,W09000009,Clwyd South
+394,W05000239,Bronington,Bronington,W09000009,Clwyd South
+395,W05000244,Cefn,Cefn,W09000009,Clwyd South
+396,W05000245,Dyffryn Ceiriog/Ceiriog Valley,Dyffryn Ceiriog,W09000009,Clwyd South
+397,W05000246,Chirk North,Y Waun - Gogledd,W09000009,Clwyd South
+398,W05000247,Chirk South,Y Waun - De,W09000009,Clwyd South
+399,W05000250,Esclusham,Esclusham,W09000009,Clwyd South
+400,W05000254,Gwenfro,Gwenfro,W09000009,Clwyd South
+401,W05000572,Godre'r graig,Godre'r Graig,W09000021,Neath
+402,W05000573,Gwaun-Cae-Gurwen,Gwauncaegurwen,W09000021,Neath
+403,W05000575,Lower Brynamman,Brynaman Isaf,W09000021,Neath
+404,W05000577,Neath East,Castell-Nedd - Dwyrain,W09000021,Neath
+405,W05000578,Neath North,Castell-Nedd - Gogledd,W09000021,Neath
+406,W05000579,Neath South,Castell-Nedd - De,W09000021,Neath
+407,W05000581,Pelenna,Pelenna,W09000021,Neath
+408,W05000582,Pontardawe,Pontardawe,W09000021,Neath
+409,W05000584,Resolven,Resolfen,W09000021,Neath
+410,W05000585,Rhos,Rhos,W09000021,Neath
+411,W05000590,Tonna,Tonna,W09000021,Neath
+412,W05000591,Trebanos,Trebannws,W09000021,Neath
+413,W05000592,Ystalyfera,Ystalyfera,W09000021,Neath
+414,W05001031,Onllwyn,Onllwyn,W09000021,Neath
+415,W05001034,Seven Sisters,Blaendulais,W09000021,Neath
+416,W05000551,Aberavon,Aberafan,W09000022,Aberavon
+417,W05000557,Briton Ferry West,Llansawel Gorllewin,W09000022,Aberavon
+418,W05000563,Coedffranc Central,Coed-ffranc - Canol,W09000022,Aberavon
+419,W05000564,Coedffranc North,Coed-ffranc - Gogledd,W09000022,Aberavon
+420,W05000565,Coedffranc West,Coed-ffranc - Gorllewin,W09000022,Aberavon
+421,W05000568,Cymmer,Cymer,W09000022,Aberavon
+422,W05000570,Glyncorrwg,Glyncorrwg,W09000022,Aberavon
+423,W05000574,Gwynfi,Gwynfi,W09000022,Aberavon
+424,W05000587,Sandfields West,Sandfields - Gorllewin,W09000022,Aberavon
+425,W05001027,Baglan,Baglan,W09000022,Aberavon
+426,W05001028,Briton Ferry East,Llansawel Dwyrain,W09000022,Aberavon
+427,W05001029,Bryn and Cwmavon,Bryn a Chwmafan,W09000022,Aberavon
+428,W05001030,Margam,Margam,W09000022,Aberavon
+429,W05001032,Port Talbot,Port Talbot,W09000022,Aberavon
+430,W05001033,Sandfields East,Sandfields - Dwyrain,W09000022,Aberavon
+431,W05001035,Tai-bach,Tai-bach,W09000022,Aberavon
+432,W05000603,Cefn Glas,Cefn Glas,W09000023,Bridgend
+433,W05000604,Coity,Coety,W09000023,Bridgend
+434,W05000605,Cornelly,Corneli,W09000023,Bridgend
+435,W05000609,Litchard,Litchard,W09000023,Bridgend
+436,W05000611,Llangewydd and Brynhyfryd,Llangewydd a Brynhyfryd,W09000023,Bridgend
+437,W05000615,Morfa,Morfa,W09000023,Bridgend
+438,W05000617,Newcastle,Y Castellnewydd,W09000023,Bridgend
+439,W05000618,Newton,Newton,W09000023,Bridgend
+440,W05000619,Nottage,Notais,W09000023,Bridgend
+441,W05000622,Pendre,Pen-dre,W09000023,Bridgend
+442,W05000624,Pen-y-fai,Pen-y-fai,W09000023,Bridgend
+443,W05000626,Porthcawl East Central,Porthcawl Dwyrain Canol,W09000023,Bridgend
+444,W05000627,Porthcawl West Central,Porthcawl Gorllewin Canol,W09000023,Bridgend
+445,W05000628,Pyle,Y PÃ®l,W09000023,Bridgend
+446,W05000629,Rest Bay,Rest Bay,W09000023,Bridgend
+447,W05000896,Brackla,Bracla,W09000023,Bridgend
+448,W05000897,"Bryntirion, Laleston and Merthyr Mawr","Bryntirion, Laleston a Merthyr Mawr",W09000023,Bridgend
+449,W05000898,Coychurch Lower,Llangrallo Isaf,W09000023,Bridgend
+450,W05000899,Oldcastle,Hengastell,W09000023,Bridgend
+451,W05000837,Caerleon,Caerllion,W09000039,Newport West
+452,W05000796,Crucorney,Crucornau Fawr,W09000034,Monmouth
+453,W05000838,Gaer,Y Gaer,W09000039,Newport West
+454,W05000797,Devauden,Devauden,W09000034,Monmouth
+455,W05000839,Graig,Y Graig,W09000039,Newport West
+456,W05000799,Dixton with Osbaston,Dixton gydag Oxbaston,W09000034,Monmouth
+457,W05000843,Malpas,Malpas,W09000039,Newport West
+458,W05000800,Drybridge,Drybridge,W09000034,Monmouth
+459,W05000844,Marshfield,Maerun,W09000039,Newport West
+460,W05000801,Goetre Fawr,Goetre Fawr,W09000034,Monmouth
+461,W05000845,Pillgwenlly,Pilgwenlli,W09000039,Newport West
+462,W05000803,Grofield,Grofield,W09000034,Monmouth
+463,W05000847,Rogerstone,Ty Du,W09000039,Newport West
+464,W05000804,Lansdown,Lansdown,W09000034,Monmouth
+465,W05000849,Shaftesbury,Shaftesbury,W09000039,Newport West
+466,W05000805,Larkfield,Larkfield,W09000034,Monmouth
+467,W05000850,Stow Hill,Stow Hill,W09000039,Newport West
+468,W05000806,Llanbadoc,Llanbadog,W09000034,Monmouth
+469,W05000851,Tredegar Park,Parc Tredegar,W09000039,Newport West
+470,W05000807,Llanelly Hill,Bryn Llanelli,W09000034,Monmouth
+471,W05000792,Caldicot Castle,Castell Cil-y-coed,W09000040,Newport East
+472,W05000808,Llanfoist Fawr,Llan-ffwyst Fawr,W09000034,Monmouth
+473,W05000798,Dewstow,Llanddewi,W09000040,Newport East
+474,W05000809,Llangybi Fawr,Llangybi Fawr,W09000034,Monmouth
+475,W05000802,Green Lane,Green Lane,W09000040,Newport East
+476,W05000810,Llanover,Llanofer,W09000034,Monmouth
+477,W05000814,Mill,Mill,W09000040,Newport East
+478,W05000811,Llantilio Crossenny,Llandeilo Gresynni,W09000034,Monmouth
+479,W05000820,Rogiet,Rogiet,W09000040,Newport East
+480,W05000812,Llanwenarth Ultra,Llanwenarth Tu Draw,W09000034,Monmouth
+481,W05000825,Severn,Hafren,W09000040,Newport East
+482,W05000813,Mardy,Y Maerdy,W09000034,Monmouth
+483,W05000827,The Elms,The Elms,W09000040,Newport East
+484,W05000815,Mitchel Troy,Llanfihangel Troddi,W09000034,Monmouth
+485,W05000831,West End,West End,W09000040,Newport East
+486,W05000816,Overmonnow,Overmonnow,W09000034,Monmouth
+487,W05000834,Alway,Alway,W09000040,Newport East
+488,W05000817,Portskewett,Porth Sgiwed,W09000034,Monmouth
+489,W05000835,Beechwood,Beechwood,W09000040,Newport East
+490,W05000818,Priory,Y Priordy,W09000034,Monmouth
+491,W05000840,Langstone,Langstone,W09000040,Newport East
+492,W05000819,Raglan,Rhaglan,W09000034,Monmouth
+493,W05000841,Liswerry,Liswerry,W09000040,Newport East
+494,W05000821,St. Arvans,St. Arvans,W09000034,Monmouth
+495,W05000842,Llanwern,Llan-wern,W09000040,Newport East
+496,W05000822,St. Christopher's,St. Christopher's,W09000034,Monmouth
+497,W05000846,Ringland,Ringland,W09000040,Newport East
+498,W05000848,St. Julians,Sain Silian,W09000040,Newport East
+499,W05000852,Victoria,Victoria,W09000040,Newport East
+500,W05000284,Aber-craf,Aber-craf,W09000041,Brecon and Radnorshire
+501,W05000286,Beguildy,Bugeildy,W09000041,Brecon and Radnorshire
+502,W05000289,Bronllys,Bronllys,W09000041,Brecon and Radnorshire
+503,W05000290,Builth,Llanfair-ym-Muallt,W09000041,Brecon and Radnorshire
+504,W05000291,Bwlch,Bwlch,W09000041,Brecon and Radnorshire
+505,W05000294,Crickhowell,Crughywel,W09000041,Brecon and Radnorshire
+506,W05000295,Cwm-twrch,Cwm-twrch,W09000041,Brecon and Radnorshire
+507,W05000296,Disserth and Trecoed,Dyserth a Thre-coed,W09000041,Brecon and Radnorshire
+508,W05000298,Felin-fÃ¢ch,Felin-fÃ¢ch,W09000041,Brecon and Radnorshire
+509,W05000301,Glasbury,Y Clas-ar-wy,W09000041,Brecon and Radnorshire
+510,W05000303,Gwernyfed,Gwernyfed,W09000041,Brecon and Radnorshire
+511,W05000304,Hay,Y Gelli Gandryll,W09000041,Brecon and Radnorshire
+512,W05000306,Knighton,Tref-y-clawdd,W09000041,Brecon and Radnorshire
+513,W05000307,Llanafanfawr,Llanafan Fawr,W09000041,Brecon and Radnorshire
+514,W05000308,Llanbadarn Fawr,Llanbadarn Fawr,W09000041,Brecon and Radnorshire
+515,W05000311,Llandrindod East/Llandrindod West,Llandrindod - Dwyrain/Llandrindod - Gorllewin,W09000041,Brecon and Radnorshire
+516,W05000312,Llandrindod North,Llandrindod - Gogledd,W09000041,Brecon and Radnorshire
+517,W05000313,Llandrindod South,Llandrindod - De,W09000041,Brecon and Radnorshire
+518,W05000316,Llanelwedd,Llanelwedd,W09000041,Brecon and Radnorshire
+519,W05000320,Llangattock,Llangatwg,W09000041,Brecon and Radnorshire
+520,W05000321,Llangors,Llan-gors,W09000041,Brecon and Radnorshire
+521,W05000322,Llangunllo,Llangynllo,W09000041,Brecon and Radnorshire
+522,W05000328,Llanwrtyd Wells,Llanwrtyd,W09000041,Brecon and Radnorshire
+523,W05000329,Llanyre,Llanllyr,W09000041,Brecon and Radnorshire
+524,W05000433,Narberth Rural,Arberth Gwledig,W09000016,Carmarthen West and South Pembrokeshire
+525,W05000823,St. Kingsmark,St. Kingsmark,W09000034,Monmouth
+526,W05000824,St. Mary's,St. Mary's,W09000034,Monmouth
+527,W05000826,Shirenewton,Drenewydd Gelli-farch,W09000034,Monmouth
+528,W05000828,Thornwell,Thornwell,W09000034,Monmouth
+529,W05000829,Trellech United,Tryleg Unedig,W09000034,Monmouth
+530,W05000830,Usk,Brynbuga,W09000034,Monmouth
+531,W05000832,Wyesham,Wyesham,W09000034,Monmouth
+532,W05000993,Croesyceiliog North,Croesyceiliog - Gogledd,W09000034,Monmouth
+533,W05000995,Llanyrafon East and Ponthir,Llanyrafon Dwyrain a Phonthir,W09000034,Monmouth
+534,W05000996,Llanyrafon West,Llanyrafon -Gorllewin,W09000034,Monmouth
+535,W05000720,Aber Valley,Cwm Aber,W09000035,Caerphilly
+536,W05000722,Bargoed,Bargod,W09000035,Caerphilly
+537,W05000723,"Bedwas, Trethomas and Machen","Bedwas, Tretomos a Machen",W09000035,Caerphilly
+538,W05000729,Gilfach,Gilfach,W09000035,Caerphilly
+539,W05000730,Hengoed,Hengoed,W09000035,Caerphilly
+540,W05000735,Nelson,Nelson,W09000035,Caerphilly
+541,W05000745,St. Cattwg,Catwg Sant,W09000035,Caerphilly
+542,W05000750,Ystrad Mynach,Ystrad Mynach,W09000035,Caerphilly
+543,W05000921,Llanbradach,Llanbradach,W09000035,Caerphilly
+544,W05000923,Morgan Jones,Morgan Jones,W09000035,Caerphilly
+545,W05000926,Penyrheol,Pen-yr-heol,W09000035,Caerphilly
+546,W05000930,St. James,Sant Iago,W09000035,Caerphilly
+547,W05000931,St. Martins,Sant Martin,W09000035,Caerphilly
+548,W05000718,Aberbargoed,Aberbargod,W09000036,Islwyn
+549,W05000719,Abercarn,Abercarn,W09000036,Islwyn
+550,W05000721,Argoed,Argoed,W09000036,Islwyn
+551,W05000724,Blackwood,Coed Duon,W09000036,Islwyn
+552,W05000664,Cwm Clydach,Cwm Clydach,W09000025,Rhondda
+553,W05000437,Pembroke Dock: Central,Doc Penfro - Canol,W09000016,Carmarthen West and South Pembrokeshire
+554,W05000438,Pembroke Dock: Llanion,Doc Penfro - Llanion,W09000016,Carmarthen West and South Pembrokeshire
+555,W05000439,Pembroke Dock: Market,Doc Penfro - Marchnad,W09000016,Carmarthen West and South Pembrokeshire
+556,W05000440,Pembroke Dock: Pennar,Doc Penfro - Pennar,W09000016,Carmarthen West and South Pembrokeshire
+557,W05000441,Pembroke: Monkton,Penfro - Monkton,W09000016,Carmarthen West and South Pembrokeshire
+558,W05000442,Pembroke: St. Mary North,Penfro - Santes Fair Gogledd,W09000016,Carmarthen West and South Pembrokeshire
+559,W05000666,Cymmer,Cymer,W09000025,Rhondda
+560,W05000443,Pembroke: St. Mary South,Penfro - Santes Fair De,W09000016,Carmarthen West and South Pembrokeshire
+561,W05000667,Ferndale,Glynrhedynnog,W09000025,Rhondda
+562,W05000444,Pembroke: St. Michael,Penfro - Sant Mihangel,W09000016,Carmarthen West and South Pembrokeshire
+563,W05000677,Llwyn-y-pia,Llwyn-y-pia,W09000025,Rhondda
+564,W05000532,Lower Loughor,Casllwchwr Isaf,W09000018,Gower
+565,W05000450,Saundersfoot,Saundersfoot,W09000016,Carmarthen West and South Pembrokeshire
+566,W05000331,Maescar/Llywel,Maes-car/Llywel,W09000041,Brecon and Radnorshire
+567,W05000678,Maerdy,Y Maerdy,W09000025,Rhondda
+568,W05000533,Mawr,Mawr,W09000018,Gower
+569,W05000454,Tenby: South,Dingych y Pysgod - De,W09000016,Carmarthen West and South Pembrokeshire
+570,W05000334,Nantmel,Nantmel,W09000041,Brecon and Radnorshire
+571,W05000682,Pentre,Pentre,W09000025,Rhondda
+572,W05000537,Newton,Newton,W09000018,Gower
+573,W05000463,Carmarthen Town North,Tre Caerfyrddin - Gogledd,W09000016,Carmarthen West and South Pembrokeshire
+574,W05000340,Old Radnor,Pencraig,W09000041,Brecon and Radnorshire
+575,W05000683,Pen-y-graig,Pen-y-graig,W09000025,Rhondda
+576,W05000538,Oystermouth,Ystumllwynarth,W09000018,Gower
+577,W05000464,Carmarthen Town South,Tre Caerfyrddin - De,W09000016,Carmarthen West and South Pembrokeshire
+578,W05000341,Presteigne,Llanandras,W09000041,Brecon and Radnorshire
+579,W05000687,Porth,Y Porth,W09000025,Rhondda
+580,W05000544,Pontardulais,Pontarddulais,W09000018,Gower
+581,W05000465,Carmarthen Town West,Tre Caerfyrddin - Gorllewin,W09000016,Carmarthen West and South Pembrokeshire
+582,W05000342,Rhayader,Rhaeadr Gwy,W09000041,Brecon and Radnorshire
+583,W05000694,Tonypandy,Tonypandy,W09000025,Rhondda
+584,W05000550,West Cross,West Cross,W09000018,Gower
+585,W05000468,Cynwyl Elfed,Cynwyl Elfed,W09000016,Carmarthen West and South Pembrokeshire
+586,W05000344,St. David Within,St. David Fewnol,W09000041,Brecon and Radnorshire
+587,W05000698,Trealaw,Trealaw,W09000025,Rhondda
+588,W05000959,Bishopston,Llandeilo Ferwallt,W09000018,Gower
+589,W05000481,Laugharne Township,Treflan Talacharn,W09000016,Carmarthen West and South Pembrokeshire
+590,W05000345,St. John,St. John,W09000041,Brecon and Radnorshire
+591,W05000700,Treherbert,Treherbert,W09000025,Rhondda
+592,W05000962,Clydach,Clydach,W09000018,Gower
+593,W05000482,Llanboidy,Llanboidy,W09000016,Carmarthen West and South Pembrokeshire
+594,W05000346,St. Mary,St. Mary,W09000041,Brecon and Radnorshire
+595,W05000701,Treorchy,Treorci,W09000025,Rhondda
+596,W05000965,Dunvant,Dynfant,W09000018,Gower
+597,W05000496,Llansteffan,Llansteffan,W09000016,Carmarthen West and South Pembrokeshire
+598,W05000347,Talgarth,Talgarth,W09000041,Brecon and Radnorshire
+599,W05000702,Tylorstown,Pendyrus,W09000025,Rhondda
+600,W05000966,Fairwood,Fairwood,W09000018,Gower
+601,W05000506,St. Clears,SanclÃªr,W09000016,Carmarthen West and South Pembrokeshire
+602,W05000510,Trelech,Tre-lech,W09000016,Carmarthen West and South Pembrokeshire
+603,W05000514,Whitland,Hendy-Gwyn ar Daf,W09000016,Carmarthen West and South Pembrokeshire
+604,W05000946,Amroth,Amroth,W09000016,Carmarthen West and South Pembrokeshire
+605,W05000952,East Williamston,East Williamston,W09000016,Carmarthen West and South Pembrokeshire
+606,W05000955,Kilgetty/Begelly,Cilgeti/Begeli,W09000016,Carmarthen West and South Pembrokeshire
+607,W05000957,Martletwy,Martletwy,W09000016,Carmarthen West and South Pembrokeshire
+608,W05001037,Penally,Penalun,W09000016,Carmarthen West and South Pembrokeshire
+609,W05001038,Tenby: North,Dinbych y Pysgod - Gogledd,W09000016,Carmarthen West and South Pembrokeshire
+610,W05000460,Bigyn,Bigyn,W09000017,Llanelli
+611,W05000461,Burry Port,Porth Tywyn,W09000017,Llanelli
+612,W05000470,Dafen,Dafen,W09000017,Llanelli
+613,W05000471,Elli,Elli,W09000017,Llanelli
+614,W05000472,Felinfoel,Felin-foel,W09000017,Llanelli
+615,W05000475,Glanymor,GlanymÃ´r,W09000017,Llanelli
+616,W05000476,Glyn,Glyn,W09000017,Llanelli
+617,W05000478,Hendy,Hendy,W09000017,Llanelli
+618,W05000479,Hengoed,Hengoed,W09000017,Llanelli
+619,W05000480,Kidwelly,Cydweli,W09000017,Llanelli
+620,W05000495,Llannon,Llan-non,W09000017,Llanelli
+621,W05000498,Lliedi,Lliedi,W09000017,Llanelli
+622,W05000499,Llwynhendy,Llwynhendy,W09000017,Llanelli
+623,W05000501,Pembrey,Pembre,W09000017,Llanelli
+624,W05000504,Pontyberem,Pontyberem,W09000017,Llanelli
+625,W05000509,Swiss Valley,Swiss Valley,W09000017,Llanelli
+626,W05000511,Trimsaran,Trimsaran,W09000017,Llanelli
+627,W05000512,Tycroes,Ty-croes,W09000017,Llanelli
+628,W05000513,Tyisha,Tyisa,W09000017,Llanelli
+629,W05001002,Bynea,Bynea,W09000017,Llanelli
+630,W05001003,Llangennech,Llangennech,W09000017,Llanelli
+631,W05000524,Gower,Gwyr,W09000018,Gower
+632,W05000525,Gowerton,Tregwyr,W09000018,Gower
+633,W05000726,Crosskeys,Crosskeys,W09000036,Islwyn
+634,W05000736,Newbridge,Trecelyn,W09000036,Islwyn
+635,W05000967,Gorseinon,Gorseinon,W09000018,Gower
+636,W05000749,Ynysddu,Ynys-ddu,W09000036,Islwyn
+637,W05000349,Tawe-Uchaf,Tawe-Uchaf,W09000041,Brecon and Radnorshire
+638,W05000968,Kingsbridge,Pontybrenin,W09000018,Gower
+639,W05000704,Ynyshir,Ynys-hir,W09000025,Rhondda
+640,W05000919,Cefn Fforest,Cefn Fforest,W09000036,Islwyn
+641,W05000354,Ynyscedwyn,Ynysgedwyn,W09000041,Brecon and Radnorshire
+642,W05000970,Llangyfelach,Llangyfelach,W09000018,Gower
+643,W05000706,Ystrad,Ystrad,W09000025,Rhondda
+644,W05000920,Crumlin,Crymlyn,W09000036,Islwyn
+645,W05000355,Yscir,Ysgir,W09000041,Brecon and Radnorshire
+646,W05000974,Penclawdd,Pen-clawdd,W09000018,Gower
+647,W05000655,Aberaman North,Aberaman - Gogledd,W09000026,Cynon Valley
+648,W05000922,Maesycwmmer,Maes-y-cwmwr,W09000036,Islwyn
+649,W05000356,Ystradgynlais,Ystradgynlais,W09000041,Brecon and Radnorshire
+650,W05000976,Penllergaer,Penlle'r-gaer,W09000018,Gower
+651,W05000657,Abercynon,Abercynon,W09000026,Cynon Valley
+652,W05000924,Pengam,Pengam,W09000036,Islwyn
+653,W05000893,Llangynidr,Llangynidr,W09000041,Brecon and Radnorshire
+654,W05000977,Pennard,Pennard,W09000018,Gower
+655,W05000658,Aberdare East,AberdÃ¢r - Dwyrain,W09000026,Cynon Valley
+656,W05000925,Penmaen,Penmaen,W09000036,Islwyn
+657,W05000894,Talybont-on-Usk,Tal-y-bont ar Wysg,W09000041,Brecon and Radnorshire
+658,W05000978,Penyrheol,Penyrheol,W09000018,Gower
+659,W05000659,Aberdare West/Llwydcoed,AberdÃ¢r Gorllewin / Llwytgred,W09000026,Cynon Valley
+660,W05000663,Cilfynydd,Cilfynydd,W09000026,Cynon Valley
+661,W05000669,Glyncoch,Glyn-coch,W09000026,Cynon Valley
+662,W05000672,Hirwaun,Hirwaun,W09000026,Cynon Valley
+663,W05000680,Mountain Ash West,Aberpennar - Gorllewin,W09000026,Cynon Valley
+664,W05000681,Penrhiwceiber,Penrhiw-ceiber,W09000026,Cynon Valley
+665,W05000684,Pen-y-waun,Pen-y-waun,W09000026,Cynon Valley
+666,W05000688,Rhigos,Rhigos,W09000026,Cynon Valley
+667,W05000705,Ynysybwl,Ynys-y-bwl,W09000026,Cynon Valley
+668,W05001017,Aberaman South,Aberaman - De,W09000026,Cynon Valley
+669,W05001020,Cwmbach,Cwm-bach,W09000026,Cynon Valley
+670,W05001024,Mountain Ash East,Aberpennar - Dwyrain,W09000026,Cynon Valley
+671,W05000855,Caerau,Caerau,W09000029,Cardiff West
+672,W05000856,Canton,Treganna,W09000029,Cardiff West
+673,W05000858,Creigiau/St. Fagans,Creigiau/Sain Ffagan,W09000029,Cardiff West
+674,W05000860,Ely,TrelÃ¡i,W09000029,Cardiff West
+675,W05000861,Fairwater,Tyllgoed,W09000029,Cardiff West
+676,W05000866,Llandaff,Llandaf,W09000029,Cardiff West
+677,W05000871,Pentyrch,Pentyrch,W09000029,Cardiff West
+678,W05000875,Radyr,Radur,W09000029,Cardiff West
+679,W05000877,Riverside,Glanyrafon,W09000029,Cardiff West
+680,W05000853,Adamsdown,Adamsdown,W09000031,Cardiff Central
+681,W05000857,Cathays,Cathays,W09000031,Cardiff Central
+682,W05000872,Penylan,Pen-y-lan,W09000031,Cardiff Central
+683,W05000873,Plasnewydd,Plasnewydd,W09000031,Cardiff Central
+684,W05001011,Cyncoed,Cyncoed,W09000031,Cardiff Central
+685,W05001014,Pentwyn,Pen-twyn,W09000031,Cardiff Central
+686,W05000772,Croesyceiliog South,Croesyceiliog - De,W09000034,Monmouth
+687,W05000791,Caerwent,Caer-went,W09000034,Monmouth
+688,W05000793,Cantref,Cantref,W09000034,Monmouth
+689,W05000794,Castle,Castell,W09000034,Monmouth
+690,W05000795,Croesonen,Croesonnen,W09000034,Monmouth
+691,W05000862,Gabalfa,Gabalfa,W09000042,Cardiff North
+692,W05000927,Pontllanfraith,Pontllan-fraith,W09000036,Islwyn
+693,W05000864,Heath,Y Mynydd Bychan,W09000042,Cardiff North
+694,W05000928,Risca East,Rhisga - Dwyrain,W09000036,Islwyn
+695,W05000865,Lisvane,Llys-faen,W09000042,Cardiff North
+696,W05000929,Risca West,Rhisga - Gorllewin,W09000036,Islwyn
+697,W05000867,Llandaff North,Ystum Taf,W09000042,Cardiff North
+698,W05000768,Blaenavon,Blaenafon,W09000037,Torfaen
+699,W05000876,Rhiwbina,Rhiwbeina,W09000042,Cardiff North
+700,W05000769,Brynwern,Bryn-wern,W09000037,Torfaen
+701,W05000980,Upper Loughor,Casllwchwr Uchaf,W09000018,Gower
+702,W05000881,Whitchurch and Tongwynlais,Yr Eglwys Newydd a Thongwynlais,W09000042,Cardiff North
+703,W05000770,Coed Eva,Coed Efa,W09000037,Torfaen
+704,W05000526,Killay North,CilÃ¢ - Gogledd,W09000019,Swansea West
+705,W05000900,Pontprennau/Old St. Mellons,Pontprennau/Hen Laneirwg,W09000042,Cardiff North
+706,W05000773,Cwmyniscoy,Cwmynysgoi,W09000037,Torfaen
+707,W05000527,Killay South,CilÃ¢ - De,W09000019,Swansea West
+708,W05001011,Cyncoed,Cyncoed,W09000042,Cardiff North
+709,W05000774,Fairwater,Fairwater,W09000037,Torfaen
+710,W05000534,Mayals,Mayals,W09000019,Swansea West
+711,W05001012,Llanishen,Llanisien,W09000042,Cardiff North
+712,W05000776,Llantarnam,Llantarnam,W09000037,Torfaen
+713,W05000546,Sketty,Sgeti,W09000019,Swansea West
+714,W05000636,Cornerswell,Cornerswell,W09000043,Cardiff South and Penarth
+715,W05000780,Panteg,Pant-teg,W09000037,Torfaen
+716,W05000782,Pontnewynydd,Pontnewynydd,W09000037,Torfaen
+717,W05000783,Pontypool,Pont-y-pwl,W09000037,Torfaen
+718,W05000784,St. Cadocs and Penygarn,St. Cadocs/Penygarn,W09000037,Torfaen
+719,W05000787,Trevethin,Trefddyn,W09000037,Torfaen
+720,W05000788,Two Locks,Two Locks,W09000037,Torfaen
+721,W05000790,Wainfelin,Wainfelin,W09000037,Torfaen
+722,W05000992,Abersychan,Abersychan,W09000037,Torfaen
+723,W05000993,Croesyceiliog North,Croesyceiliog - Gogledd,W09000037,Torfaen
+724,W05000994,Greenmeadow,Greenmeadow,W09000037,Torfaen
+725,W05000997,New Inn,New Inn,W09000037,Torfaen
+726,W05000998,Pontnewydd,Pontnewydd,W09000037,Torfaen
+727,W05000999,Snatchwood,Snatchwood,W09000037,Torfaen
+728,W05001000,St. Dials,St. Dials,W09000037,Torfaen
+729,W05001001,Upper Cwmbran,CwmbrÃ¢n Uchaf,W09000037,Torfaen
+730,W05000751,Abertillery,Abertyleri,W09000038,Blaenau Gwent
+731,W05000760,Georgetown,Georgetown,W09000038,Blaenau Gwent
+732,W05000761,Llanhilleth,Llanhiledd,W09000038,Blaenau Gwent
+733,W05000764,Sirhowy,Sirhywi,W09000038,Blaenau Gwent
+734,W05000765,Six Bells,Six Bells,W09000038,Blaenau Gwent
+735,W05000766,Tredegar Central and West,Tredegar - Canol a Gorllewin,W09000038,Blaenau Gwent
+736,W05000936,Badminton,Badminton,W09000038,Blaenau Gwent
+737,W05000937,Beaufort,Cendl,W09000038,Blaenau Gwent
+738,W05000938,Blaina,Blaenau,W09000038,Blaenau Gwent
+739,W05000939,Brynmawr,Brynmawr,W09000038,Blaenau Gwent
+740,W05000940,Cwm,Cwm,W09000038,Blaenau Gwent
+741,W05000941,Cwmtillery,Cwmtyleri,W09000038,Blaenau Gwent
+742,W05000942,Ebbw Vale North,Glynebwy - Gogledd,W09000038,Blaenau Gwent
+743,W05000943,Ebbw Vale South,Glynebwy - De,W09000038,Blaenau Gwent
+744,W05000944,Nantyglo,Nantyglo,W09000038,Blaenau Gwent
+745,W05000945,Rassau,Rasa,W09000038,Blaenau Gwent
+746,W05000833,Allt-yr-yn,Allt-yr-ynn,W09000039,Newport West
+747,W05000836,Bettws,Betws,W09000039,Newport West
+748,W05000548,Uplands,Uplands,W09000019,Swansea West
+749,W05000650,St. Augustine's,St. Augustine's,W09000043,Cardiff South and Penarth
+750,W05000961,Castle,Castell,W09000019,Swansea West
+751,W05000652,Stanwell,Stanwell,W09000043,Cardiff South and Penarth
+752,W05000963,Cockett,Y Cocyd,W09000019,Swansea West
+753,W05000854,Butetown,Butetown,W09000043,Cardiff South and Penarth
+754,W05000965,Dunvant,Dynfant,W09000019,Swansea West
+755,W05000863,Grangetown,Grangetown,W09000043,Cardiff South and Penarth
+756,W05000969,Landore,Glandwr,W09000019,Swansea West
+757,W05000879,Splott,Y Sblot,W09000043,Cardiff South and Penarth
+758,W05000979,Townhill,Townhill,W09000019,Swansea West
+759,W05000933,Llandough,Llandoche,W09000043,Cardiff South and Penarth
+760,W05000545,St. Thomas,St. Thomas,W09000020,Swansea East
+761,W05000934,Plymouth,Plymouth,W09000043,Cardiff South and Penarth
+762,W05000960,Bonymaen,Bonymaen,W09000020,Swansea East
+763,W05000935,Sully,Sili,W09000043,Cardiff South and Penarth
+764,W05000962,Clydach,Clydach,W09000020,Swansea East
+765,W05001013,Llanrumney,Llanrhymni,W09000043,Cardiff South and Penarth
+766,W05000963,Cockett,Y Cocyd,W09000020,Swansea East
+767,W05001015,Rumney,Tredelerch,W09000043,Cardiff South and Penarth
+768,W05000964,Cwmbwrla,Cwmbwrla,W09000020,Swansea East
+769,W05001016,Trowbridge,Trowbridge,W09000043,Cardiff South and Penarth
+770,W05000969,Landore,Glandwr,W09000020,Swansea East
+771,W05000970,Llangyfelach,Llangyfelach,W09000020,Swansea East
+772,W05000707,Bedlinog,Bedlinog,W09000044,Merthyr Tydfil and Rhymney
+773,W05000971,Llansamlet,Llansamlet,W09000020,Swansea East
+774,W05000708,Cyfarthfa,Cyfarthfa,W09000044,Merthyr Tydfil and Rhymney
+775,W05000972,Morriston,Treforys,W09000020,Swansea East
+776,W05000709,Dowlais,Dowlais,W09000044,Merthyr Tydfil and Rhymney
+777,W05000973,Mynyddbach,Mynydd-bach,W09000020,Swansea East
+778,W05000710,Gurnos,Gurnos,W09000044,Merthyr Tydfil and Rhymney
+779,W05000975,Penderry,Penderi,W09000020,Swansea East
+780,W05000711,Merthyr Vale,Ynyswen,W09000044,Merthyr Tydfil and Rhymney
+781,W05000552,Aberdulais,Aberdulais,W09000021,Neath
+782,W05000712,Park,Parc,W09000044,Merthyr Tydfil and Rhymney
+783,W05000553,Allt-wen,Allt-wen,W09000021,Neath
+784,W05000713,Penydarren,Penydarren,W09000044,Merthyr Tydfil and Rhymney
+785,W05000555,Blaengwrach,Blaengwrach,W09000021,Neath
+786,W05000714,Plymouth,Plymouth,W09000044,Merthyr Tydfil and Rhymney
+787,W05000559,Bryn-coch North,Bryn-coch - Gogledd,W09000021,Neath
+788,W05000715,Town,Y Dref,W09000044,Merthyr Tydfil and Rhymney
+789,W05000560,Bryn-coch South,Bryn-coch - De,W09000021,Neath
+790,W05000716,Treharris,Treharris,W09000044,Merthyr Tydfil and Rhymney
+791,W05000561,Cadoxton,Llangatwg,W09000021,Neath
+792,W05000728,Darren Valley,Cwm Darran,W09000044,Merthyr Tydfil and Rhymney
+793,W05000562,Cimla,Cimla,W09000021,Neath
+794,W05000734,Moriah,Moria,W09000044,Merthyr Tydfil and Rhymney
+795,W05000566,Crynant,Creunant,W09000021,Neath
+796,W05000737,New Tredegar,Tredegar Newydd,W09000044,Merthyr Tydfil and Rhymney
+797,W05000567,Cwmllynfell,Cwmllynfell,W09000021,Neath
+798,W05000742,Pontlottyn,Pontlotyn,W09000044,Merthyr Tydfil and Rhymney
+799,W05000569,Dyffryn,Dyffryn,W09000021,Neath
+800,W05000571,Glynneath,Glyn-nedd,W09000021,Neath
+801,W05000748,Twyn Carno,Twyn Carno,W09000044,Merthyr Tydfil and Rhymney
+802,W05000895,Vaynor,Faenor,W09000044,Merthyr Tydfil and Rhymney
+803,W05000593,Aberkenfig,Abercynffig,W09000045,Ogmore
+804,W05000594,Bettws,Betws,W09000045,Ogmore
+805,W05000595,Blackmill,Melin Ifan Ddu,W09000045,Ogmore
+806,W05000596,Blaengarw,Blaengarw,W09000045,Ogmore
+807,W05000598,Bryncethin,Brynceithin,W09000045,Ogmore
+808,W05000599,Bryncoch,Bryn-coch,W09000045,Ogmore
+809,W05000601,Caerau,Caerau,W09000045,Ogmore
+810,W05000602,Cefn Cribwr,Cefn Cribwr,W09000045,Ogmore
+811,W05000607,Felindre,Felindre,W09000045,Ogmore
+812,W05000608,Hendre,Hendre,W09000045,Ogmore
+813,W05000610,Llangeinor,Llangeinwyr,W09000045,Ogmore
+814,W05000612,Llangynwyd,Llangynwyd,W09000045,Ogmore
+815,W05000613,Maesteg East,Maesteg - Dwyrain,W09000045,Ogmore
+816,W05000614,Maesteg West,Maesteg - Gorllewin,W09000045,Ogmore
+817,W05000616,Nant-y-moel,Nant-y-moel,W09000045,Ogmore
+818,W05000620,Ogmore Vale,Cwm Ogwr,W09000045,Ogmore
+819,W05000623,Penprysg,Penprysg,W09000045,Ogmore
+820,W05000625,Pontycymmer,Pontycymer,W09000045,Ogmore
+821,W05000630,Sarn,Sarn,W09000045,Ogmore
+822,W05000631,Ynysawdre,Ynysawdre,W09000045,Ogmore
+823,W05000661,Brynna,Brynna,W09000045,Ogmore
+824,W05000668,Gilfach Goch,Gilfach Goch,W09000045,Ogmore
+825,W05000889,Llanharan,Llanharan,W09000045,Ogmore
+826,W05000890,Llanharry,Llanhari,W09000045,Ogmore
+827,W05000671,Hawthorn,Y Ddraenen Wen,W09000046,Pontypridd
+828,W05000686,Pontypridd Town,Tref Pontypridd,W09000046,Pontypridd
+829,W05000689,Rhondda,Rhondda,W09000046,Pontypridd
+830,W05000690,Rhydfelen Central/Ilan,Rhydfelen - Canol / Llan,W09000046,Pontypridd
+831,W05000691,Taffs Well,Ffynon Taf,W09000046,Pontypridd
+832,W05000693,Ton-teg,Ton-teg,W09000046,Pontypridd
+833,W05000695,Tonyrefail East,Tonyrefail - Dwyrain,W09000046,Pontypridd
+834,W05000696,Tonyrefail West,Tonyrefail - Gorllewin,W09000046,Pontypridd
+835,W05000697,Trallwng,Trallwng,W09000046,Pontypridd
+836,W05000699,Treforest,Trefforest,W09000046,Pontypridd
+837,W05000891,Pont-y-clun,Pont-y-clun,W09000046,Pontypridd
+838,W05001018,Beddau,Y Beddau,W09000046,Pontypridd
+839,W05001019,Church Village,Gartholwg,W09000046,Pontypridd
+840,W05001021,Graig,Y Graig,W09000046,Pontypridd
+841,W05001022,Llantrisant Town,Tref Llantrisant,W09000046,Pontypridd
+842,W05001023,Llantwit Fardre,Llanilltud Faerdref,W09000046,Pontypridd
+843,W05001025,Talbot Green,Tonysguboriau,W09000046,Pontypridd
+844,W05001026,Tyn-y-nant,Ty'n-y-nant,W09000046,Pontypridd
+845,W05000632,Baruc,Baruc,W09000047,Vale of Glamorgan
+846,W05000633,Buttrills,Buttrills,W09000047,Vale of Glamorgan
+847,W05000634,Cadoc,Catwg,W09000047,Vale of Glamorgan
+848,W05000635,Castleland,Castleland,W09000047,Vale of Glamorgan
+849,W05000637,Court,Court,W09000047,Vale of Glamorgan
+850,W05000638,Cowbridge,Y Bont-faen,W09000047,Vale of Glamorgan
+851,W05000640,Dyfan,Dyfan,W09000047,Vale of Glamorgan
+852,W05000641,Gibbonsdown,Gibbonsdown,W09000047,Vale of Glamorgan
+853,W05000642,Illtyd,Illtud,W09000047,Vale of Glamorgan
+854,W05000644,Llandow/Ewenny,Llandw/Ewenni,W09000047,Vale of Glamorgan
+855,W05000645,Llantwit Major,Llanilltud Fawr,W09000047,Vale of Glamorgan
+856,W05000646,Peterston-super-Ely,Llanbedr-y-Fro,W09000047,Vale of Glamorgan
+857,W05000648,Rhoose,Y Rhws,W09000047,Vale of Glamorgan
+858,W05000649,St. Athan,Sain Tathan,W09000047,Vale of Glamorgan
+859,W05000651,St. Bride's Major,Sant-y-Brid,W09000047,Vale of Glamorgan
+860,W05000654,Wenvoe,GwenfÃ´,W09000047,Vale of Glamorgan
+861,W05000932,Dinas Powys,Dinas Powys,W09000047,Vale of Glamorgan

@@ -1,0 +1,1721 @@
+CED17CD,CED17NM,CTY17CD,CTY17NM,FID
+E58000001,Abbey ED,E10000002,Buckinghamshire,1
+E58000002,Amersham and Chesham Bois ED,E10000002,Buckinghamshire,2
+E58000003,Aston Clinton and Bierton ED,E10000002,Buckinghamshire,3
+E58000004,Aylesbury East ED,E10000002,Buckinghamshire,4
+E58000005,Aylesbury North ED,E10000002,Buckinghamshire,5
+E58000006,Aylesbury North-West ED,E10000002,Buckinghamshire,6
+E58000007,Aylesbury South-East ED,E10000002,Buckinghamshire,7
+E58000008,Aylesbury South-West ED,E10000002,Buckinghamshire,8
+E58000009,Aylesbury West ED,E10000002,Buckinghamshire,9
+E58000010,Beaconsfield ED,E10000002,Buckinghamshire,10
+E58000011,Bernwood ED,E10000002,Buckinghamshire,11
+E58000012,"Booker, Cressex and Castlefield ED",E10000002,Buckinghamshire,12
+E58000013,Buckingham East ED,E10000002,Buckinghamshire,13
+E58000014,Buckingham West ED,E10000002,Buckinghamshire,14
+E58000015,Chalfont St. Giles ED,E10000002,Buckinghamshire,15
+E58000016,Chalfont St. Peter ED,E10000002,Buckinghamshire,16
+E58000017,Chesham ED,E10000002,Buckinghamshire,17
+E58000018,Chess Valley ED,E10000002,Buckinghamshire,18
+E58000019,Chiltern Ridges ED,E10000002,Buckinghamshire,19
+E58000020,Chiltern Villages ED,E10000002,Buckinghamshire,20
+E58000021,Cliveden ED,E10000002,Buckinghamshire,21
+E58000022,Denham ED,E10000002,Buckinghamshire,22
+E58000023,Downley ED,E10000002,Buckinghamshire,23
+E58000024,Farnham Common and Burnham Beeches ED,E10000002,Buckinghamshire,24
+E58000025,"Flackwell Heath, Little Marlow and Marlow South-East ED",E10000002,Buckinghamshire,25
+E58000026,Gerrards Cross ED,E10000002,Buckinghamshire,26
+E58000027,Great Brickhill ED,E10000002,Buckinghamshire,27
+E58000028,Great Missenden ED,E10000002,Buckinghamshire,28
+E58000029,Grendon Underwood ED,E10000002,Buckinghamshire,29
+E58000030,Hazlemere ED,E10000002,Buckinghamshire,30
+E58000031,Iver ED,E10000002,Buckinghamshire,31
+E58000032,Ivinghoe ED,E10000002,Buckinghamshire,32
+E58000033,Little Chalfont and Amersham Common ED,E10000002,Buckinghamshire,33
+E58000034,Marlow ED,E10000002,Buckinghamshire,34
+E58000035,Penn Wood and Old Amersham ED,E10000002,Buckinghamshire,35
+E58000036,Ridgeway East ED,E10000002,Buckinghamshire,36
+E58000037,Ridgeway West ED,E10000002,Buckinghamshire,37
+E58000038,Ryemead and Micklefield ED,E10000002,Buckinghamshire,38
+E58000039,Stoke Poges and Wexham ED,E10000002,Buckinghamshire,39
+E58000040,Stone and Waddesdon ED,E10000002,Buckinghamshire,40
+E58000041,Terriers and Amersham Hill ED,E10000002,Buckinghamshire,41
+E58000042,The Risboroughs ED,E10000002,Buckinghamshire,42
+E58000043,"The Wooburns, Bourne End and Hedsor ED",E10000002,Buckinghamshire,43
+E58000044,Totteridge and Bowerdean ED,E10000002,Buckinghamshire,44
+E58000045,Tylers Green and Loudwater ED,E10000002,Buckinghamshire,45
+E58000046,"Wendover, Halton and Stoke Mandeville ED",E10000002,Buckinghamshire,46
+E58000047,West Wycombe ED,E10000002,Buckinghamshire,47
+E58000048,Wing ED,E10000002,Buckinghamshire,48
+E58000049,Winslow ED,E10000002,Buckinghamshire,49
+E58000050,Abbey ED,E10000003,Cambridgeshire,50
+E58000201,Bolsover North ED,E10000007,Derbyshire,51
+E58000202,Bolsover South ED,E10000007,Derbyshire,52
+E58000203,Boythorpe and Brampton South ED,E10000007,Derbyshire,53
+E58000204,Breadsall and West Hallam ED,E10000007,Derbyshire,54
+E58000205,Breaston ED,E10000007,Derbyshire,55
+E58000206,Brimington ED,E10000007,Derbyshire,56
+E58000207,Buxton North and East ED,E10000007,Derbyshire,57
+E58000208,Buxton West ED,E10000007,Derbyshire,58
+E58000209,Chapel and Hope Valley ED,E10000007,Derbyshire,59
+E58000210,Clay Cross North ED,E10000007,Derbyshire,60
+E58000211,Clay Cross South ED,E10000007,Derbyshire,61
+E58000212,Derwent Valley ED,E10000007,Derbyshire,62
+E58000213,Dovedale ED,E10000007,Derbyshire,63
+E58000214,Dronfield East ED,E10000007,Derbyshire,64
+E58000215,Dronfield West and Walton ED,E10000007,Derbyshire,65
+E58000216,Duffield and Belper South ED,E10000007,Derbyshire,66
+E58000217,Eckington and Killamarsh ED,E10000007,Derbyshire,67
+E58000218,Etherow ED,E10000007,Derbyshire,68
+E58000219,Etwall and Repton ED,E10000007,Derbyshire,69
+E58000220,Glossop and Charlesworth ED,E10000007,Derbyshire,70
+E58000221,Greater Heanor ED,E10000007,Derbyshire,71
+E58000222,Heanor Central ED,E10000007,Derbyshire,72
+E58000223,Hilton ED,E10000007,Derbyshire,73
+E58000224,Horsley ED,E10000007,Derbyshire,74
+E58000225,Ilkeston East ED,E10000007,Derbyshire,75
+E58000226,Ilkeston South ED,E10000007,Derbyshire,76
+E58000227,Ilkeston West ED,E10000007,Derbyshire,77
+E58000228,Linton ED,E10000007,Derbyshire,78
+E58000229,Long Eaton ED,E10000007,Derbyshire,79
+E58000230,Loundsley Green and Newbold ED,E10000007,Derbyshire,80
+E58000231,Matlock ED,E10000007,Derbyshire,81
+E58000232,Melbourne ED,E10000007,Derbyshire,82
+E58000233,New Mills ED,E10000007,Derbyshire,83
+E58000234,Petersham ED,E10000007,Derbyshire,84
+E58000235,Ripley East and Codnor ED,E10000007,Derbyshire,85
+E58000236,Ripley West and Heage ED,E10000007,Derbyshire,86
+E58000237,Sandiacre ED,E10000007,Derbyshire,87
+E58000238,Sawley ED,E10000007,Derbyshire,88
+E58000239,Shirebrook and Pleasley ED,E10000007,Derbyshire,89
+E58000240,South Normanton and Pinxton ED,E10000007,Derbyshire,90
+E58000241,Spire ED,E10000007,Derbyshire,91
+E58000242,St. Mary's ED,E10000007,Derbyshire,92
+E58000243,Staveley ED,E10000007,Derbyshire,93
+E58000244,Staveley North and Whittington ED,E10000007,Derbyshire,94
+E58000245,Sutton ED,E10000007,Derbyshire,95
+E58000246,Swadlincote Central ED,E10000007,Derbyshire,96
+E58000247,Swadlincote North ED,E10000007,Derbyshire,97
+E58000248,Swadlincote South ED,E10000007,Derbyshire,98
+E58000249,Tibshelf ED,E10000007,Derbyshire,99
+E58000250,Walton and West ED,E10000007,Derbyshire,100
+E58000251,Whaley Bridge ED,E10000007,Derbyshire,101
+E58000051,Alconbury & Kimbolton ED,E10000003,Cambridgeshire,102
+E58000052,Arbury ED,E10000003,Cambridgeshire,103
+E58000053,Bar Hill ED,E10000003,Cambridgeshire,104
+E58000054,Brampton & Buckden ED,E10000003,Cambridgeshire,105
+E58000055,Burwell ED,E10000003,Cambridgeshire,106
+E58000056,Cambourne ED,E10000003,Cambridgeshire,107
+E58000057,Castle ED,E10000003,Cambridgeshire,108
+E58000058,Chatteris ED,E10000003,Cambridgeshire,109
+E58000059,Cherry Hinton ED,E10000003,Cambridgeshire,110
+E58000060,Chesterton ED,E10000003,Cambridgeshire,111
+E58000061,Cottenham & Willingham ED,E10000003,Cambridgeshire,112
+E58000062,Duxford ED,E10000003,Cambridgeshire,113
+E58000063,Ely North ED,E10000003,Cambridgeshire,114
+E58000064,Ely South ED,E10000003,Cambridgeshire,115
+E58000065,Fulbourn ED,E10000003,Cambridgeshire,116
+E58000066,Gamlingay ED,E10000003,Cambridgeshire,117
+E58000067,Godmanchester & Huntingdon South ED,E10000003,Cambridgeshire,118
+E58000068,Hardwick ED,E10000003,Cambridgeshire,119
+E58000069,Histon & Impington ED,E10000003,Cambridgeshire,120
+E58000070,Huntingdon North & Hartford ED,E10000003,Cambridgeshire,121
+E58000071,Huntingdon West ED,E10000003,Cambridgeshire,122
+E58000072,King's Hedges ED,E10000003,Cambridgeshire,123
+E58000073,Linton ED,E10000003,Cambridgeshire,124
+E58000074,Littleport ED,E10000003,Cambridgeshire,125
+E58000075,"Longstanton, Northstowe & Over ED",E10000003,Cambridgeshire,126
+E58000076,March North & Waldersey ED,E10000003,Cambridgeshire,127
+E58000077,March South & Rural ED,E10000003,Cambridgeshire,128
+E58000078,Market ED,E10000003,Cambridgeshire,129
+E58000079,Melbourn & Bassingbourn ED,E10000003,Cambridgeshire,130
+E58000080,Newnham ED,E10000003,Cambridgeshire,131
+E58000081,Papworth & Swavesey ED,E10000003,Cambridgeshire,132
+E58000082,Petersfield ED,E10000003,Cambridgeshire,133
+E58000083,Queen Edith's ED,E10000003,Cambridgeshire,134
+E58000084,Ramsey & Bury ED,E10000003,Cambridgeshire,135
+E58000085,Roman Bank & Peckover ED,E10000003,Cambridgeshire,136
+E58000086,Romsey ED,E10000003,Cambridgeshire,137
+E58000087,Sawston & Shelford ED,E10000003,Cambridgeshire,138
+E58000088,Sawtry & Stilton ED,E10000003,Cambridgeshire,139
+E58000089,Soham North & Isleham ED,E10000003,Cambridgeshire,140
+E58000090,Soham South & Haddenham ED,E10000003,Cambridgeshire,141
+E58000091,Somersham & Earith ED,E10000003,Cambridgeshire,142
+E58000092,St. Ives North & Wyton ED,E10000003,Cambridgeshire,143
+E58000093,St. Ives South & Needingworth ED,E10000003,Cambridgeshire,144
+E58000094,St. Neots East & Gransden ED,E10000003,Cambridgeshire,145
+E58000095,St. Neots Eynesbury ED,E10000003,Cambridgeshire,146
+E58000096,St. Neots Priory Park & Little Paxton ED,E10000003,Cambridgeshire,147
+E58000097,St. Neots The Eatons ED,E10000003,Cambridgeshire,148
+E58000098,Sutton ED,E10000003,Cambridgeshire,149
+E58000099,The Hemingfords & Fenstanton ED,E10000003,Cambridgeshire,150
+E58000100,Trumpington ED,E10000003,Cambridgeshire,151
+E58000301,Tavistock ED,E10000008,Devon,152
+E58000252,Wingerworth and Shirland ED,E10000007,Derbyshire,153
+E58000101,Warboys & The Stukeleys ED,E10000003,Cambridgeshire,154
+E58000102,Waterbeach ED,E10000003,Cambridgeshire,155
+E58000103,Whittlesey North ED,E10000003,Cambridgeshire,156
+E58000104,Whittlesey South ED,E10000003,Cambridgeshire,157
+E58000105,Wisbech East ED,E10000003,Cambridgeshire,158
+E58000106,Wisbech West ED,E10000003,Cambridgeshire,159
+E58000107,Woodditton ED,E10000003,Cambridgeshire,160
+E58000108,Yaxley & Farcet ED,E10000003,Cambridgeshire,161
+E58000109,Alston and East Fellside ED,E10000006,Cumbria,162
+E58000110,Appleby ED,E10000006,Cumbria,163
+E58000111,Aspatria ED,E10000006,Cumbria,164
+E58000112,Belah ED,E10000006,Cumbria,165
+E58000113,Belle Vue ED,E10000006,Cumbria,166
+E58000114,Botcherby ED,E10000006,Cumbria,167
+E58000302,Teignmouth ED,E10000008,Devon,168
+E58000115,Bothel and Wharrels ED,E10000006,Cumbria,169
+E58000303,Tiverton East ED,E10000008,Devon,170
+E58000116,Brampton ED,E10000006,Cumbria,171
+E58000304,Tiverton West ED,E10000008,Devon,172
+E58000117,Bransty ED,E10000006,Cumbria,173
+E58000305,Torrington Rural ED,E10000008,Devon,174
+E58000118,Cartmel ED,E10000006,Cumbria,175
+E58000306,Totnes & Dartington ED,E10000008,Devon,176
+E58000119,Castle ED,E10000006,Cumbria,177
+E58000307,Wearside & Topsham ED,E10000008,Devon,178
+E58000120,Cleator Moor East and Frizington ED,E10000006,Cumbria,179
+E58000308,Whimple & Blackdown ED,E10000008,Devon,180
+E58000121,Cleator Moor West ED,E10000006,Cumbria,181
+E58000309,Willand & Uffculme ED,E10000008,Devon,182
+E58000122,Cockermouth North ED,E10000006,Cumbria,183
+E58000123,Cockermouth South ED,E10000006,Cumbria,184
+E58000124,Corby and Hayton ED,E10000006,Cumbria,185
+E58000125,Currock ED,E10000006,Cumbria,186
+E58000126,Dalston and Burgh ED,E10000006,Cumbria,187
+E58000127,Dalton North ED,E10000006,Cumbria,188
+E58000128,Dalton South ED,E10000006,Cumbria,189
+E58000129,Dearham and Broughton ED,E10000006,Cumbria,190
+E58000130,Denton Holme ED,E10000006,Cumbria,191
+E58000131,Eden Lakes ED,E10000006,Cumbria,192
+E58000132,Egremont ED,E10000006,Cumbria,193
+E58000133,Egremont North and St. Bees ED,E10000006,Cumbria,194
+E58000134,Gosforth ED,E10000006,Cumbria,195
+E58000135,Grange ED,E10000006,Cumbria,196
+E58000136,Greystoke and Hesket ED,E10000006,Cumbria,197
+E58000137,Harraby North ED,E10000006,Cumbria,198
+E58000138,Harraby South ED,E10000006,Cumbria,199
+E58000139,Harrington ED,E10000006,Cumbria,200
+E58000140,Hawcoat ED,E10000006,Cumbria,201
+E58000141,High Furness ED,E10000006,Cumbria,202
+E58000142,Hillcrest and Hensingham ED,E10000006,Cumbria,203
+E58000143,Hindpool ED,E10000006,Cumbria,204
+E58000144,Houghton and Irthington ED,E10000006,Cumbria,205
+E58000145,Howgate ED,E10000006,Cumbria,206
+E58000146,Kells and Sandwith ED,E10000006,Cumbria,207
+E58000147,Kendal Castle ED,E10000006,Cumbria,208
+E58000148,Kendal Highgate ED,E10000006,Cumbria,209
+E58000149,Kendal Nether ED,E10000006,Cumbria,210
+E58000150,Kendal South ED,E10000006,Cumbria,211
+E58000253,Wirksworth ED,E10000007,Derbyshire,212
+E58000310,Wonford & St. Loyes ED,E10000008,Devon,213
+E58000311,Yelverton Rural ED,E10000008,Devon,214
+E58000312,Beaminster ED,E10000009,Dorset,215
+E58000313,Blackmore Vale ED,E10000009,Dorset,216
+E58000314,Blandford Forum ED,E10000009,Dorset,217
+E58000315,Bridport ED,E10000009,Dorset,218
+E58000316,Broadwey ED,E10000009,Dorset,219
+E58000317,Burton Grange ED,E10000009,Dorset,220
+E58000318,Chickerell & Chesil Bank ED,E10000009,Dorset,221
+E58000319,Christchurch Central ED,E10000009,Dorset,222
+E58000320,Colehill East & Stapehill ED,E10000009,Dorset,223
+E58000321,Colehill West & Wimborne Minster ED,E10000009,Dorset,224
+E58000322,Commons ED,E10000009,Dorset,225
+E58000323,Corfe Mullen ED,E10000009,Dorset,226
+E58000324,Cranborne Chase ED,E10000009,Dorset,227
+E58000325,Dorchester ED,E10000009,Dorset,228
+E58000326,Ferndown ED,E10000009,Dorset,229
+E58000327,Gillingham ED,E10000009,Dorset,230
+E58000328,Hambledon ED,E10000009,Dorset,231
+E58000329,Linden Lea ED,E10000009,Dorset,232
+E58000330,Lodmoor ED,E10000009,Dorset,233
+E58000331,Lytchett Minster & Upton ED,E10000009,Dorset,234
+E58000332,Marshwood Vale ED,E10000009,Dorset,235
+E58000333,Moors ED,E10000009,Dorset,236
+E58000334,Mudeford & Highcliffe ED,E10000009,Dorset,237
+E58000335,North West Purbeck ED,E10000009,Dorset,238
+E58000336,Portland Harbour ED,E10000009,Dorset,239
+E58000337,Portland Tophill ED,E10000009,Dorset,240
+E58000338,Rodwell ED,E10000009,Dorset,241
+E58000339,Shaftesbury ED,E10000009,Dorset,242
+E58000340,Sherborne Rural ED,E10000009,Dorset,243
+E58000341,Sherborne Town ED,E10000009,Dorset,244
+E58000342,South Purbeck ED,E10000009,Dorset,245
+E58000343,Stalbridge & The Beacon ED,E10000009,Dorset,246
+E58000344,Swanage ED,E10000009,Dorset,247
+E58000345,Three Valleys ED,E10000009,Dorset,248
+E58000346,Verwood ED,E10000009,Dorset,249
+E58000151,Kendal Strickland and Fell ED,E10000006,Cumbria,250
+E58000347,Walkford ED,E10000009,Dorset,251
+E58000348,Wareham ED,E10000009,Dorset,252
+E58000349,Westham ED,E10000009,Dorset,253
+E58000350,Weymouth Town ED,E10000009,Dorset,254
+E58000351,Winterborne ED,E10000009,Dorset,255
+E58000254,Alphington & Cowick ED,E10000008,Devon,256
+E58000255,Ashburton & Buckfastleigh ED,E10000008,Devon,257
+E58000152,Kent Estuary ED,E10000006,Cumbria,258
+E58000352,"Arlington, East Hoathly & Hellingly ED",E10000011,East Sussex,259
+E58000256,Axminster ED,E10000008,Devon,260
+E58000153,Keswick ED,E10000006,Cumbria,261
+E58000353,Ashdown & Conquest ED,E10000011,East Sussex,262
+E58000257,Barnstaple North ED,E10000008,Devon,263
+E58000154,Kirkby Stephen ED,E10000006,Cumbria,264
+E58000354,Baird & Ore ED,E10000011,East Sussex,265
+E58000258,Barnstaple South ED,E10000008,Devon,266
+E58000155,Lakes ED,E10000006,Cumbria,267
+E58000355,Battle & Crowhurst ED,E10000011,East Sussex,268
+E58000259,Bickleigh & Wembury ED,E10000008,Devon,269
+E58000156,Longtown ED,E10000006,Cumbria,270
+E58000356,Bexhill East ED,E10000011,East Sussex,271
+E58000260,Bideford East ED,E10000008,Devon,272
+E58000157,Low Furness ED,E10000006,Cumbria,273
+E58000357,Bexhill North ED,E10000011,East Sussex,274
+E58000261,Bideford West & Hartland ED,E10000008,Devon,275
+E58000158,Lower Kentdale ED,E10000006,Cumbria,276
+E58000358,Bexhill South ED,E10000011,East Sussex,277
+E58000262,Bovey Rural ED,E10000008,Devon,278
+E58000159,Lyth Valley ED,E10000006,Cumbria,279
+E58000359,Bexhill West ED,E10000011,East Sussex,280
+E58000263,Braunton Rural ED,E10000008,Devon,281
+E58000160,Maryport North ED,E10000006,Cumbria,282
+E58000360,Braybrooke & Castle ED,E10000011,East Sussex,283
+E58000264,Broadclyst ED,E10000008,Devon,284
+E58000161,Maryport South ED,E10000006,Cumbria,285
+E58000361,Brede Valley & Marsham ED,E10000011,East Sussex,286
+E58000265,Chudleigh & Teign Valley ED,E10000008,Devon,287
+E58000162,Millom ED,E10000006,Cumbria,288
+E58000362,Central St. Leonards & Gensing ED,E10000011,East Sussex,289
+E58000266,Chulmleigh & Landkey ED,E10000008,Devon,290
+E58000163,Millom Without ED,E10000006,Cumbria,291
+E58000363,Chailey ED,E10000011,East Sussex,292
+E58000267,Combe Martin Rural ED,E10000008,Devon,293
+E58000164,Mirehouse ED,E10000006,Cumbria,294
+E58000364,Crowborough North & Jarvis Brook ED,E10000011,East Sussex,295
+E58000268,Crediton ED,E10000008,Devon,296
+E58000165,Morton ED,E10000006,Cumbria,297
+E58000365,Crowborough South & St. Johns ED,E10000011,East Sussex,298
+E58000269,"Creedy, Taw & Mid Exe ED",E10000008,Devon,299
+E58000166,Moss Bay and Moorclose ED,E10000006,Cumbria,300
+E58000366,Devonshire ED,E10000011,East Sussex,301
+E58000270,Cullompton & Bradninch ED,E10000008,Devon,302
+E58000167,Newbarns and Parkside ED,E10000006,Cumbria,303
+E58000367,Forest Row & Groombridge ED,E10000011,East Sussex,304
+E58000271,Dartmouth & Marldon ED,E10000008,Devon,305
+E58000168,Old Barrow ED,E10000006,Cumbria,306
+E58000368,Hailsham Market ED,E10000011,East Sussex,307
+E58000272,Dawlish ED,E10000008,Devon,308
+E58000169,Ormsgill ED,E10000006,Cumbria,309
+E58000369,Hailsham New Town ED,E10000011,East Sussex,310
+E58000273,Duryard & Pennsylvania ED,E10000008,Devon,311
+E58000170,Penrith East ED,E10000006,Cumbria,312
+E58000370,Hampden Park ED,E10000011,East Sussex,313
+E58000274,Exminster & Haldon ED,E10000008,Devon,314
+E58000171,Penrith North ED,E10000006,Cumbria,315
+E58000371,Heathfield & Mayfield ED,E10000011,East Sussex,316
+E58000275,Exmouth & Budleigh Salterton Coastal ED,E10000008,Devon,317
+E58000276,Exmouth ED,E10000008,Devon,318
+E58000277,Exwick & St. Thomas ED,E10000008,Devon,319
+E58000278,Feniton & Honiton ED,E10000008,Devon,320
+E58000279,Fremington Rural ED,E10000008,Devon,321
+E58000280,Hatherleigh & Chagford ED,E10000008,Devon,322
+E58000281,Heavitree & Whipton Barton ED,E10000008,Devon,323
+E58000282,Holsworthy Rural ED,E10000008,Devon,324
+E58000283,Ilfracombe ED,E10000008,Devon,325
+E58000284,Ipplepen & The Kerswells ED,E10000008,Devon,326
+E58000285,Ivybridge ED,E10000008,Devon,327
+E58000286,Kingsbridge ED,E10000008,Devon,328
+E58000287,Kingsteignton & Teign Estuary ED,E10000008,Devon,329
+E58000288,Newton Abbot North ED,E10000008,Devon,330
+E58000289,Newton Abbot South ED,E10000008,Devon,331
+E58000290,Northam ED,E10000008,Devon,332
+E58000291,Okehampton Rural ED,E10000008,Devon,333
+E58000292,Otter Valley ED,E10000008,Devon,334
+E58000293,Pinhoe & Mincinglake ED,E10000008,Devon,335
+E58000294,Salcombe ED,E10000008,Devon,336
+E58000295,Seaton & Colyton ED,E10000008,Devon,337
+E58000296,Sidmouth ED,E10000008,Devon,338
+E58000297,South Brent & Yealmpton ED,E10000008,Devon,339
+E58000298,South Molton ED,E10000008,Devon,340
+E58000299,St. David's & Haven Banks ED,E10000008,Devon,341
+E58000300,St. Sidwells & St. James ED,E10000008,Devon,342
+E58000172,Penrith Rural ED,E10000006,Cumbria,343
+E58000173,Penrith West ED,E10000006,Cumbria,344
+E58000372,Hollington & Wishing Tree ED,E10000011,East Sussex,345
+E58000174,Risedale ED,E10000006,Cumbria,346
+E58000373,Langney ED,E10000011,East Sussex,347
+E58000175,Roosecote ED,E10000006,Cumbria,348
+E58000374,Lewes ED,E10000011,East Sussex,349
+E58000176,Seaton ED,E10000006,Cumbria,350
+E58000375,Maresfield & Buxted ED,E10000011,East Sussex,351
+E58000177,Sedbergh and Kirkby Lonsdale ED,E10000006,Cumbria,352
+E58000376,Maze Hill & West St. Leonards ED,E10000011,East Sussex,353
+E58000178,Solway Coast ED,E10000006,Cumbria,354
+E58000377,Meads ED,E10000011,East Sussex,355
+E58000179,St. John's and Great Clifton ED,E10000006,Cumbria,356
+E58000378,Newhaven & Bishopstone ED,E10000011,East Sussex,357
+E58000180,St. Michael's ED,E10000006,Cumbria,358
+E58000379,Northern Rother ED,E10000011,East Sussex,359
+E58000181,Stanwix Urban ED,E10000006,Cumbria,360
+E58000380,Old Hastings & Tressell ED,E10000011,East Sussex,361
+E58000182,Thursby ED,E10000006,Cumbria,362
+E58000381,Old Town ED,E10000011,East Sussex,363
+E58000183,Ulverston East ED,E10000006,Cumbria,364
+E58000382,Ouse Valley West & Downs ED,E10000011,East Sussex,365
+E58000184,Ulverston West ED,E10000006,Cumbria,366
+E58000383,Peacehaven ED,E10000011,East Sussex,367
+E58000185,Upper Kent ED,E10000006,Cumbria,368
+E58000384,Pevensey & Stone Cross ED,E10000011,East Sussex,369
+E58000186,Upperby ED,E10000006,Cumbria,370
+E58000385,Polegate & Watermill ED,E10000011,East Sussex,371
+E58000187,Walney North ED,E10000006,Cumbria,372
+E58000386,Ratton ED,E10000011,East Sussex,373
+E58000188,Walney South ED,E10000006,Cumbria,374
+E58000387,Ringmer & Lewes Bridge ED,E10000011,East Sussex,375
+E58000189,Wetheral ED,E10000006,Cumbria,376
+E58000388,Rother North West ED,E10000011,East Sussex,377
+E58000190,Wigton ED,E10000006,Cumbria,378
+E58000389,Rye & Eastern Rother ED,E10000011,East Sussex,379
+E58000191,Windermere ED,E10000006,Cumbria,380
+E58000192,Yewdale ED,E10000006,Cumbria,381
+E58000193,Alfreton and Somercotes ED,E10000007,Derbyshire,382
+E58000194,Alport and Derwent ED,E10000007,Derbyshire,383
+E58000195,Ashbourne ED,E10000007,Derbyshire,384
+E58000196,Aston ED,E10000007,Derbyshire,385
+E58000197,Bakewell ED,E10000007,Derbyshire,386
+E58000198,Barlborough and Clowne ED,E10000007,Derbyshire,387
+E58000199,Belper ED,E10000007,Derbyshire,388
+E58000200,Birdholme ED,E10000007,Derbyshire,389
+E58000390,Seaford North ED,E10000011,East Sussex,390
+E58000391,Seaford South ED,E10000011,East Sussex,391
+E58000392,Sovereign ED,E10000011,East Sussex,392
+E58000393,St. Anthony's ED,E10000011,East Sussex,393
+E58000394,St. Helens & Silverhill ED,E10000011,East Sussex,394
+E58000395,Telscombe ED,E10000011,East Sussex,395
+E58000396,Uckfield North ED,E10000011,East Sussex,396
+E58000397,Uckfield South with Framfield ED,E10000011,East Sussex,397
+E58000398,Upperton ED,E10000011,East Sussex,398
+E58000399,Wealden East ED,E10000011,East Sussex,399
+E58000400,Wealden North East ED,E10000011,East Sussex,400
+E58000601,Abbots Langley ED,E10000015,Hertfordshire,401
+E58000602,Baldock & Letchworth East ED,E10000015,Hertfordshire,402
+E58000603,Bedwell ED,E10000015,Hertfordshire,403
+E58000604,Berkhamsted ED,E10000015,Hertfordshire,404
+E58000605,Bishops Stortford East ED,E10000015,Hertfordshire,405
+E58000606,Bishops Stortford Rural ED,E10000015,Hertfordshire,406
+E58000607,Bishops Stortford West ED,E10000015,Hertfordshire,407
+E58000401,Willingdon & South Downs ED,E10000011,East Sussex,408
+E58000608,Borehamwood North ED,E10000015,Hertfordshire,409
+E58000609,Borehamwood South ED,E10000015,Hertfordshire,410
+E58000610,Bridgewater ED,E10000015,Hertfordshire,411
+E58000611,Broadwater ED,E10000015,Hertfordshire,412
+E58000402,Abbey ED,E10000012,Essex,413
+E58000612,Buntingford ED,E10000015,Hertfordshire,414
+E58000403,Basildon Laindon Park and Fryerns ED,E10000012,Essex,415
+E58000613,Bushey North ED,E10000015,Hertfordshire,416
+E58000404,Basildon Pitsea ED,E10000012,Essex,417
+E58000614,Bushey South ED,E10000015,Hertfordshire,418
+E58000405,Basildon Westley Heights ED,E10000012,Essex,419
+E58000615,Central Watford & Oxhey ED,E10000015,Hertfordshire,420
+E58000406,Billericay and Burstead ED,E10000012,Essex,421
+E58000616,Chells ED,E10000015,Hertfordshire,422
+E58000407,Bocking ED,E10000012,Essex,423
+E58000617,Cheshunt Central ED,E10000015,Hertfordshire,424
+E58000408,Braintree Eastern ED,E10000012,Essex,425
+E58000618,Colney Heath & Marshalswick ED,E10000015,Hertfordshire,426
+E58000409,Braintree Town ED,E10000012,Essex,427
+E58000619,Croxley ED,E10000015,Hertfordshire,428
+E58000410,Brentwood Hutton ED,E10000012,Essex,429
+E58000620,Flamstead End & Turnford ED,E10000015,Hertfordshire,430
+E58000411,Brentwood North ED,E10000012,Essex,431
+E58000621,Goffs Oak & Bury Green ED,E10000015,Hertfordshire,432
+E58000412,Brentwood Rural ED,E10000012,Essex,433
+E58000622,Haldens ED,E10000015,Hertfordshire,434
+E58000413,Brentwood South ED,E10000012,Essex,435
+E58000623,Handside & Peartree ED,E10000015,Hertfordshire,436
+E58000414,Brightlingsea ED,E10000012,Essex,437
+E58000624,Harpenden North East ED,E10000015,Hertfordshire,438
+E58000415,Broomfield and Writtle ED,E10000012,Essex,439
+E58000625,Harpenden Rural ED,E10000015,Hertfordshire,440
+E58000416,Buckhurst Hill and Loughton South ED,E10000012,Essex,441
+E58000626,Harpenden South West ED,E10000015,Hertfordshire,442
+E58000627,Hatfield East ED,E10000015,Hertfordshire,443
+E58000628,Hatfield North ED,E10000015,Hertfordshire,444
+E58000629,Hatfield Rural ED,E10000015,Hertfordshire,445
+E58000630,Hatfield South ED,E10000015,Hertfordshire,446
+E58000631,Hemel Hempstead East ED,E10000015,Hertfordshire,447
+E58000632,Hemel Hempstead North East ED,E10000015,Hertfordshire,448
+E58000633,Hemel Hempstead North West ED,E10000015,Hertfordshire,449
+E58000634,Hemel Hempstead South East ED,E10000015,Hertfordshire,450
+E58000635,Hemel Hempstead St. Pauls ED,E10000015,Hertfordshire,451
+E58000636,Hemel Hempstead Town ED,E10000015,Hertfordshire,452
+E58000637,Hertford All Saints ED,E10000015,Hertfordshire,453
+E58000638,Hertford Rural ED,E10000015,Hertfordshire,454
+E58000639,Hertford St. Andrews ED,E10000015,Hertfordshire,455
+E58000640,Hitchin North ED,E10000015,Hertfordshire,456
+E58000641,Hitchin Rural ED,E10000015,Hertfordshire,457
+E58000642,Hitchin South ED,E10000015,Hertfordshire,458
+E58000643,Hoddesdon North ED,E10000015,Hertfordshire,459
+E58000644,Hoddesdon South ED,E10000015,Hertfordshire,460
+E58000645,Kings Langley ED,E10000015,Hertfordshire,461
+E58000646,Knebworth & Codicote ED,E10000015,Hertfordshire,462
+E58000647,Letchworth North ED,E10000015,Hertfordshire,463
+E58000648,Letchworth South ED,E10000015,Hertfordshire,464
+E58000649,London Colney ED,E10000015,Hertfordshire,465
+E58000650,Meriden Tudor ED,E10000015,Hertfordshire,466
+E58000501,Lansdown and Park ED,E10000013,Gloucestershire,467
+E58000651,Nascot Park ED,E10000015,Hertfordshire,468
+E58000502,Leckhampton and Warden Hill ED,E10000013,Gloucestershire,469
+E58000503,Longlevens ED,E10000013,Gloucestershire,470
+E58000504,Lydney ED,E10000013,Gloucestershire,471
+E58000505,Minchinhampton ED,E10000013,Gloucestershire,472
+E58000506,Mitcheldean ED,E10000013,Gloucestershire,473
+E58000507,Nailsworth ED,E10000013,Gloucestershire,474
+E58000508,Newent ED,E10000013,Gloucestershire,475
+E58000509,Pittville and Prestbury ED,E10000013,Gloucestershire,476
+E58000510,Quedgeley ED,E10000013,Gloucestershire,477
+E58000511,Rodborough ED,E10000013,Gloucestershire,478
+E58000512,Sedbury ED,E10000013,Gloucestershire,479
+E58000513,South Cerney ED,E10000013,Gloucestershire,480
+E58000514,St. Mark's and St. Peter's ED,E10000013,Gloucestershire,481
+E58000515,St. Paul's and Swindon ED,E10000013,Gloucestershire,482
+E58000516,Stonehouse ED,E10000013,Gloucestershire,483
+E58000517,Stow-on-the-Wold ED,E10000013,Gloucestershire,484
+E58000518,Stroud Central ED,E10000013,Gloucestershire,485
+E58000519,Tetbury ED,E10000013,Gloucestershire,486
+E58000520,Tewkesbury East ED,E10000013,Gloucestershire,487
+E58000521,Tewkesbury ED,E10000013,Gloucestershire,488
+E58000522,Tuffley ED,E10000013,Gloucestershire,489
+E58000523,Winchcombe and Woodmancote ED,E10000013,Gloucestershire,490
+E58000524,Wotton-under-Edge ED,E10000013,Gloucestershire,491
+E58000525,Aldershot North ED,E10000014,Hampshire,492
+E58000526,Aldershot South ED,E10000014,Hampshire,493
+E58000527,Alton Rural ED,E10000014,Hampshire,494
+E58000528,Alton Town ED,E10000014,Hampshire,495
+E58000529,Andover North ED,E10000014,Hampshire,496
+E58000530,Andover South ED,E10000014,Hampshire,497
+E58000531,Andover West ED,E10000014,Hampshire,498
+E58000532,Baddesley ED,E10000014,Hampshire,499
+E58000533,Basingstoke Central ED,E10000014,Hampshire,500
+E58000534,Basingstoke North ED,E10000014,Hampshire,501
+E58000535,Basingstoke North West ED,E10000014,Hampshire,502
+E58000536,Basingstoke South East ED,E10000014,Hampshire,503
+E58000537,Basingstoke South West ED,E10000014,Hampshire,504
+E58000538,Bishops Waltham ED,E10000014,Hampshire,505
+E58000539,Bishopstoke & Fair Oak ED,E10000014,Hampshire,506
+E58000540,Botley & Hedge End North ED,E10000014,Hampshire,507
+E58000541,Bridgemary ED,E10000014,Hampshire,508
+E58000542,Brockenhurst ED,E10000014,Hampshire,509
+E58000543,Calleva ED,E10000014,Hampshire,510
+E58000544,"Candovers, Oakley & Overton ED",E10000014,Hampshire,511
+E58000545,Catherington ED,E10000014,Hampshire,512
+E58000546,Chandler's Ford ED,E10000014,Hampshire,513
+E58000547,Church Crookham & Ewshot ED,E10000014,Hampshire,514
+E58000548,Cowplain & Hart Plain ED,E10000014,Hampshire,515
+E58000549,Dibden & Hythe ED,E10000014,Hampshire,516
+E58000550,Eastleigh North ED,E10000014,Hampshire,517
+E58000652,North Watford ED,E10000015,Hertfordshire,518
+E58000417,Canvey Island East ED,E10000012,Essex,519
+E58000451,Rochford North ED,E10000012,Essex,520
+E58000418,Canvey Island West ED,E10000012,Essex,521
+E58000452,Rochford South ED,E10000012,Essex,522
+E58000419,Chelmer ED,E10000012,Essex,523
+E58000653,Old Stevenage ED,E10000015,Hertfordshire,524
+E58000420,Chelmsford Central ED,E10000012,Essex,525
+E58000654,Potters Bar East ED,E10000015,Hertfordshire,526
+E58000421,Chelmsford North ED,E10000012,Essex,527
+E58000655,Potters Bar West & Shenley ED,E10000015,Hertfordshire,528
+E58000453,Rochford West ED,E10000012,Essex,529
+E58000422,Chelmsford West ED,E10000012,Essex,530
+E58000656,Rickmansworth East & Oxhey Park ED,E10000015,Hertfordshire,531
+E58000454,Saffron Walden ED,E10000012,Essex,532
+E58000423,Chigwell and Loughton Broadway ED,E10000012,Essex,533
+E58000657,Rickmansworth West ED,E10000015,Hertfordshire,534
+E58000455,South Benfleet ED,E10000012,Essex,535
+E58000424,Clacton East ED,E10000012,Essex,536
+E58000658,Royston East & Ermine ED,E10000015,Hertfordshire,537
+E58000456,South Woodham Ferrers ED,E10000012,Essex,538
+E58000425,Clacton North ED,E10000012,Essex,539
+E58000659,Royston West & Rural ED,E10000015,Hertfordshire,540
+E58000457,Southminster ED,E10000012,Essex,541
+E58000426,Clacton West ED,E10000012,Essex,542
+E58000660,Sawbridgeworth ED,E10000015,Hertfordshire,543
+E58000458,Springfield ED,E10000012,Essex,544
+E58000427,Constable ED,E10000012,Essex,545
+E58000661,Shephall ED,E10000015,Hertfordshire,546
+E58000459,Stansted ED,E10000012,Essex,547
+E58000428,Drury ED,E10000012,Essex,548
+E58000662,South Oxhey & Eastbury ED,E10000015,Hertfordshire,549
+E58000460,Stanway and Pyefleet ED,E10000012,Essex,550
+E58000429,Dunmow ED,E10000012,Essex,551
+E58000663,St. Albans Central ED,E10000015,Hertfordshire,552
+E58000461,Stock ED,E10000012,Essex,553
+E58000430,Epping and Theydon Bois ED,E10000012,Essex,554
+E58000664,St. Albans East ED,E10000015,Hertfordshire,555
+E58000462,Tendring Rural East ED,E10000012,Essex,556
+E58000431,Frinton and Walton ED,E10000012,Essex,557
+E58000665,St. Albans North ED,E10000015,Hertfordshire,558
+E58000463,Tendring Rural West ED,E10000012,Essex,559
+E58000432,Great Baddow ED,E10000012,Essex,560
+E58000666,St. Albans South ED,E10000015,Hertfordshire,561
+E58000464,Thaxted ED,E10000012,Essex,562
+E58000433,Hadleigh ED,E10000012,Essex,563
+E58000667,St. Nicholas ED,E10000015,Hertfordshire,564
+E58000465,Three Fields with Great Notley ED,E10000012,Essex,565
+E58000434,Halstead ED,E10000012,Essex,566
+E58000435,Harlow North ED,E10000012,Essex,567
+E58000668,St. Stephen's ED,E10000015,Hertfordshire,568
+E58000669,Three Rivers Rural ED,E10000015,Hertfordshire,569
+E58000670,Tring ED,E10000015,Hertfordshire,570
+E58000671,Waltham Cross ED,E10000015,Hertfordshire,571
+E58000672,Ware North ED,E10000015,Hertfordshire,572
+E58000673,Ware South ED,E10000015,Hertfordshire,573
+E58000674,Watling ED,E10000015,Hertfordshire,574
+E58000675,Welwyn ED,E10000015,Hertfordshire,575
+E58000676,Welwyn Garden City South ED,E10000015,Hertfordshire,576
+E58000677,West Watford ED,E10000015,Hertfordshire,577
+E58000678,Woodside Stanborough ED,E10000015,Hertfordshire,578
+E58000679,Ashford Central ED,E10000016,Kent,579
+E58000680,Ashford East ED,E10000016,Kent,580
+E58000681,Ashford Rural East ED,E10000016,Kent,581
+E58000682,Ashford Rural South ED,E10000016,Kent,582
+E58000683,Ashford Rural West ED,E10000016,Kent,583
+E58000684,Ashford South ED,E10000016,Kent,584
+E58000685,Birchington & Rural ED,E10000016,Kent,585
+E58000686,Broadstairs ED,E10000016,Kent,586
+E58000687,Canterbury City North ED,E10000016,Kent,587
+E58000688,Canterbury City South ED,E10000016,Kent,588
+E58000689,Canterbury North ED,E10000016,Kent,589
+E58000690,Canterbury South ED,E10000016,Kent,590
+E58000691,"Cheriton, Sandgate & Hythe East ED",E10000016,Kent,591
+E58000692,Cliftonville ED,E10000016,Kent,592
+E58000693,Cranbrook ED,E10000016,Kent,593
+E58000694,Dartford East ED,E10000016,Kent,594
+E58000695,Dartford North East ED,E10000016,Kent,595
+E58000696,Dartford Rural ED,E10000016,Kent,596
+E58000697,Dartford West ED,E10000016,Kent,597
+E58000698,Deal & Walmer ED,E10000016,Kent,598
+E58000699,Dover North ED,E10000016,Kent,599
+E58000700,Dover Town ED,E10000016,Kent,600
+E58000551,Eastleigh South ED,E10000014,Hampshire,601
+E58000552,Emsworth & St. Faiths ED,E10000014,Hampshire,602
+E58000553,Fareham Crofton ED,E10000014,Hampshire,603
+E58000554,Fareham Portchester ED,E10000014,Hampshire,604
+E58000555,Fareham Sarisbury ED,E10000014,Hampshire,605
+E58000556,Fareham Titchfield ED,E10000014,Hampshire,606
+E58000557,Fareham Town ED,E10000014,Hampshire,607
+E58000558,Fareham Warsash ED,E10000014,Hampshire,608
+E58000559,Farnborough North ED,E10000014,Hampshire,609
+E58000560,Farnborough South ED,E10000014,Hampshire,610
+E58000561,Farnborough West ED,E10000014,Hampshire,611
+E58000562,Fleet Town ED,E10000014,Hampshire,612
+E58000563,Hamble ED,E10000014,Hampshire,613
+E58000564,Hardway ED,E10000014,Hampshire,614
+E58000565,Hartley Wintney & Yateley West ED,E10000014,Hampshire,615
+E58000566,Hayling Island ED,E10000014,Hampshire,616
+E58000567,Hedge End & West End South ED,E10000014,Hampshire,617
+E58000568,Itchen Valley ED,E10000014,Hampshire,618
+E58000569,Lee ED,E10000014,Hampshire,619
+E58000570,Leesland & Town ED,E10000014,Hampshire,620
+E58000571,"Liphook, Headley & Grayshott ED",E10000014,Hampshire,621
+E58000572,Loddon ED,E10000014,Hampshire,622
+E58000573,Lymington & Boldre ED,E10000014,Hampshire,623
+E58000574,Lyndhurst & Fordingbridge ED,E10000014,Hampshire,624
+E58000575,Meon Valley ED,E10000014,Hampshire,625
+E58000576,New Milton ED,E10000014,Hampshire,626
+E58000577,"New Milton North, Milford & Hordle ED",E10000014,Hampshire,627
+E58000578,North East Havant ED,E10000014,Hampshire,628
+E58000579,North West Havant ED,E10000014,Hampshire,629
+E58000580,Odiham & Hook ED,E10000014,Hampshire,630
+E58000581,Petersfield Butser ED,E10000014,Hampshire,631
+E58000582,Petersfield Hangers ED,E10000014,Hampshire,632
+E58000583,Purbrook & Stakes South ED,E10000014,Hampshire,633
+E58000584,Ringwood ED,E10000014,Hampshire,634
+E58000585,Romsey Rural ED,E10000014,Hampshire,635
+E58000586,Romsey Town ED,E10000014,Hampshire,636
+E58000587,South Waterside ED,E10000014,Hampshire,637
+E58000588,Tadley & Baughurst ED,E10000014,Hampshire,638
+E58000589,Test Valley Central ED,E10000014,Hampshire,639
+E58000590,Totton North & Netley Marsh ED,E10000014,Hampshire,640
+E58000591,Totton South & Marchwood ED,E10000014,Hampshire,641
+E58000592,Waterloo & Stakes North ED,E10000014,Hampshire,642
+E58000593,West End & Horton Heath ED,E10000014,Hampshire,643
+E58000594,Whitchurch & The Cleres ED,E10000014,Hampshire,644
+E58000595,"Whitehill, Bordon & Lindford ED",E10000014,Hampshire,645
+E58000596,Winchester Downlands ED,E10000014,Hampshire,646
+E58000597,Winchester Eastgate ED,E10000014,Hampshire,647
+E58000598,Winchester Southern Parishes ED,E10000014,Hampshire,648
+E58000599,Winchester Westgate ED,E10000014,Hampshire,649
+E58000600,Yateley East & Blackwater ED,E10000014,Hampshire,650
+E58000751,Accrington North ED,E10000017,Lancashire,651
+E58000466,Thundersley ED,E10000012,Essex,652
+E58000436,Harlow South East ED,E10000012,Essex,653
+E58000701,Dover West ED,E10000016,Kent,654
+E58000702,Elham Valley ED,E10000016,Kent,655
+E58000703,Faversham ED,E10000016,Kent,656
+E58000704,Folkestone East ED,E10000016,Kent,657
+E58000705,Folkestone West ED,E10000016,Kent,658
+E58000706,Gravesend East ED,E10000016,Kent,659
+E58000707,Gravesham Rural ED,E10000016,Kent,660
+E58000708,Herne Bay East ED,E10000016,Kent,661
+E58000709,Herne Village & Sturry ED,E10000016,Kent,662
+E58000710,Hythe West ED,E10000016,Kent,663
+E58000711,Maidstone Central ED,E10000016,Kent,664
+E58000712,Maidstone North East ED,E10000016,Kent,665
+E58000713,Maidstone Rural East ED,E10000016,Kent,666
+E58000714,Maidstone Rural North ED,E10000016,Kent,667
+E58000715,Maidstone Rural South ED,E10000016,Kent,668
+E58000716,Maidstone Rural West ED,E10000016,Kent,669
+E58000717,Maidstone South East ED,E10000016,Kent,670
+E58000718,Maidstone South ED,E10000016,Kent,671
+E58000719,Malling Central ED,E10000016,Kent,672
+E58000720,Malling North East ED,E10000016,Kent,673
+E58000721,Malling North ED,E10000016,Kent,674
+E58000722,Malling Rural East ED,E10000016,Kent,675
+E58000723,Malling West ED,E10000016,Kent,676
+E58000724,Margate ED,E10000016,Kent,677
+E58000725,Northfleet & Gravesend West ED,E10000016,Kent,678
+E58000752,Accrington South ED,E10000017,Lancashire,679
+E58000726,Ramsgate ED,E10000016,Kent,680
+E58000467,Waltham Abbey ED,E10000012,Essex,681
+E58000753,Accrington West & Oswaldtwistle Central ED,E10000017,Lancashire,682
+E58000727,Romney Marsh ED,E10000016,Kent,683
+E58000468,Wickford Crouch ED,E10000012,Essex,684
+E58000437,Harlow West ED,E10000012,Essex,685
+E58000754,Brierfield & Nelson West ED,E10000017,Lancashire,686
+E58000728,Sandwich ED,E10000016,Kent,687
+E58000469,Witham Northern ED,E10000012,Essex,688
+E58000438,Harwich ED,E10000012,Essex,689
+E58000755,Burnley Central East ED,E10000017,Lancashire,690
+E58000729,Sevenoaks North & Darent Valley ED,E10000016,Kent,691
+E58000470,Witham Southern ED,E10000012,Essex,692
+E58000439,Hedingham ED,E10000012,Essex,693
+E58000756,Burnley Central West ED,E10000017,Lancashire,694
+E58000730,Sevenoaks Rural North East ED,E10000016,Kent,695
+E58000471,Wivenhoe St. Andrew ED,E10000012,Essex,696
+E58000440,Heybridge and Tollesbury ED,E10000012,Essex,697
+E58000441,Loughton Central ED,E10000012,Essex,698
+E58000442,Maldon ED,E10000012,Essex,699
+E58000443,Maypole ED,E10000012,Essex,700
+E58000444,Mersea and Tiptree ED,E10000012,Essex,701
+E58000445,Mile End and Highwoods ED,E10000012,Essex,702
+E58000446,North Weald and Nazeing ED,E10000012,Essex,703
+E58000447,Ongar and Rural ED,E10000012,Essex,704
+E58000448,Parsons Heath and East Gates ED,E10000012,Essex,705
+E58000449,Rayleigh North ED,E10000012,Essex,706
+E58000450,Rayleigh South ED,E10000012,Essex,707
+E58000757,Burnley North East ED,E10000017,Lancashire,708
+E58000758,Burnley Rural ED,E10000017,Lancashire,709
+E58000759,Burnley South West ED,E10000017,Lancashire,710
+E58000472,Abbey ED,E10000013,Gloucestershire,711
+E58000760,Burscough & Rufford ED,E10000017,Lancashire,712
+E58000473,All Saints and Oakley ED,E10000013,Gloucestershire,713
+E58000731,Sevenoaks Rural South ED,E10000016,Kent,714
+E58000761,Chorley Central ED,E10000017,Lancashire,715
+E58000474,Barnwood and Hucclecote ED,E10000013,Gloucestershire,716
+E58000732,Sevenoaks Town ED,E10000016,Kent,717
+E58000762,Chorley North ED,E10000017,Lancashire,718
+E58000475,Barton and Tredworth ED,E10000013,Gloucestershire,719
+E58000733,Sevenoaks West ED,E10000016,Kent,720
+E58000763,Chorley Rural East ED,E10000017,Lancashire,721
+E58000476,Battledown and Charlton Kings ED,E10000013,Gloucestershire,722
+E58000734,Sheppey ED,E10000016,Kent,723
+E58000764,Chorley Rural West ED,E10000017,Lancashire,724
+E58000477,Benhall and Up Hatherley ED,E10000013,Gloucestershire,725
+E58000735,Sittingbourne North ED,E10000016,Kent,726
+E58000765,Chorley South ED,E10000017,Lancashire,727
+E58000478,Bishop's Cleeve ED,E10000013,Gloucestershire,728
+E58000736,Sittingbourne South ED,E10000016,Kent,729
+E58000766,Clayton with Whittle ED,E10000017,Lancashire,730
+E58000479,Bisley and Painswick ED,E10000013,Gloucestershire,731
+E58000737,Swale East ED,E10000016,Kent,732
+E58000767,Cleveleys East ED,E10000017,Lancashire,733
+E58000480,Blakeney and Bream ED,E10000013,Gloucestershire,734
+E58000738,Swale West ED,E10000016,Kent,735
+E58000768,Cleveleys South & Carleton ED,E10000017,Lancashire,736
+E58000481,Bourton-on-the-Water and Northleach ED,E10000013,Gloucestershire,737
+E58000739,Swanley ED,E10000016,Kent,738
+E58000769,Clitheroe ED,E10000017,Lancashire,739
+E58000482,Brockworth ED,E10000013,Gloucestershire,740
+E58000740,Swanscombe & Greenhithe ED,E10000016,Kent,741
+E58000770,"Euxton, Buckshaw & Astley ED",E10000017,Lancashire,742
+E58000483,Cam Valley ED,E10000013,Gloucestershire,743
+E58000741,Tenterden ED,E10000016,Kent,744
+E58000771,Fleetwood East ED,E10000017,Lancashire,745
+E58000484,Campden-Vale ED,E10000013,Gloucestershire,746
+E58000742,Tonbridge ED,E10000016,Kent,747
+E58000772,Fleetwood West & Cleveleys West ED,E10000017,Lancashire,748
+E58000485,Charlton Park and College ED,E10000013,Gloucestershire,749
+E58000743,Tunbridge Wells East ED,E10000016,Kent,750
+E58000773,Fylde East ED,E10000017,Lancashire,751
+E58000486,Churchdown ED,E10000013,Gloucestershire,752
+E58000744,Tunbridge Wells North ED,E10000016,Kent,753
+E58000774,Fylde South ED,E10000017,Lancashire,754
+E58000487,Cinderford ED,E10000013,Gloucestershire,755
+E58000745,Tunbridge Wells Rural ED,E10000016,Kent,756
+E58000775,Fylde West ED,E10000017,Lancashire,757
+E58000488,Cirencester Beeches ED,E10000013,Gloucestershire,758
+E58000489,Cirencester Park ED,E10000013,Gloucestershire,759
+E58000490,Coleford ED,E10000013,Gloucestershire,760
+E58000491,Coney Hill and Matson ED,E10000013,Gloucestershire,761
+E58000492,Drybrook and Lydbrook ED,E10000013,Gloucestershire,762
+E58000493,Dursley ED,E10000013,Gloucestershire,763
+E58000494,Fairford and Lechlade on Thames ED,E10000013,Gloucestershire,764
+E58000495,Grange and Kingsway ED,E10000013,Gloucestershire,765
+E58000496,Hardwicke and Severn ED,E10000013,Gloucestershire,766
+E58000497,Hempsted and Westgate ED,E10000013,Gloucestershire,767
+E58000498,Hesters Way and Springbank ED,E10000013,Gloucestershire,768
+E58000499,Highnam ED,E10000013,Gloucestershire,769
+E58000500,Kingsholm and Wotton ED,E10000013,Gloucestershire,770
+E58000776,"Great Harwood, Rishton & Clayton-le-Moors ED",E10000017,Lancashire,771
+E58000777,Heysham ED,E10000017,Lancashire,772
+E58000778,Hoghton with Wheelton ED,E10000017,Lancashire,773
+E58000779,Lancaster Central ED,E10000017,Lancashire,774
+E58000780,Lancaster East ED,E10000017,Lancashire,775
+E58000781,Lancaster Rural East ED,E10000017,Lancashire,776
+E58000782,Lancaster Rural North ED,E10000017,Lancashire,777
+E58000783,Lancaster South East ED,E10000017,Lancashire,778
+E58000784,Leyland Central ED,E10000017,Lancashire,779
+E58000785,Leyland South ED,E10000017,Lancashire,780
+E58000786,Longridge with Bowland ED,E10000017,Lancashire,781
+E58000787,Lostock Hall & Bamber Bridge ED,E10000017,Lancashire,782
+E58000788,Lytham ED,E10000017,Lancashire,783
+E58000789,Mid-Rossendale ED,E10000017,Lancashire,784
+E58000790,Morecambe Central ED,E10000017,Lancashire,785
+E58000746,Tunbridge Wells South ED,E10000016,Kent,786
+E58000791,Morecambe North ED,E10000017,Lancashire,787
+E58000747,Tunbridge Wells West ED,E10000016,Kent,788
+E58000792,Morecambe South ED,E10000017,Lancashire,789
+E58000748,Whitstable East & Herne Bay West ED,E10000016,Kent,790
+E58000793,Moss Side & Farington ED,E10000017,Lancashire,791
+E58000749,Whitstable West ED,E10000016,Kent,792
+E58000794,Nelson East ED,E10000017,Lancashire,793
+E58000750,Wilmington ED,E10000016,Kent,794
+E58000795,Ormskirk ED,E10000017,Lancashire,795
+E58000796,Oswaldtwistle ED,E10000017,Lancashire,796
+E58000797,Padiham & Burnley West ED,E10000017,Lancashire,797
+E58000798,Pendle Central ED,E10000017,Lancashire,798
+E58000799,Pendle Hill ED,E10000017,Lancashire,799
+E58000800,Pendle Rural ED,E10000017,Lancashire,800
+E58000901,Deepings East ED,E10000019,Lincolnshire,801
+E58000902,Deepings West and Rural ED,E10000019,Lincolnshire,802
+E58001044,Boroughbridge ED,E10000023,North Yorkshire,803
+E58000903,Donington Rural ED,E10000019,Lincolnshire,804
+E58000904,Eagle & Hykeham West ED,E10000019,Lincolnshire,805
+E58000905,Ermine & Cathedral ED,E10000019,Lincolnshire,806
+E58001045,Castle ED,E10000023,North Yorkshire,807
+E58000906,Folkingham Rural ED,E10000019,Lincolnshire,808
+E58001046,Catterick Bridge ED,E10000023,North Yorkshire,809
+E58000907,Gainsborough Hill ED,E10000019,Lincolnshire,810
+E58001047,Cawood and Saxton ED,E10000023,North Yorkshire,811
+E58000908,Gainsborough Rural South ED,E10000019,Lincolnshire,812
+E58001048,Central Richmondshire ED,E10000023,North Yorkshire,813
+E58000909,Gainsborough Trent ED,E10000019,Lincolnshire,814
+E58001049,Easingwold ED,E10000023,North Yorkshire,815
+E58000910,Grantham Barrowby ED,E10000019,Lincolnshire,816
+E58000911,Grantham East ED,E10000019,Lincolnshire,817
+E58000912,Grantham North ED,E10000019,Lincolnshire,818
+E58000913,Grantham South ED,E10000019,Lincolnshire,819
+E58000914,Grantham West ED,E10000019,Lincolnshire,820
+E58000915,Hartsholme ED,E10000019,Lincolnshire,821
+E58000916,Heckington ED,E10000019,Lincolnshire,822
+E58000917,Holbeach ED,E10000019,Lincolnshire,823
+E58000918,Holbeach Rural ED,E10000019,Lincolnshire,824
+E58000919,Horncastle & the Keals ED,E10000019,Lincolnshire,825
+E58000920,Hough ED,E10000019,Lincolnshire,826
+E58000921,Hykeham Forum ED,E10000019,Lincolnshire,827
+E58000922,Ingoldmells Rural ED,E10000019,Lincolnshire,828
+E58000923,Louth North ED,E10000019,Lincolnshire,829
+E58000924,Louth South ED,E10000019,Lincolnshire,830
+E58000925,Louth Wolds ED,E10000019,Lincolnshire,831
+E58000926,Mablethorpe ED,E10000019,Lincolnshire,832
+E58000927,Market Rasen Wolds ED,E10000019,Lincolnshire,833
+E58000928,Metheringham Rural ED,E10000019,Lincolnshire,834
+E58000929,Nettleham & Saxilby ED,E10000019,Lincolnshire,835
+E58000930,North Wolds ED,E10000019,Lincolnshire,836
+E58000931,Park ED,E10000019,Lincolnshire,837
+E58000932,Potterhanworth & Coleby ED,E10000019,Lincolnshire,838
+E58000933,Ruskington ED,E10000019,Lincolnshire,839
+E58000934,Saltfleet & the Cotes ED,E10000019,Lincolnshire,840
+E58000935,Scotter Rural ED,E10000019,Lincolnshire,841
+E58000936,Skegness North ED,E10000019,Lincolnshire,842
+E58000937,Skegness South ED,E10000019,Lincolnshire,843
+E58000938,Skirbeck ED,E10000019,Lincolnshire,844
+E58000939,Sleaford ED,E10000019,Lincolnshire,845
+E58000940,Sleaford Rural ED,E10000019,Lincolnshire,846
+E58000941,Spalding East ED,E10000019,Lincolnshire,847
+E58000942,Spalding Elloe ED,E10000019,Lincolnshire,848
+E58000943,Spalding South ED,E10000019,Lincolnshire,849
+E58000944,Spalding West ED,E10000019,Lincolnshire,850
+E58000945,St. Giles ED,E10000019,Lincolnshire,851
+E58000946,Stamford East ED,E10000019,Lincolnshire,852
+E58000947,Stamford West ED,E10000019,Lincolnshire,853
+E58000948,Swallow Beck & Witham ED,E10000019,Lincolnshire,854
+E58000949,Tattershall Castle ED,E10000019,Lincolnshire,855
+E58000950,The Suttons ED,E10000019,Lincolnshire,856
+E58000851,Gartree ED,E10000018,Leicestershire,857
+E58000801,Penwortham East & Walton-le-Dale ED,E10000017,Lancashire,858
+E58001001,Lothingland ED,E10000020,Norfolk,859
+E58001119,Clover Hill ED,E10000021,Northamptonshire,860
+E58001050,Eastfield and Osgodby ED,E10000023,North Yorkshire,861
+E58000802,Penwortham West ED,E10000017,Lancashire,862
+E58001002,Magdalen ED,E10000020,Norfolk,863
+E58001051,Escrick ED,E10000023,North Yorkshire,864
+E58000852,"Glenfields, Kirby Muxloe & Leicester Forests ED",E10000018,Leicestershire,865
+E58000803,Poulton-le-Fylde ED,E10000017,Lancashire,866
+E58001003,Mancroft ED,E10000020,Norfolk,867
+E58001120,Corby Rural ED,E10000021,Northamptonshire,868
+E58001052,Esk Valley ED,E10000023,North Yorkshire,869
+E58000853,Groby & Ratby ED,E10000018,Leicestershire,870
+E58000804,Preston Central East ED,E10000017,Lancashire,871
+E58001004,Marshland North ED,E10000020,Norfolk,872
+E58001121,Corby West ED,E10000021,Northamptonshire,873
+E58001053,Falsgrave and Stepney ED,E10000023,North Yorkshire,874
+E58000854,Hollycroft ED,E10000018,Leicestershire,875
+E58000805,Preston Central West ED,E10000017,Lancashire,876
+E58001005,Marshland South ED,E10000020,Norfolk,877
+E58001122,Croyland and Swanspool ED,E10000021,Northamptonshire,878
+E58001054,Filey ED,E10000023,North Yorkshire,879
+E58000855,Ibstock & Appleby ED,E10000018,Leicestershire,880
+E58000856,Launde ED,E10000018,Leicestershire,881
+E58000857,Loughborough East ED,E10000018,Leicestershire,882
+E58000858,Loughborough North ED,E10000018,Leicestershire,883
+E58000859,Loughborough North West ED,E10000018,Leicestershire,884
+E58000860,Loughborough South ED,E10000018,Leicestershire,885
+E58000861,Loughborough South West ED,E10000018,Leicestershire,886
+E58000862,Lutterworth ED,E10000018,Leicestershire,887
+E58000863,Mallory ED,E10000018,Leicestershire,888
+E58000864,Market Bosworth ED,E10000018,Leicestershire,889
+E58000865,Market Harborough East ED,E10000018,Leicestershire,890
+E58000866,Market Harborough West & Foxton ED,E10000018,Leicestershire,891
+E58000867,"Markfield, Desford & Thornton ED",E10000018,Leicestershire,892
+E58000868,Melton East ED,E10000018,Leicestershire,893
+E58000869,Melton West ED,E10000018,Leicestershire,894
+E58000870,Melton Wolds ED,E10000018,Leicestershire,895
+E58000871,Narborough & Whetstone ED,E10000018,Leicestershire,896
+E58000872,North Wigston ED,E10000018,Leicestershire,897
+E58000873,Oadby ED,E10000018,Leicestershire,898
+E58000874,Quorn & Barrow ED,E10000018,Leicestershire,899
+E58000875,Rothley & Mountsorrel ED,E10000018,Leicestershire,900
+E58000876,Shepshed ED,E10000018,Leicestershire,901
+E58000877,Sileby & The Wolds ED,E10000018,Leicestershire,902
+E58000878,South & West Wigston ED,E10000018,Leicestershire,903
+E58000879,St. Marys ED,E10000018,Leicestershire,904
+E58000880,Stoney Stanton & Croft ED,E10000018,Leicestershire,905
+E58000881,Syston Fosse ED,E10000018,Leicestershire,906
+E58000882,Syston Ridgeway ED,E10000018,Leicestershire,907
+E58000883,Thurmaston Ridgemere ED,E10000018,Leicestershire,908
+E58000884,Valley ED,E10000018,Leicestershire,909
+E58000885,Whitwick ED,E10000018,Leicestershire,910
+E58000886,Alford & Sutton ED,E10000019,Lincolnshire,911
+E58000887,Bardney & Cherry Willingham ED,E10000019,Lincolnshire,912
+E58000888,Bassingham & Welbourn ED,E10000019,Lincolnshire,913
+E58000889,Birchwood ED,E10000019,Lincolnshire,914
+E58000890,Boston Coastal ED,E10000019,Lincolnshire,915
+E58000891,Boston North ED,E10000019,Lincolnshire,916
+E58000892,Boston Rural ED,E10000019,Lincolnshire,917
+E58000893,Boston South ED,E10000019,Lincolnshire,918
+E58000894,Boston West ED,E10000019,Lincolnshire,919
+E58000895,Boultham ED,E10000019,Lincolnshire,920
+E58000896,Bourne North and Morton ED,E10000019,Lincolnshire,921
+E58000897,Bourne South and Thurlby ED,E10000019,Lincolnshire,922
+E58000898,Carholme ED,E10000019,Lincolnshire,923
+E58000899,Colsterworth Rural ED,E10000019,Lincolnshire,924
+E58000900,Crowland ED,E10000019,Lincolnshire,925
+E58000806,Preston City ED,E10000017,Lancashire,926
+E58001055,Great Ayton ED,E10000023,North Yorkshire,927
+E58001123,Dallington Spencer ED,E10000021,Northamptonshire,928
+E58000807,Preston East ED,E10000017,Lancashire,929
+E58001056,Harrogate Bilton and Nidd Gorge ED,E10000023,North Yorkshire,930
+E58001124,Daventry East ED,E10000021,Northamptonshire,931
+E58001006,Melton Constable ED,E10000020,Norfolk,932
+E58000808,Preston North ED,E10000017,Lancashire,933
+E58001057,Harrogate Central ED,E10000023,North Yorkshire,934
+E58001125,Daventry West ED,E10000021,Northamptonshire,935
+E58001007,Mile Cross ED,E10000020,Norfolk,936
+E58000809,Preston Rural ED,E10000017,Lancashire,937
+E58001058,Harrogate Harlow ED,E10000023,North Yorkshire,938
+E58001059,Harrogate Oatlands ED,E10000023,North Yorkshire,939
+E58001060,Harrogate Saltergate ED,E10000023,North Yorkshire,940
+E58001061,Harrogate Starbeck ED,E10000023,North Yorkshire,941
+E58001062,Hertford and Cayton ED,E10000023,North Yorkshire,942
+E58001063,Hovingham and Sheriff Hutton ED,E10000023,North Yorkshire,943
+E58001064,Kirkbymoorside ED,E10000023,North Yorkshire,944
+E58001065,Knaresborough ED,E10000023,North Yorkshire,945
+E58001066,Lower Nidderdale and Bishop Monkton ED,E10000023,North Yorkshire,946
+E58001067,Malton ED,E10000023,North Yorkshire,947
+E58001068,Masham and Fountains ED,E10000023,North Yorkshire,948
+E58001069,Mid Craven ED,E10000023,North Yorkshire,949
+E58001070,Mid Selby ED,E10000023,North Yorkshire,950
+E58001071,Middle Dales ED,E10000023,North Yorkshire,951
+E58001072,Newby ED,E10000023,North Yorkshire,952
+E58001073,North Craven ED,E10000023,North Yorkshire,953
+E58001074,North Hambleton ED,E10000023,North Yorkshire,954
+E58001075,Northallerton ED,E10000023,North Yorkshire,955
+E58001076,Northstead ED,E10000023,North Yorkshire,956
+E58001077,Norton ED,E10000023,North Yorkshire,957
+E58001078,Osgoldcross ED,E10000023,North Yorkshire,958
+E58001079,Pannal and Lower Wharfedale ED,E10000023,North Yorkshire,959
+E58001080,Pateley Bridge ED,E10000023,North Yorkshire,960
+E58001081,Pickering ED,E10000023,North Yorkshire,961
+E58001082,Ribblesdale ED,E10000023,North Yorkshire,962
+E58001083,Richmond ED,E10000023,North Yorkshire,963
+E58001084,Richmondshire North ED,E10000023,North Yorkshire,964
+E58001085,Ripon North ED,E10000023,North Yorkshire,965
+E58001086,Ripon South ED,E10000023,North Yorkshire,966
+E58001087,Romanby and Broomfield ED,E10000023,North Yorkshire,967
+E58001088,Scalby and The Coast ED,E10000023,North Yorkshire,968
+E58001089,Seamer and Derwent Valley ED,E10000023,North Yorkshire,969
+E58001090,Selby Barlby ED,E10000023,North Yorkshire,970
+E58001091,Selby Brayton ED,E10000023,North Yorkshire,971
+E58001092,Sherburn in Elmet ED,E10000023,North Yorkshire,972
+E58001093,Skipton East ED,E10000023,North Yorkshire,973
+E58001094,Skipton West ED,E10000023,North Yorkshire,974
+E58001095,South Craven ED,E10000023,North Yorkshire,975
+E58001126,Deanshanger ED,E10000021,Northamptonshire,976
+E58001127,Delapre and Rushmere ED,E10000021,Northamptonshire,977
+E58001128,Desborough ED,E10000021,Northamptonshire,978
+E58001129,Duston East ED,E10000021,Northamptonshire,979
+E58001130,Duston West and St. Crispin ED,E10000021,Northamptonshire,980
+E58001131,Earls Barton ED,E10000021,Northamptonshire,981
+E58001132,East Hunsbury and Shelfleys ED,E10000021,Northamptonshire,982
+E58001133,Finedon ED,E10000021,Northamptonshire,983
+E58001134,Hackleton and Grange Park ED,E10000021,Northamptonshire,984
+E58001135,Hatton Park ED,E10000021,Northamptonshire,985
+E58000810,Preston South East ED,E10000017,Lancashire,986
+E58001136,Headlands ED,E10000021,Northamptonshire,987
+E58001096,South Selby ED,E10000023,North Yorkshire,988
+E58000811,Preston South West ED,E10000017,Lancashire,989
+E58001137,Higham Ferrers ED,E10000021,Northamptonshire,990
+E58001097,Sowerby ED,E10000023,North Yorkshire,991
+E58000812,Preston West ED,E10000017,Lancashire,992
+E58000951,Waddington & Hykeham East ED,E10000019,Lincolnshire,993
+E58001138,Irchester ED,E10000021,Northamptonshire,994
+E58001098,Stillington ED,E10000023,North Yorkshire,995
+E58000813,Ribble Valley North East ED,E10000017,Lancashire,996
+E58001008,Mundesley ED,E10000020,Norfolk,997
+E58000814,Ribble Valley South West ED,E10000017,Lancashire,998
+E58001139,Irthlingborough ED,E10000021,Northamptonshire,999
+E58001099,Stokesley ED,E10000023,North Yorkshire,1000
+E58001009,Necton and Launditch ED,E10000020,Norfolk,1001
+E58000815,Rossendale East ED,E10000017,Lancashire,1002
+E58001140,Ise ED,E10000021,Northamptonshire,1003
+E58000952,Wainfleet ED,E10000019,Lincolnshire,1004
+E58001100,Swale ED,E10000023,North Yorkshire,1005
+E58001141,Kingsthorpe North ED,E10000021,Northamptonshire,1006
+E58000816,Rossendale South ED,E10000017,Lancashire,1007
+E58001010,Nelson ED,E10000020,Norfolk,1008
+E58000953,Washingborough ED,E10000019,Lincolnshire,1009
+E58001101,Tadcaster ED,E10000023,North Yorkshire,1010
+E58001142,Kingsthorpe South ED,E10000021,Northamptonshire,1011
+E58000817,Rossendale West ED,E10000017,Lancashire,1012
+E58001011,North Coast ED,E10000020,Norfolk,1013
+E58000954,Welton Rural ED,E10000019,Lincolnshire,1014
+E58001102,Thirsk ED,E10000023,North Yorkshire,1015
+E58001143,Kingswood ED,E10000021,Northamptonshire,1016
+E58000818,Skelmersdale Central ED,E10000017,Lancashire,1017
+E58001012,North Walsham East ED,E10000020,Norfolk,1018
+E58000955,Woodhall Spa & Wragby ED,E10000019,Lincolnshire,1019
+E58001103,Thornton Dale and the Wolds ED,E10000023,North Yorkshire,1020
+E58001144,Lloyds ED,E10000021,Northamptonshire,1021
+E58000819,Skelmersdale East ED,E10000017,Lancashire,1022
+E58001013,North Walsham West and Erpingham ED,E10000020,Norfolk,1023
+E58000956,Acle ED,E10000020,Norfolk,1024
+E58001104,Upper Dales ED,E10000023,North Yorkshire,1025
+E58001145,Long Buckby ED,E10000021,Northamptonshire,1026
+E58000820,Skelmersdale West ED,E10000017,Lancashire,1027
+E58001014,Old Catton ED,E10000020,Norfolk,1028
+E58001015,Reepham ED,E10000020,Norfolk,1029
+E58001016,Sewell ED,E10000020,Norfolk,1030
+E58001017,Sheringham ED,E10000020,Norfolk,1031
+E58001018,South Smallburgh ED,E10000020,Norfolk,1032
+E58001019,Sprowston ED,E10000020,Norfolk,1033
+E58001020,Swaffham ED,E10000020,Norfolk,1034
+E58001021,Taverham ED,E10000020,Norfolk,1035
+E58001022,The Brecks ED,E10000020,Norfolk,1036
+E58001023,Thetford East ED,E10000020,Norfolk,1037
+E58001024,Thetford West ED,E10000020,Norfolk,1038
+E58001025,Thorpe Hamlet ED,E10000020,Norfolk,1039
+E58001026,Thorpe St. Andrew ED,E10000020,Norfolk,1040
+E58001027,Thorpe St. Andrew ED (DET),E10000020,Norfolk,1041
+E58001028,Town Close ED,E10000020,Norfolk,1042
+E58001029,University ED,E10000020,Norfolk,1043
+E58001030,Watton ED,E10000020,Norfolk,1044
+E58001031,Wells ED,E10000020,Norfolk,1045
+E58001032,Wensum ED,E10000020,Norfolk,1046
+E58001033,West Depwade ED,E10000020,Norfolk,1047
+E58001034,West Flegg ED,E10000020,Norfolk,1048
+E58001035,Woodside ED,E10000020,Norfolk,1049
+E58001036,Wroxham ED,E10000020,Norfolk,1050
+E58001037,Wymondham ED,E10000020,Norfolk,1051
+E58001038,Yare and All Saints ED,E10000020,Norfolk,1052
+E58001039,Yarmouth Nelson and Southtown ED,E10000020,Norfolk,1053
+E58001040,Yarmouth North and Central ED,E10000020,Norfolk,1054
+E58001109,Abington and Phippsville ED,E10000021,Northamptonshire,1055
+E58001110,Billing and Rectory Farm ED,E10000021,Northamptonshire,1056
+E58001111,Boothville and Parklands ED,E10000021,Northamptonshire,1057
+E58001112,Brackley ED,E10000021,Northamptonshire,1058
+E58001113,Braunston and Crick ED,E10000021,Northamptonshire,1059
+E58001114,Brickhill and Queensway ED,E10000021,Northamptonshire,1060
+E58001115,Brixworth ED,E10000021,Northamptonshire,1061
+E58001116,Bugbrooke ED,E10000021,Northamptonshire,1062
+E58001117,Burton and Broughton ED,E10000021,Northamptonshire,1063
+E58001118,Castle ED,E10000021,Northamptonshire,1064
+E58000821,Skerton ED,E10000017,Lancashire,1065
+E58000957,Attleborough ED,E10000020,Norfolk,1066
+E58001146,Middleton Cheney ED,E10000021,Northamptonshire,1067
+E58001105,Weaponness and Ramshill ED,E10000023,North Yorkshire,1068
+E58000822,South Ribble East ED,E10000017,Lancashire,1069
+E58000958,Aylsham ED,E10000020,Norfolk,1070
+E58001147,Moulton ED,E10000021,Northamptonshire,1071
+E58001106,Whitby/Mayfield cum Mulgrave ED,E10000023,North Yorkshire,1072
+E58000823,South Ribble West ED,E10000017,Lancashire,1073
+E58000959,Blofield and Brundall ED,E10000020,Norfolk,1074
+E58001148,Nene Valley ED,E10000021,Northamptonshire,1075
+E58001107,Whitby/Streonshalh ED,E10000023,North Yorkshire,1076
+E58000824,St. Annes North ED,E10000017,Lancashire,1077
+E58000960,Bowthorpe ED,E10000020,Norfolk,1078
+E58001149,Northall ED,E10000021,Northamptonshire,1079
+E58001108,Woodlands ED,E10000023,North Yorkshire,1080
+E58000825,St. Annes South ED,E10000017,Lancashire,1081
+E58000961,Breydon ED,E10000020,Norfolk,1082
+E58001150,Oakley ED,E10000021,Northamptonshire,1083
+E58001166,Arnold North ED,E10000024,Nottinghamshire,1084
+E58000826,Thornton & Hambleton ED,E10000017,Lancashire,1085
+E58000962,Caister-on-Sea ED,E10000020,Norfolk,1086
+E58001151,Oundle ED,E10000021,Northamptonshire,1087
+E58001167,Arnold South ED,E10000024,Nottinghamshire,1088
+E58000827,West Lancashire East ED,E10000017,Lancashire,1089
+E58000963,Catton Grove ED,E10000020,Norfolk,1090
+E58000964,Clavering ED,E10000020,Norfolk,1091
+E58000965,Clenchwarton and King's Lynn South ED,E10000020,Norfolk,1092
+E58000966,Costessey ED,E10000020,Norfolk,1093
+E58000967,Crome ED,E10000020,Norfolk,1094
+E58000968,Cromer ED,E10000020,Norfolk,1095
+E58000969,Dereham North ED,E10000020,Norfolk,1096
+E58000970,Dereham South ED,E10000020,Norfolk,1097
+E58000971,Dersingham ED,E10000020,Norfolk,1098
+E58000972,Diss and Roydon ED,E10000020,Norfolk,1099
+E58000973,Docking ED,E10000020,Norfolk,1100
+E58000974,Downham Market ED,E10000020,Norfolk,1101
+E58000975,Drayton and Horsford ED,E10000020,Norfolk,1102
+E58000976,East Depwade ED,E10000020,Norfolk,1103
+E58000977,East Flegg ED,E10000020,Norfolk,1104
+E58000978,Eaton ED,E10000020,Norfolk,1105
+E58000979,Elmham and Mattishall ED,E10000020,Norfolk,1106
+E58000980,Fakenham ED,E10000020,Norfolk,1107
+E58000981,Feltwell ED,E10000020,Norfolk,1108
+E58000982,Fincham ED,E10000020,Norfolk,1109
+E58000983,Forehoe ED,E10000020,Norfolk,1110
+E58000984,Freebridge Lynn ED,E10000020,Norfolk,1111
+E58000985,Gayton and Nar Valley ED,E10000020,Norfolk,1112
+E58000986,Gaywood North and Central ED,E10000020,Norfolk,1113
+E58000987,Gaywood South ED,E10000020,Norfolk,1114
+E58000988,Gorleston St. Andrews ED,E10000020,Norfolk,1115
+E58000989,Guiltcross ED,E10000020,Norfolk,1116
+E58000990,Hellesdon ED,E10000020,Norfolk,1117
+E58000991,Henstead ED,E10000020,Norfolk,1118
+E58000992,Hevingham and Spixworth ED,E10000020,Norfolk,1119
+E58000993,Hingham ED,E10000020,Norfolk,1120
+E58000994,Holt ED,E10000020,Norfolk,1121
+E58000995,Hoveton and Stalham ED,E10000020,Norfolk,1122
+E58000996,Humbleyard ED,E10000020,Norfolk,1123
+E58000997,King's Lynn North and Central ED,E10000020,Norfolk,1124
+E58000998,Lakenham ED,E10000020,Norfolk,1125
+E58000999,Loddon ED,E10000020,Norfolk,1126
+E58001000,Long Stratton ED,E10000020,Norfolk,1127
+E58000828,West Lancashire North ED,E10000017,Lancashire,1128
+E58001168,Ashfields ED,E10000024,Nottinghamshire,1129
+E58001152,Raunds ED,E10000021,Northamptonshire,1130
+E58000829,West Lancashire West ED,E10000017,Lancashire,1131
+E58001169,Balderton ED,E10000024,Nottinghamshire,1132
+E58001153,Riverside Park ED,E10000021,Northamptonshire,1133
+E58000830,Whitworth & Bacup ED,E10000017,Lancashire,1134
+E58001170,Beeston Central & Rylands ED,E10000024,Nottinghamshire,1135
+E58001154,Rothwell and Mawsley ED,E10000021,Northamptonshire,1136
+E58000831,Wyre Rural Central ED,E10000017,Lancashire,1137
+E58001171,Bingham East ED,E10000024,Nottinghamshire,1138
+E58001155,Rushden Pemberton West ED,E10000021,Northamptonshire,1139
+E58000832,Wyre Rural East ED,E10000017,Lancashire,1140
+E58001172,Bingham West ED,E10000024,Nottinghamshire,1141
+E58001156,Rushden South ED,E10000021,Northamptonshire,1142
+E58000833,Ashby de la Zouch ED,E10000018,Leicestershire,1143
+E58001173,Blidworth ED,E10000024,Nottinghamshire,1144
+E58001157,Silverstone ED,E10000021,Northamptonshire,1145
+E58000834,Belvoir ED,E10000018,Leicestershire,1146
+E58001174,Blyth & Harworth ED,E10000024,Nottinghamshire,1147
+E58001158,Sixfields ED,E10000021,Northamptonshire,1148
+E58000835,Birstall ED,E10000018,Leicestershire,1149
+E58001175,Bramcote & Beeston North ED,E10000024,Nottinghamshire,1150
+E58001159,St. George ED,E10000021,Northamptonshire,1151
+E58000836,Blaby & Glen Parva ED,E10000018,Leicestershire,1152
+E58001176,Calverton ED,E10000024,Nottinghamshire,1153
+E58001177,Carlton East ED,E10000024,Nottinghamshire,1154
+E58001178,Carlton West ED,E10000024,Nottinghamshire,1155
+E58001179,Collingham ED,E10000024,Nottinghamshire,1156
+E58001180,Cotgrave ED,E10000024,Nottinghamshire,1157
+E58001181,Eastwood ED,E10000024,Nottinghamshire,1158
+E58001182,Farndon & Trent ED,E10000024,Nottinghamshire,1159
+E58001183,Greasley & Brinsley ED,E10000024,Nottinghamshire,1160
+E58001184,Hucknall North ED,E10000024,Nottinghamshire,1161
+E58001185,Hucknall South ED,E10000024,Nottinghamshire,1162
+E58001186,Hucknall West ED,E10000024,Nottinghamshire,1163
+E58001187,Keyworth ED,E10000024,Nottinghamshire,1164
+E58001188,Kirkby North ED,E10000024,Nottinghamshire,1165
+E58001189,Kirkby South ED,E10000024,Nottinghamshire,1166
+E58001190,Leake & Ruddington ED,E10000024,Nottinghamshire,1167
+E58001191,Mansfield East ED,E10000024,Nottinghamshire,1168
+E58001192,Mansfield North ED,E10000024,Nottinghamshire,1169
+E58001193,Mansfield South ED,E10000024,Nottinghamshire,1170
+E58001194,Mansfield West ED,E10000024,Nottinghamshire,1171
+E58001195,Misterton ED,E10000024,Nottinghamshire,1172
+E58001196,Muskham & Farnsfield ED,E10000024,Nottinghamshire,1173
+E58001197,Newark East ED,E10000024,Nottinghamshire,1174
+E58001198,Newark West ED,E10000024,Nottinghamshire,1175
+E58001199,Newstead ED,E10000024,Nottinghamshire,1176
+E58001200,Nuthall & Kimberley ED,E10000024,Nottinghamshire,1177
+E58000837,Bradgate ED,E10000018,Leicestershire,1178
+E58000838,Braunstone ED,E10000018,Leicestershire,1179
+E58000839,Broughton Astley ED,E10000018,Leicestershire,1180
+E58000840,Bruntingthorpe ED,E10000018,Leicestershire,1181
+E58000841,Burbage ED,E10000018,Leicestershire,1182
+E58000842,Castle Donington & Kegworth ED,E10000018,Leicestershire,1183
+E58000843,Coalville North ED,E10000018,Leicestershire,1184
+E58000844,Coalville South ED,E10000018,Leicestershire,1185
+E58000845,Cosby & Countesthorpe ED,E10000018,Leicestershire,1186
+E58000846,De Montfort ED,E10000018,Leicestershire,1187
+E58000847,Earl Shilton ED,E10000018,Leicestershire,1188
+E58000848,East Wigston ED,E10000018,Leicestershire,1189
+E58000849,Enderby & Lubbesthorpe ED,E10000018,Leicestershire,1190
+E58000850,Forest & Measham ED,E10000018,Leicestershire,1191
+E58001160,Talavera ED,E10000021,Northamptonshire,1192
+E58001161,Thrapston ED,E10000021,Northamptonshire,1193
+E58001162,Towcester and Roade ED,E10000021,Northamptonshire,1194
+E58001163,Wicksteed ED,E10000021,Northamptonshire,1195
+E58001164,Windmill ED,E10000021,Northamptonshire,1196
+E58001165,Woodford and Weedon ED,E10000021,Northamptonshire,1197
+E58001041,Ainsty ED,E10000023,North Yorkshire,1198
+E58001042,Airedale ED,E10000023,North Yorkshire,1199
+E58001043,Bedale ED,E10000023,North Yorkshire,1200
+E58001451,Thingoe North ED,E10000029,Suffolk,1201
+E58001452,Thingoe South ED,E10000029,Suffolk,1202
+E58001453,Thredling ED,E10000029,Suffolk,1203
+E58001454,Tower ED,E10000029,Suffolk,1204
+E58001455,Upper Gipping ED,E10000029,Suffolk,1205
+E58001456,Whitehouse and Whitton ED,E10000029,Suffolk,1206
+E58001457,Wickham ED,E10000029,Suffolk,1207
+E58001458,Wilford ED,E10000029,Suffolk,1208
+E58001459,Woodbridge ED,E10000029,Suffolk,1209
+E58001460,Addlestone ED,E10000030,Surrey,1210
+E58001461,Ash ED,E10000030,Surrey,1211
+E58001301,Curry Rivel and Langport ED,E10000027,Somerset,1212
+E58001351,Cannock Villages ED,E10000028,Staffordshire,1213
+E58001462,Ashford ED,E10000030,Surrey,1214
+E58001463,Ashtead ED,E10000030,Surrey,1215
+E58001464,"Bagshot, Windlesham and Chobham ED",E10000030,Surrey,1216
+E58001465,"Banstead, Woodmansterne and Chipstead ED",E10000030,Surrey,1217
+E58001466,Bookham and Fetcham West ED,E10000030,Surrey,1218
+E58001467,Camberley East ED,E10000030,Surrey,1219
+E58001468,Camberley West ED,E10000030,Surrey,1220
+E58001469,Caterham Hill ED,E10000030,Surrey,1221
+E58001470,Caterham Valley ED,E10000030,Surrey,1222
+E58001471,Chertsey ED,E10000030,Surrey,1223
+E58001472,Cobham ED,E10000030,Surrey,1224
+E58001473,Cranleigh and Ewhurst ED,E10000030,Surrey,1225
+E58001474,Dorking Hills ED,E10000030,Surrey,1226
+E58001475,Dorking Rural ED,E10000030,Surrey,1227
+E58001476,Dorking South and the Holmwoods ED,E10000030,Surrey,1228
+E58001477,Earlswood and Reigate South ED,E10000030,Surrey,1229
+E58001478,East Molesey and Esher ED,E10000030,Surrey,1230
+E58001479,Egham ED,E10000030,Surrey,1231
+E58001480,Englefield Green ED,E10000030,Surrey,1232
+E58001481,Epsom Town and Downs ED,E10000030,Surrey,1233
+E58001482,Epsom West ED,E10000030,Surrey,1234
+E58001483,"Ewell Court, Auriol and Cuddington ED",E10000030,Surrey,1235
+E58001484,Ewell ED,E10000030,Surrey,1236
+E58001485,Farnham Central ED,E10000030,Surrey,1237
+E58001486,Farnham North ED,E10000030,Surrey,1238
+E58001487,Farnham South ED,E10000030,Surrey,1239
+E58001488,"Foxhills, Thorpe and Virginia Water ED",E10000030,Surrey,1240
+E58001489,Frimley Green and Mytchett ED,E10000030,Surrey,1241
+E58001490,Godalming North ED,E10000030,Surrey,1242
+E58001491,"Godalming South, Milford and Witley ED",E10000030,Surrey,1243
+E58001492,Godstone ED,E10000030,Surrey,1244
+E58001493,Goldsworth East and Horsell Village ED,E10000030,Surrey,1245
+E58001494,Guildford East ED,E10000030,Surrey,1246
+E58001495,Guildford North ED,E10000030,Surrey,1247
+E58001496,Guildford South East ED,E10000030,Surrey,1248
+E58001497,Guildford South West ED,E10000030,Surrey,1249
+E58001498,Guildford West ED,E10000030,Surrey,1250
+E58001499,Haslemere ED,E10000030,Surrey,1251
+E58001500,Heatherside and Parkside ED,E10000030,Surrey,1252
+E58001401,Blackbourn ED,E10000029,Suffolk,1253
+E58001501,Hersham ED,E10000030,Surrey,1254
+E58001201,Ollerton ED,E10000024,Nottinghamshire,1255
+E58001352,Caverswall ED,E10000028,Staffordshire,1256
+E58001302,Dulverton and Exmoor ED,E10000027,Somerset,1257
+E58001353,Chadsmoor ED,E10000028,Staffordshire,1258
+E58001402,Blything ED,E10000029,Suffolk,1259
+E58001303,Dunster ED,E10000027,Somerset,1260
+E58001354,Cheadle and Checkley ED,E10000028,Staffordshire,1261
+E58001502,"Hinchley Wood, Claygate and Oxshott ED",E10000030,Surrey,1262
+E58001403,Bosmere ED,E10000029,Suffolk,1263
+E58001304,Frome East ED,E10000027,Somerset,1264
+E58001355,"Cheslyn Hay, Essington and Great Wyrley ED",E10000028,Staffordshire,1265
+E58001503,Horley East ED,E10000030,Surrey,1266
+E58001404,Brandon ED,E10000029,Suffolk,1267
+E58001305,Frome North ED,E10000027,Somerset,1268
+E58001356,Churnet Valley ED,E10000028,Staffordshire,1269
+E58001504,"Horley West, Salfords and Sidlow ED",E10000030,Surrey,1270
+E58001405,Bridge ED,E10000029,Suffolk,1271
+E58001306,Frome West ED,E10000027,Somerset,1272
+E58001357,Codsall ED,E10000028,Staffordshire,1273
+E58001505,Horsleys ED,E10000030,Surrey,1274
+E58001406,Bungay ED,E10000029,Suffolk,1275
+E58001307,Glastonbury and Street ED,E10000027,Somerset,1276
+E58001358,Dove ED,E10000028,Staffordshire,1277
+E58001506,Knaphill and Goldsworth West ED,E10000030,Surrey,1278
+E58001407,Carlford ED,E10000029,Suffolk,1279
+E58001308,Highbridge and Burnham South ED,E10000027,Somerset,1280
+E58001309,Huntspill ED,E10000027,Somerset,1281
+E58001310,Ilminster ED,E10000027,Somerset,1282
+E58001311,King Alfred ED,E10000027,Somerset,1283
+E58001312,Lydeard ED,E10000027,Somerset,1284
+E58001313,Martock ED,E10000027,Somerset,1285
+E58001314,Mendip Central and East ED,E10000027,Somerset,1286
+E58001315,Mendip Hiils ED,E10000027,Somerset,1287
+E58001316,Mendip South ED,E10000027,Somerset,1288
+E58001317,Mendip West ED,E10000027,Somerset,1289
+E58001318,Minehead ED,E10000027,Somerset,1290
+E58001319,Monkton and North Curry ED,E10000027,Somerset,1291
+E58001320,North Petherton ED,E10000027,Somerset,1292
+E58001321,Rowbarton and Staplegrove ED,E10000027,Somerset,1293
+E58001322,Shepton Mallet ED,E10000027,Somerset,1294
+E58001323,Somerton ED,E10000027,Somerset,1295
+E58001324,South Petherton and Islemoor ED,E10000027,Somerset,1296
+E58001325,Taunton East ED,E10000027,Somerset,1297
+E58001326,Taunton North ED,E10000027,Somerset,1298
+E58001327,Taunton South ED,E10000027,Somerset,1299
+E58001328,Upper Tone ED,E10000027,Somerset,1300
+E58001329,Watchet and Stogursey ED,E10000027,Somerset,1301
+E58001330,Wellington ED,E10000027,Somerset,1302
+E58001331,Wells ED,E10000027,Somerset,1303
+E58001332,Wincanton and Bruton ED,E10000027,Somerset,1304
+E58001333,Yeovil Central ED,E10000027,Somerset,1305
+E58001334,Yeovil East ED,E10000027,Somerset,1306
+E58001335,Yeovil South ED,E10000027,Somerset,1307
+E58001336,Yeovil West ED,E10000027,Somerset,1308
+E58001337,Amington ED,E10000028,Staffordshire,1309
+E58001338,Audley and Chesterton ED,E10000028,Staffordshire,1310
+E58001339,Biddulph North ED,E10000028,Staffordshire,1311
+E58001340,Biddulph South and Endon ED,E10000028,Staffordshire,1312
+E58001341,Bolebridge ED,E10000028,Staffordshire,1313
+E58001342,"Bradwell, Porthill and Wolstanton ED",E10000028,Staffordshire,1314
+E58001343,Brereton and Ravenhill ED,E10000028,Staffordshire,1315
+E58001344,Brewood ED,E10000028,Staffordshire,1316
+E58001345,Burntwood North ED,E10000028,Staffordshire,1317
+E58001346,Burntwood South ED,E10000028,Staffordshire,1318
+E58001347,Burton Tower ED,E10000028,Staffordshire,1319
+E58001348,Burton Town ED,E10000028,Staffordshire,1320
+E58001349,Burton Trent ED,E10000028,Staffordshire,1321
+E58001350,Cannock Town Centre ED,E10000028,Staffordshire,1322
+E58001251,Hanborough and Minster Lovell ED,E10000025,Oxfordshire,1323
+E58001202,Radcliffe on Trent ED,E10000024,Nottinghamshire,1324
+E58001203,Retford East ED,E10000024,Nottinghamshire,1325
+E58001408,Chantry ED,E10000029,Suffolk,1326
+E58001359,Eccleshall ED,E10000028,Staffordshire,1327
+E58001507,Laleham and Shepperton ED,E10000030,Surrey,1328
+E58001204,Retford West ED,E10000024,Nottinghamshire,1329
+E58001252,Headington and Quarry ED,E10000025,Oxfordshire,1330
+E58001409,Clare ED,E10000029,Suffolk,1331
+E58001360,Etching Hill and Heath ED,E10000028,Staffordshire,1332
+E58001508,Leatherhead and Fetcham East ED,E10000030,Surrey,1333
+E58001205,Selston ED,E10000024,Nottinghamshire,1334
+E58001253,Hendreds and Harwell ED,E10000025,Oxfordshire,1335
+E58001410,Cosford ED,E10000029,Suffolk,1336
+E58001361,Gnosall and Doxey ED,E10000028,Staffordshire,1337
+E58001509,"Lightwater, West End and Bisley ED",E10000030,Surrey,1338
+E58001206,Sherwood Forest ED,E10000024,Nottinghamshire,1339
+E58001254,Henley-on-Thames ED,E10000025,Oxfordshire,1340
+E58001411,Eastgate and Moreton Hall ED,E10000029,Suffolk,1341
+E58001362,Hednesford and Rawnsley ED,E10000028,Staffordshire,1342
+E58001510,"Lightwater, West End and Bisley ED (DET)",E10000030,Surrey,1343
+E58001511,Lingfield ED,E10000030,Surrey,1344
+E58001512,Lower Sunbury and Halliford ED,E10000030,Surrey,1345
+E58001513,Merstham and Banstead South ED,E10000030,Surrey,1346
+E58001514,Nork and Tattenhams ED,E10000030,Surrey,1347
+E58001515,Oxted ED,E10000030,Surrey,1348
+E58001516,Redhill East ED,E10000030,Surrey,1349
+E58001517,Redhill West and Meadvale ED,E10000030,Surrey,1350
+E58001518,Reigate ED,E10000030,Surrey,1351
+E58001519,Shalford ED,E10000030,Surrey,1352
+E58001520,Shere ED,E10000030,Surrey,1353
+E58001521,Staines ED,E10000030,Surrey,1354
+E58001522,Staines South and Ashford West ED,E10000030,Surrey,1355
+E58001523,Stanwell and Stanwell Moor ED,E10000030,Surrey,1356
+E58001524,Sunbury Common and Ashford Common ED,E10000030,Surrey,1357
+E58001525,"Tadworth, Walton and Kingswood ED",E10000030,Surrey,1358
+E58001526,The Byfleets ED,E10000030,Surrey,1359
+E58001527,The Dittons ED,E10000030,Surrey,1360
+E58001528,Walton ED,E10000030,Surrey,1361
+E58001529,Walton South and Oatlands ED,E10000030,Surrey,1362
+E58001530,Warlingham ED,E10000030,Surrey,1363
+E58001531,Waverley Eastern Villages ED,E10000030,Surrey,1364
+E58001532,Waverley Western Villages ED,E10000030,Surrey,1365
+E58001533,West Ewell ED,E10000030,Surrey,1366
+E58001534,West Molesey ED,E10000030,Surrey,1367
+E58001535,Weybridge ED,E10000030,Surrey,1368
+E58001536,Woking North ED,E10000030,Surrey,1369
+E58001537,Woking South East ED,E10000030,Surrey,1370
+E58001538,Woking South ED,E10000030,Surrey,1371
+E58001539,Woking South West ED,E10000030,Surrey,1372
+E58001540,Woodham and New Haw ED,E10000030,Surrey,1373
+E58001541,Worplesdon ED,E10000030,Surrey,1374
+E58001542,Admirals & Cawston ED,E10000031,Warwickshire,1375
+E58001543,Alcester ED,E10000031,Warwickshire,1376
+E58001544,Arbury ED,E10000031,Warwickshire,1377
+E58001545,Arden ED,E10000031,Warwickshire,1378
+E58001546,Atherstone ED,E10000031,Warwickshire,1379
+E58001547,Attleborough ED,E10000031,Warwickshire,1380
+E58001548,Baddesley & Dordon ED,E10000031,Warwickshire,1381
+E58001549,Bedworth Central ED,E10000031,Warwickshire,1382
+E58001550,Bedworth East ED,E10000031,Warwickshire,1383
+E58001255,Iffley Fields and St. Mary's ED,E10000025,Oxfordshire,1384
+E58001363,Horninglow and Stretton ED,E10000028,Staffordshire,1385
+E58001412,Exning and Newmarket ED,E10000029,Suffolk,1386
+E58001256,Isis ED,E10000025,Oxfordshire,1387
+E58001207,Southwell ED,E10000024,Nottinghamshire,1388
+E58001364,"Keele, Knutton and Silverdale ED",E10000028,Staffordshire,1389
+E58001413,Felixstowe Coastal ED,E10000029,Suffolk,1390
+E58001257,Jericho and Osney ED,E10000025,Oxfordshire,1391
+E58001208,Stapleford & Broxtowe Central ED,E10000024,Nottinghamshire,1392
+E58001365,Kidsgrove ED,E10000028,Staffordshire,1393
+E58001414,Felixstowe North and Trimley ED,E10000029,Suffolk,1394
+E58001258,Kennington and Radley ED,E10000025,Oxfordshire,1395
+E58001209,Sutton Central & East ED,E10000024,Nottinghamshire,1396
+E58001366,Kinver ED,E10000028,Staffordshire,1397
+E58001415,Framlingham ED,E10000029,Suffolk,1398
+E58001259,Kidlington South ED,E10000025,Oxfordshire,1399
+E58001210,Sutton North ED,E10000024,Nottinghamshire,1400
+E58001367,Leek Rural ED,E10000028,Staffordshire,1401
+E58001416,Gainsborough ED,E10000029,Suffolk,1402
+E58001260,Kingston and Cumnor ED,E10000025,Oxfordshire,1403
+E58001211,Sutton West ED,E10000024,Nottinghamshire,1404
+E58001212,"Toton, Chilwell & Attenborough ED",E10000024,Nottinghamshire,1405
+E58001213,Tuxford ED,E10000024,Nottinghamshire,1406
+E58001214,Warsop ED,E10000024,Nottinghamshire,1407
+E58001215,West Bridgford North ED,E10000024,Nottinghamshire,1408
+E58001216,West Bridgford South ED,E10000024,Nottinghamshire,1409
+E58001217,West Bridgford West ED,E10000024,Nottinghamshire,1410
+E58001218,Worksop East ED,E10000024,Nottinghamshire,1411
+E58001219,Worksop North ED,E10000024,Nottinghamshire,1412
+E58001220,Worksop South ED,E10000024,Nottinghamshire,1413
+E58001221,Worksop West ED,E10000024,Nottinghamshire,1414
+E58001222,Abingdon East ED,E10000025,Oxfordshire,1415
+E58001223,Abingdon North ED,E10000025,Oxfordshire,1416
+E58001224,Abingdon South ED,E10000025,Oxfordshire,1417
+E58001225,Banbury Calthorpe ED,E10000025,Oxfordshire,1418
+E58001226,Banbury Grimsbury and Castle ED,E10000025,Oxfordshire,1419
+E58001227,Banbury Hardwick ED,E10000025,Oxfordshire,1420
+E58001228,Banbury Ruscote ED,E10000025,Oxfordshire,1421
+E58001229,"Barton, Sandhills and Risinghurst ED",E10000025,Oxfordshire,1422
+E58001230,Benson and Cholsey ED,E10000025,Oxfordshire,1423
+E58001231,Berinsfield and Garsington ED,E10000025,Oxfordshire,1424
+E58001232,Bicester North ED,E10000025,Oxfordshire,1425
+E58001233,Bicester Town ED,E10000025,Oxfordshire,1426
+E58001234,Bicester West ED,E10000025,Oxfordshire,1427
+E58001235,Bloxham and Easington ED,E10000025,Oxfordshire,1428
+E58001236,Burford and Carterton North ED,E10000025,Oxfordshire,1429
+E58001237,Carterton South and West ED,E10000025,Oxfordshire,1430
+E58001238,Chalgrove and Watlington ED,E10000025,Oxfordshire,1431
+E58001239,Charlbury and Wychwood ED,E10000025,Oxfordshire,1432
+E58001240,Chipping Norton ED,E10000025,Oxfordshire,1433
+E58001241,Churchill and Lye Valley ED,E10000025,Oxfordshire,1434
+E58001242,Cowley ED,E10000025,Oxfordshire,1435
+E58001243,Deddington ED,E10000025,Oxfordshire,1436
+E58001244,Didcot East and Hagbourne ED,E10000025,Oxfordshire,1437
+E58001245,Didcot Ladygrove ED,E10000025,Oxfordshire,1438
+E58001246,Didcot West ED,E10000025,Oxfordshire,1439
+E58001247,Eynsham ED,E10000025,Oxfordshire,1440
+E58001248,Faringdon ED,E10000025,Oxfordshire,1441
+E58001249,Goring ED,E10000025,Oxfordshire,1442
+E58001250,Grove and Wantage ED,E10000025,Oxfordshire,1443
+E58001417,Gipping Valley ED,E10000029,Suffolk,1444
+E58001418,Great Cornard ED,E10000029,Suffolk,1445
+E58001419,Gunton ED,E10000029,Suffolk,1446
+E58001420,Hadleigh ED,E10000029,Suffolk,1447
+E58001421,Halesworth ED,E10000029,Suffolk,1448
+E58001422,Hardwick ED,E10000029,Suffolk,1449
+E58001423,Hartismere ED,E10000029,Suffolk,1450
+E58001424,Haverhill Cangle ED,E10000029,Suffolk,1451
+E58001425,Haverhill East and Kedington ED,E10000029,Suffolk,1452
+E58001426,Hoxne and Eye ED,E10000029,Suffolk,1453
+E58001427,Kesgrave and Rushmere St. Andrew ED,E10000029,Suffolk,1454
+E58001428,Kessingland and Southwold ED,E10000029,Suffolk,1455
+E58001429,Lowestoft South ED,E10000029,Suffolk,1456
+E58001261,Kirtlington and Kidlington North ED,E10000025,Oxfordshire,1457
+E58001430,Martlesham ED,E10000029,Suffolk,1458
+E58001368,Leek South ED,E10000028,Staffordshire,1459
+E58001262,Leys ED,E10000025,Oxfordshire,1460
+E58001431,Melford ED,E10000029,Suffolk,1461
+E58001369,Lichfield City North ED,E10000028,Staffordshire,1462
+E58001263,Marston and Northway ED,E10000025,Oxfordshire,1463
+E58001432,Mildenhall ED,E10000029,Suffolk,1464
+E58001433,Newmarket and Red Lodge ED,E10000029,Suffolk,1465
+E58001434,Oulton ED,E10000029,Suffolk,1466
+E58001435,Pakefield ED,E10000029,Suffolk,1467
+E58001436,Peninsula ED,E10000029,Suffolk,1468
+E58001437,Priory Heath ED,E10000029,Suffolk,1469
+E58001438,Row Heath ED,E10000029,Suffolk,1470
+E58001439,Rushmere ED,E10000029,Suffolk,1471
+E58001440,Samford ED,E10000029,Suffolk,1472
+E58001441,St. Helen's ED,E10000029,Suffolk,1473
+E58001442,St. John's ED,E10000029,Suffolk,1474
+E58001443,St. Margaret's and Westgate ED,E10000029,Suffolk,1475
+E58001444,Stour Valley ED,E10000029,Suffolk,1476
+E58001445,Stowmarket North and Stowupland ED,E10000029,Suffolk,1477
+E58001446,Stowmarket South ED,E10000029,Suffolk,1478
+E58001447,Sudbury East and Waldingfield ED,E10000029,Suffolk,1479
+E58001448,Sudbury ED,E10000029,Suffolk,1480
+E58001449,Thedwastre North ED,E10000029,Suffolk,1481
+E58001450,Thedwastre South ED,E10000029,Suffolk,1482
+E58001264,North Hinksey ED,E10000025,Oxfordshire,1483
+E58001265,Otmoor ED,E10000025,Oxfordshire,1484
+E58001266,Ploughley ED,E10000025,Oxfordshire,1485
+E58001267,Rose Hill and Littlemore ED,E10000025,Oxfordshire,1486
+E58001268,Shrivenham ED,E10000025,Oxfordshire,1487
+E58001269,Sonning Common ED,E10000025,Oxfordshire,1488
+E58001270,St. Clement's and Cowley Marsh ED,E10000025,Oxfordshire,1489
+E58001271,St. Margaret's ED,E10000025,Oxfordshire,1490
+E58001272,Sutton Courtenay and Marcham ED,E10000025,Oxfordshire,1491
+E58001273,Thame and Chinnor ED,E10000025,Oxfordshire,1492
+E58001274,University Parks ED,E10000025,Oxfordshire,1493
+E58001275,Wallingford ED,E10000025,Oxfordshire,1494
+E58001276,Wheatley ED,E10000025,Oxfordshire,1495
+E58001277,Witney North and East ED,E10000025,Oxfordshire,1496
+E58001278,Witney South and Central ED,E10000025,Oxfordshire,1497
+E58001279,Witney West and Bampton ED,E10000025,Oxfordshire,1498
+E58001370,Lichfield City South ED,E10000028,Staffordshire,1499
+E58001280,Wolvercote and Summertown ED,E10000025,Oxfordshire,1500
+E58001371,Lichfield Rural East ED,E10000028,Staffordshire,1501
+E58001281,Woodstock ED,E10000025,Oxfordshire,1502
+E58001372,Lichfield Rural North ED,E10000028,Staffordshire,1503
+E58001282,Wroxton and Hook Norton ED,E10000025,Oxfordshire,1504
+E58001373,Lichfield Rural South ED,E10000028,Staffordshire,1505
+E58001283,Bishop's Hull and Taunton West ED,E10000027,Somerset,1506
+E58001374,Lichfield Rural West ED,E10000028,Staffordshire,1507
+E58001284,Blackdown and Neroche ED,E10000027,Somerset,1508
+E58001375,May Bank and Cross Heath ED,E10000028,Staffordshire,1509
+E58001285,Blackmoor Vale ED,E10000027,Somerset,1510
+E58001376,Needwood Forest ED,E10000028,Staffordshire,1511
+E58001377,Newcastle Rural ED,E10000028,Staffordshire,1512
+E58001286,Brent ED,E10000027,Somerset,1513
+E58001378,Newcastle South ED,E10000028,Staffordshire,1514
+E58001287,Bridgwater East and Bawdrip ED,E10000027,Somerset,1515
+E58001379,Penkridge ED,E10000028,Staffordshire,1516
+E58001288,Bridgwater North and Central ED,E10000027,Somerset,1517
+E58001380,Perrycrofts ED,E10000028,Staffordshire,1518
+E58001381,Perton ED,E10000028,Staffordshire,1519
+E58001382,Stafford Central ED,E10000028,Staffordshire,1520
+E58001383,Stafford North ED,E10000028,Staffordshire,1521
+E58001289,Bridgwater South ED,E10000027,Somerset,1522
+E58001384,Stafford South East ED,E10000028,Staffordshire,1523
+E58001551,Bedworth North ED,E10000031,Warwickshire,1524
+E58001290,Bridgwater West ED,E10000027,Somerset,1525
+E58001291,Brympton ED,E10000027,Somerset,1526
+E58001292,Burnham North ED,E10000027,Somerset,1527
+E58001293,Cannington ED,E10000027,Somerset,1528
+E58001294,Castle Cary ED,E10000027,Somerset,1529
+E58001295,Chard North ED,E10000027,Somerset,1530
+E58001296,Chard South ED,E10000027,Somerset,1531
+E58001297,Cheddar ED,E10000027,Somerset,1532
+E58001298,Coker ED,E10000027,Somerset,1533
+E58001299,Comeytrowe and Trull ED,E10000027,Somerset,1534
+E58001300,Crewkerne ED,E10000027,Somerset,1535
+E58001385,Stafford Trent Valley ED,E10000028,Staffordshire,1536
+E58001552,Bedworth West ED,E10000031,Warwickshire,1537
+E58001386,Stafford West ED,E10000028,Staffordshire,1538
+E58001553,Benn ED,E10000031,Warwickshire,1539
+E58001387,Stone Rural ED,E10000028,Staffordshire,1540
+E58001554,Bidford & Welford ED,E10000031,Warwickshire,1541
+E58001388,Stone Urban ED,E10000028,Staffordshire,1542
+E58001555,Bilton & Hillside ED,E10000031,Warwickshire,1543
+E58001389,Stonydelph ED,E10000028,Staffordshire,1544
+E58001556,Brownsover & Coton Park ED,E10000031,Warwickshire,1545
+E58001390,Talke and Red Street ED,E10000028,Staffordshire,1546
+E58001557,Budbrooke & Bishop's Tachbrook ED,E10000031,Warwickshire,1547
+E58001391,Uttoxeter Rural ED,E10000028,Staffordshire,1548
+E58001558,Bulkington & Whitestone ED,E10000031,Warwickshire,1549
+E58001392,Uttoxeter Town ED,E10000028,Staffordshire,1550
+E58001559,Camp Hill ED,E10000031,Warwickshire,1551
+E58001393,Watling North ED,E10000028,Staffordshire,1552
+E58001560,Coleshill North & Water Orton ED,E10000031,Warwickshire,1553
+E58001394,Watling South ED,E10000028,Staffordshire,1554
+E58001561,Coleshill South & Arley ED,E10000031,Warwickshire,1555
+E58001395,Westlands and Thistleberry ED,E10000028,Staffordshire,1556
+E58001562,Cubbington & Leek Wootton ED,E10000031,Warwickshire,1557
+E58001396,Wombourne ED,E10000028,Staffordshire,1558
+E58001563,Dunsmore & Leam Valley ED,E10000031,Warwickshire,1559
+E58001397,Aldeburgh and Leiston ED,E10000029,Suffolk,1560
+E58001564,Earl Craven ED,E10000031,Warwickshire,1561
+E58001398,Beccles ED,E10000029,Suffolk,1562
+E58001565,Eastlands ED,E10000031,Warwickshire,1563
+E58001399,Belstead Brook ED,E10000029,Suffolk,1564
+E58001566,Feldon ED,E10000031,Warwickshire,1565
+E58001400,Bixley ED,E10000029,Suffolk,1566
+E58001567,Fosse ED,E10000031,Warwickshire,1567
+E58001568,Galley Common ED,E10000031,Warwickshire,1568
+E58001569,Hartshill & Mancetter ED,E10000031,Warwickshire,1569
+E58001570,Hillmorton ED,E10000031,Warwickshire,1570
+E58001571,Kenilworth Park Hill ED,E10000031,Warwickshire,1571
+E58001572,Kenilworth St. John's ED,E10000031,Warwickshire,1572
+E58001573,Kineton & Red Horse ED,E10000031,Warwickshire,1573
+E58001574,Kingsbury ED,E10000031,Warwickshire,1574
+E58001575,Lapworth & West Kenilworth ED,E10000031,Warwickshire,1575
+E58001576,Leamington Brunswick ED,E10000031,Warwickshire,1576
+E58001577,Leamington Clarendon ED,E10000031,Warwickshire,1577
+E58001578,Leamington Milverton ED,E10000031,Warwickshire,1578
+E58001579,Leamington North ED,E10000031,Warwickshire,1579
+E58001580,Leamington Willes ED,E10000031,Warwickshire,1580
+E58001581,New Bilton & Overslade ED,E10000031,Warwickshire,1581
+E58001582,Nuneaton Abbey ED,E10000031,Warwickshire,1582
+E58001583,Nuneaton East ED,E10000031,Warwickshire,1583
+E58001584,Polesworth ED,E10000031,Warwickshire,1584
+E58001585,Shipston ED,E10000031,Warwickshire,1585
+E58001586,"Southam, Stockton & Napton ED",E10000031,Warwickshire,1586
+E58001587,Stockingford ED,E10000031,Warwickshire,1587
+E58001588,Stour & the Vale ED,E10000031,Warwickshire,1588
+E58001589,Stratford North ED,E10000031,Warwickshire,1589
+E58001590,Stratford South ED,E10000031,Warwickshire,1590
+E58001591,Stratford West ED,E10000031,Warwickshire,1591
+E58001592,Studley ED,E10000031,Warwickshire,1592
+E58001593,Warwick North ED,E10000031,Warwickshire,1593
+E58001594,Warwick South ED,E10000031,Warwickshire,1594
+E58001595,Warwick West ED,E10000031,Warwickshire,1595
+E58001596,Weddington ED,E10000031,Warwickshire,1596
+E58001597,Wellesbourne ED,E10000031,Warwickshire,1597
+E58001598,Whitnash ED,E10000031,Warwickshire,1598
+E58001599,Angmering & Findon ED,E10000032,West Sussex,1599
+E58001600,Arundel & Courtwick ED,E10000032,West Sussex,1600
+E58001601,Bersted ED,E10000032,West Sussex,1601
+E58001661,Tarring ED,E10000032,West Sussex,1602
+E58001602,Bewbush & Ifield West ED,E10000032,West Sussex,1603
+E58001603,Billingshurst ED,E10000032,West Sussex,1604
+E58001662,The Witterings ED,E10000032,West Sussex,1605
+E58001604,Bognor Regis East ED,E10000032,West Sussex,1606
+E58001663,Three Bridges ED,E10000032,West Sussex,1607
+E58001605,Bognor Regis West & Aldwick ED,E10000032,West Sussex,1608
+E58001664,Tilgate & Furnace Green ED,E10000032,West Sussex,1609
+E58001606,Bourne ED,E10000032,West Sussex,1610
+E58001665,Worth Forest ED,E10000032,West Sussex,1611
+E58001607,Bramber Castle ED,E10000032,West Sussex,1612
+E58001666,Worthing East ED,E10000032,West Sussex,1613
+E58001608,Broadbridge ED,E10000032,West Sussex,1614
+E58001667,Worthing Pier ED,E10000032,West Sussex,1615
+E58001609,Broadfield ED,E10000032,West Sussex,1616
+E58001668,Worthing West ED,E10000032,West Sussex,1617
+E58001610,Broadwater ED,E10000032,West Sussex,1618
+E58001669,Alvechurch ED,E10000034,Worcestershire,1619
+E58001611,Burgess Hill East ED,E10000032,West Sussex,1620
+E58001670,Arrow Valley East ED,E10000034,Worcestershire,1621
+E58001612,Burgess Hill North ED,E10000032,West Sussex,1622
+E58001671,Arrow Valley West ED,E10000034,Worcestershire,1623
+E58001613,Chichester East ED,E10000032,West Sussex,1624
+E58001672,Beacon ED,E10000034,Worcestershire,1625
+E58001614,Chichester North ED,E10000032,West Sussex,1626
+E58001673,Bedwardine ED,E10000034,Worcestershire,1627
+E58001615,Chichester South ED,E10000032,West Sussex,1628
+E58001674,Bewdley ED,E10000034,Worcestershire,1629
+E58001616,Chichester West ED,E10000032,West Sussex,1630
+E58001675,Bowbrook ED,E10000034,Worcestershire,1631
+E58001617,Cissbury ED,E10000032,West Sussex,1632
+E58001676,Bredon ED,E10000034,Worcestershire,1633
+E58001618,Cuckfield & Lucastes ED,E10000032,West Sussex,1634
+E58001677,Broadway ED,E10000034,Worcestershire,1635
+E58001619,Durrington & Salvington ED,E10000032,West Sussex,1636
+E58001678,Bromsgrove Central ED,E10000034,Worcestershire,1637
+E58001620,East Grinstead Meridian ED,E10000032,West Sussex,1638
+E58001679,Bromsgrove East ED,E10000034,Worcestershire,1639
+E58001621,East Grinstead South & Ashurst Wood ED,E10000032,West Sussex,1640
+E58001680,Bromsgrove South ED,E10000034,Worcestershire,1641
+E58001622,East Preston & Ferring ED,E10000032,West Sussex,1642
+E58001681,Bromsgrove West ED,E10000034,Worcestershire,1643
+E58001623,Felpham ED,E10000032,West Sussex,1644
+E58001682,Chaddesley ED,E10000034,Worcestershire,1645
+E58001624,Fontwell ED,E10000032,West Sussex,1646
+E58001625,Goring ED,E10000032,West Sussex,1647
+E58001626,Hassocks & Burgess Hill South ED,E10000032,West Sussex,1648
+E58001627,Haywards Heath East ED,E10000032,West Sussex,1649
+E58001628,Haywards Heath Town ED,E10000032,West Sussex,1650
+E58001629,Henfield ED,E10000032,West Sussex,1651
+E58001630,Holbrook ED,E10000032,West Sussex,1652
+E58001631,Horsham East ED,E10000032,West Sussex,1653
+E58001632,Horsham Hurst ED,E10000032,West Sussex,1654
+E58001633,Horsham Riverside ED,E10000032,West Sussex,1655
+E58001634,Hurstpierpoint & Bolney ED,E10000032,West Sussex,1656
+E58001635,Imberdown ED,E10000032,West Sussex,1657
+E58001636,Lancing ED,E10000032,West Sussex,1658
+E58001637,Langley Green & Ifield East ED,E10000032,West Sussex,1659
+E58001638,Lindfield & High Weald ED,E10000032,West Sussex,1660
+E58001639,Littlehampton East ED,E10000032,West Sussex,1661
+E58001640,Littlehampton Town ED,E10000032,West Sussex,1662
+E58001641,Maidenbower & Worth ED,E10000032,West Sussex,1663
+E58001642,Middleton ED,E10000032,West Sussex,1664
+E58001643,Midhurst ED,E10000032,West Sussex,1665
+E58001644,Northbrook ED,E10000032,West Sussex,1666
+E58001645,Northgate & West Green ED,E10000032,West Sussex,1667
+E58001646,Nyetimber ED,E10000032,West Sussex,1668
+E58001647,Petworth ED,E10000032,West Sussex,1669
+E58001648,Pound Hill ED,E10000032,West Sussex,1670
+E58001649,Pulborough ED,E10000032,West Sussex,1671
+E58001650,Rother Valley ED,E10000032,West Sussex,1672
+E58001651,Rustington ED,E10000032,West Sussex,1673
+E58001652,Selsey ED,E10000032,West Sussex,1674
+E58001653,Shoreham North ED,E10000032,West Sussex,1675
+E58001654,Shoreham South ED,E10000032,West Sussex,1676
+E58001655,Sompting & North Lancing ED,E10000032,West Sussex,1677
+E58001656,Southgate & Gossops Green ED,E10000032,West Sussex,1678
+E58001657,Southwater & Nuthurst ED,E10000032,West Sussex,1679
+E58001658,Southwick ED,E10000032,West Sussex,1680
+E58001659,St. Leonard's Forest ED,E10000032,West Sussex,1681
+E58001660,Storrington ED,E10000032,West Sussex,1682
+E58001683,Claines ED,E10000034,Worcestershire,1683
+E58001684,Clent Hills ED,E10000034,Worcestershire,1684
+E58001685,"Cookley, Wolverley and Wribbenhall ED",E10000034,Worcestershire,1685
+E58001686,Croome ED,E10000034,Worcestershire,1686
+E58001687,Droitwich East ED,E10000034,Worcestershire,1687
+E58001688,Droitwich West ED,E10000034,Worcestershire,1688
+E58001689,Evesham North West ED,E10000034,Worcestershire,1689
+E58001690,Evesham South ED,E10000034,Worcestershire,1690
+E58001691,Gorse Hill and Warndon ED,E10000034,Worcestershire,1691
+E58001692,Hallow ED,E10000034,Worcestershire,1692
+E58001693,Harvington ED,E10000034,Worcestershire,1693
+E58001694,Littletons ED,E10000034,Worcestershire,1694
+E58001695,Malvern Chase ED,E10000034,Worcestershire,1695
+E58001696,Malvern Langland ED,E10000034,Worcestershire,1696
+E58001697,Malvern Link ED,E10000034,Worcestershire,1697
+E58001698,Malvern Trinity ED,E10000034,Worcestershire,1698
+E58001699,Nunnery ED,E10000034,Worcestershire,1699
+E58001700,Ombersley ED,E10000034,Worcestershire,1700
+E58001701,Pershore ED,E10000034,Worcestershire,1701
+E58001702,Powick ED,E10000034,Worcestershire,1702
+E58001703,Rainbow Hill ED,E10000034,Worcestershire,1703
+E58001704,Redditch North ED,E10000034,Worcestershire,1704
+E58001705,Redditch South ED,E10000034,Worcestershire,1705
+E58001706,Riverside ED,E10000034,Worcestershire,1706
+E58001707,St. Barnabas ED,E10000034,Worcestershire,1707
+E58001708,St. Chads ED,E10000034,Worcestershire,1708
+E58001709,St. Georges and St. Oswald ED,E10000034,Worcestershire,1709
+E58001710,St. John ED,E10000034,Worcestershire,1710
+E58001711,St. Johns ED,E10000034,Worcestershire,1711
+E58001712,St. Marys ED,E10000034,Worcestershire,1712
+E58001713,St. Peter ED,E10000034,Worcestershire,1713
+E58001714,St. Stephen ED,E10000034,Worcestershire,1714
+E58001715,Stourport-on-Severn ED,E10000034,Worcestershire,1715
+E58001716,Tenbury ED,E10000034,Worcestershire,1716
+E58001717,Upton Snodsbury ED,E10000034,Worcestershire,1717
+E58001718,Warndon Parish ED,E10000034,Worcestershire,1718
+E58001719,Woodvale ED,E10000034,Worcestershire,1719
+E58001720,Wythall ED,E10000034,Worcestershire,1720

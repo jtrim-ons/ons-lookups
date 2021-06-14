@@ -1,0 +1,196 @@
+CCG18CD,CCG18CDH,CCG18NM,STP18CD,STP18NM,FID
+E38000001,02N,"NHS Airedale, Wharfedale and Craven CCG",E54000005,West Yorkshire,1
+E38000018,02W,NHS Bradford City CCG,E54000005,West Yorkshire,2
+E38000019,02R,NHS Bradford Districts CCG,E54000005,West Yorkshire,3
+E38000025,02T,NHS Calderdale CCG,E54000005,West Yorkshire,4
+E38000064,03A,NHS Greater Huddersfield CCG,E54000005,West Yorkshire,5
+E38000073,03E,NHS Harrogate and Rural District CCG,E54000005,West Yorkshire,6
+E38000121,03J,NHS North Kirklees CCG,E54000005,West Yorkshire,7
+E38000190,03R,NHS Wakefield CCG,E54000005,West Yorkshire,8
+E38000225,15F,NHS Leeds CCG,E54000005,West Yorkshire,9
+E38000052,02Y,NHS East Riding of Yorkshire CCG,E54000006,"Humber, Coast and Vale",10
+E38000085,03F,NHS Hull CCG,E54000006,"Humber, Coast and Vale",11
+E38000119,03H,NHS North East Lincolnshire CCG,E54000006,"Humber, Coast and Vale",12
+E38000122,03K,NHS North Lincolnshire CCG,E54000006,"Humber, Coast and Vale",13
+E38000145,03M,NHS Scarborough and Ryedale CCG,E54000006,"Humber, Coast and Vale",14
+E38000188,03Q,NHS Vale of York CCG,E54000006,"Humber, Coast and Vale",15
+E38000016,00T,NHS Bolton CCG,E54000007,Greater Manchester,16
+E38000024,00V,NHS Bury CCG,E54000007,Greater Manchester,17
+E38000080,01D,"NHS Heywood, Middleton and Rochdale CCG",E54000007,Greater Manchester,18
+E38000135,00Y,NHS Oldham CCG,E54000007,Greater Manchester,19
+E38000143,01G,NHS Salford CCG,E54000007,Greater Manchester,20
+E38000174,01W,NHS Stockport CCG,E54000007,Greater Manchester,21
+E38000182,01Y,NHS Tameside and Glossop CCG,E54000007,Greater Manchester,22
+E38000187,02A,NHS Trafford CCG,E54000007,Greater Manchester,23
+E38000205,02H,NHS Wigan Borough CCG,E54000007,Greater Manchester,24
+E38000217,14L,NHS Manchester CCG,E54000007,Greater Manchester,25
+E38000056,01C,NHS Eastern Cheshire CCG,E54000008,Cheshire and Merseyside,26
+E38000068,01F,NHS Halton CCG,E54000008,Cheshire and Merseyside,27
+E38000091,01J,NHS Knowsley CCG,E54000008,Cheshire and Merseyside,28
+E38000101,99A,NHS Liverpool CCG,E54000008,Cheshire and Merseyside,29
+E38000151,01R,NHS South Cheshire CCG,E54000008,Cheshire and Merseyside,30
+E38000161,01T,NHS South Sefton CCG,E54000008,Cheshire and Merseyside,31
+E38000170,01V,NHS Southport and Formby CCG,E54000008,Cheshire and Merseyside,32
+E38000172,01X,NHS St Helens CCG,E54000008,Cheshire and Merseyside,33
+E38000189,02D,NHS Vale Royal CCG,E54000008,Cheshire and Merseyside,34
+E38000194,02E,NHS Warrington CCG,E54000008,Cheshire and Merseyside,35
+E38000196,02F,NHS West Cheshire CCG,E54000008,Cheshire and Merseyside,36
+E38000208,12F,NHS Wirral CCG,E54000008,Cheshire and Merseyside,37
+E38000006,02P,NHS Barnsley CCG,E54000009,South Yorkshire and Bassetlaw,38
+E38000008,02Q,NHS Bassetlaw CCG,E54000009,South Yorkshire and Bassetlaw,39
+E38000044,02X,NHS Doncaster CCG,E54000009,South Yorkshire and Bassetlaw,40
+E38000141,03L,NHS Rotherham CCG,E54000009,South Yorkshire and Bassetlaw,41
+E38000146,03N,NHS Sheffield CCG,E54000009,South Yorkshire and Bassetlaw,42
+E38000028,04Y,NHS Cannock Chase CCG,E54000010,Staffordshire,43
+E38000053,05D,NHS East Staffordshire CCG,E54000010,Staffordshire,44
+E38000126,05G,NHS North Staffordshire CCG,E54000010,Staffordshire,45
+E38000153,05Q,NHS South East Staffordshire and Seisdon Peninsula CCG,E54000010,Staffordshire,46
+E38000173,05V,NHS Stafford and Surrounds CCG,E54000010,Staffordshire,47
+E38000175,05W,NHS Stoke on Trent CCG,E54000010,Staffordshire,48
+E38000147,05N,NHS Shropshire CCG,E54000011,Shropshire and Telford and Wrekin,49
+E38000183,05X,NHS Telford and Wrekin CCG,E54000011,Shropshire and Telford and Wrekin,50
+E38000058,03X,NHS Erewash CCG,E54000012,Derbyshire,51
+E38000071,03Y,NHS Hardwick CCG,E54000012,Derbyshire,52
+E38000115,04J,NHS North Derbyshire CCG,E54000012,Derbyshire,53
+E38000169,04R,NHS Southern Derbyshire CCG,E54000012,Derbyshire,54
+E38000099,03T,NHS Lincolnshire East CCG,E54000013,Lincolnshire,55
+E38000100,04D,NHS Lincolnshire West CCG,E54000013,Lincolnshire,56
+E38000157,99D,NHS South Lincolnshire CCG,E54000013,Lincolnshire,57
+E38000165,04Q,NHS South West Lincolnshire CCG,E54000013,Lincolnshire,58
+E38000103,04E,NHS Mansfield and Ashfield CCG,E54000014,Nottinghamshire,59
+E38000109,04H,NHS Newark and Sherwood CCG,E54000014,Nottinghamshire,60
+E38000132,04K,NHS Nottingham City CCG,E54000014,Nottinghamshire,61
+E38000133,04L,NHS Nottingham North and East CCG,E54000014,Nottinghamshire,62
+E38000134,04M,NHS Nottingham West CCG,E54000014,Nottinghamshire,63
+E38000142,04N,NHS Rushcliffe CCG,E54000014,Nottinghamshire,64
+E38000051,03W,NHS East Leicestershire and Rutland CCG,E54000015,"Leicester, Leicestershire and Rutland",65
+E38000140,08P,NHS Richmond CCG,E54000031,South West London,66
+E38000179,08T,NHS Sutton CCG,E54000031,South West London,67
+E38000193,08X,NHS Wandsworth CCG,E54000031,South West London,68
+E38000002,09C,NHS Ashford CCG,E54000032,Kent and Medway,69
+E38000029,09E,NHS Canterbury and Coastal CCG,E54000032,Kent and Medway,70
+E38000043,09J,"NHS Dartford, Gravesham and Swanley CCG",E54000032,Kent and Medway,71
+E38000104,09W,NHS Medway CCG,E54000032,Kent and Medway,72
+E38000156,10A,NHS South Kent Coast CCG,E54000032,Kent and Medway,73
+E38000180,10D,NHS Swale CCG,E54000032,Kent and Medway,74
+E38000184,10E,NHS Thanet CCG,E54000032,Kent and Medway,75
+E38000199,99J,NHS West Kent CCG,E54000032,Kent and Medway,76
+E38000021,09D,NHS Brighton and Hove CCG,E54000033,Sussex and East Surrey,77
+E38000039,09H,NHS Crawley CCG,E54000033,Sussex and East Surrey,78
+E38000054,09L,NHS East Surrey CCG,E54000033,Sussex and East Surrey,79
+E38000055,09F,"NHS Eastbourne, Hailsham and Seaford CCG",E54000033,Sussex and East Surrey,80
+E38000076,09P,NHS Hastings and Rother CCG,E54000033,Sussex and East Surrey,81
+E38000081,99K,NHS High Weald Lewes Havens CCG,E54000033,Sussex and East Surrey,82
+E38000083,09X,NHS Horsham and Mid Sussex CCG,E54000033,Sussex and East Surrey,83
+E38000213,09G,NHS Coastal West Sussex CCG,E54000033,Sussex and East Surrey,84
+E38000118,99M,NHS North East Hampshire and Farnham CCG,E54000034,Frimley Health,85
+E38000178,10C,NHS Surrey Heath CCG,E54000034,Frimley Health,86
+E38000224,15D,NHS East Berkshire CCG,E54000034,Frimley Health,87
+E38000128,09Y,NHS North West Surrey CCG,E54000035,Surrey Heartlands,88
+E38000177,99H,NHS Surrey Downs CCG,E54000035,Surrey Heartlands,89
+E38000214,09N,NHS Guildford and Waverley CCG,E54000035,Surrey Heartlands,90
+E38000089,11N,NHS Kernow CCG,E54000036,Cornwall and the Isles of Scilly,91
+E38000129,99P,"NHS Northern, Eastern and Western Devon CCG",E54000037,Devon,92
+E38000152,99Q,NHS South Devon and Torbay CCG,E54000037,Devon,93
+E38000150,11X,NHS Somerset CCG,E54000038,Somerset,94
+E38000222,15C,"NHS Bristol, North Somerset and South Gloucestershire CCG",E54000039,"Bristol, North Somerset and South Gloucestershire",95
+E38000009,11E,NHS Bath and North East Somerset CCG,E54000040,"Bath, Swindon and Wiltshire",96
+E38000181,12D,NHS Swindon CCG,E54000040,"Bath, Swindon and Wiltshire",97
+E38000206,99N,NHS Wiltshire CCG,E54000040,"Bath, Swindon and Wiltshire",98
+E38000045,11J,NHS Dorset CCG,E54000041,Dorset,99
+E38000059,10K,NHS Fareham and Gosport CCG,E54000042,Hampshire and the Isle of Wight,100
+E38000087,10L,NHS Isle of Wight CCG,E54000042,Hampshire and the Isle of Wight,101
+E38000120,10J,NHS North Hampshire CCG,E54000042,Hampshire and the Isle of Wight,102
+E38000137,10R,NHS Portsmouth CCG,E54000042,Hampshire and the Isle of Wight,103
+E38000154,10V,NHS South Eastern Hampshire CCG,E54000042,Hampshire and the Isle of Wight,104
+E38000167,10X,NHS Southampton CCG,E54000042,Hampshire and the Isle of Wight,105
+E38000198,11A,NHS West Hampshire CCG,E54000042,Hampshire and the Isle of Wight,106
+E38000062,11M,NHS Gloucestershire CCG,E54000043,Gloucestershire,107
+E38000136,10Q,NHS Oxfordshire CCG,E54000044,"Buckinghamshire, Oxfordshire and Berkshire West",108
+E38000221,15A,NHS Berkshire West CCG,E54000044,"Buckinghamshire, Oxfordshire and Berkshire West",109
+E38000223,14Y,NHS Buckinghamshire CCG,E54000044,"Buckinghamshire, Oxfordshire and Berkshire West",110
+E38000014,00Q,NHS Blackburn with Darwen CCG,E54000048,Lancashire and South Cumbria,111
+E38000015,00R,NHS Blackpool CCG,E54000048,Lancashire and South Cumbria,112
+E38000034,00X,NHS Chorley and South Ribble CCG,E54000048,Lancashire and South Cumbria,113
+E38000050,01A,NHS East Lancashire CCG,E54000048,Lancashire and South Cumbria,114
+E38000200,02G,NHS West Lancashire CCG,E54000048,Lancashire and South Cumbria,115
+E38000226,02M,NHS Fylde and Wyre CCG,E54000048,Lancashire and South Cumbria,116
+E38000227,01E,NHS Greater Preston CCG,E54000048,Lancashire and South Cumbria,117
+E38000228,01K,NHS Morecambe Bay CCG,E54000048,Lancashire and South Cumbria,118
+E38000042,00C,NHS Darlington CCG,E54000049,Cumbria and North East,119
+E38000047,00D,"NHS Durham Dales, Easington and Sedgefield CCG",E54000049,Cumbria and North East,120
+E38000069,03D,"NHS Hambleton, Richmondshire and Whitby CCG",E54000049,Cumbria and North East,121
+E38000075,00K,NHS Hartlepool and Stockton-on-Tees CCG,E54000049,Cumbria and North East,122
+E38000162,00M,NHS South Tees CCG,E54000049,Cumbria and North East,123
+E38000116,00J,NHS North Durham CCG,E54000049,Cumbria and North East,124
+E38000127,99C,NHS North Tyneside CCG,E54000049,Cumbria and North East,125
+E38000130,00L,NHS Northumberland CCG,E54000049,Cumbria and North East,126
+E38000163,00N,NHS South Tyneside CCG,E54000049,Cumbria and North East,127
+E38000176,00P,NHS Sunderland CCG,E54000049,Cumbria and North East,128
+E38000212,13T,NHS Newcastle Gateshead CCG,E54000049,Cumbria and North East,129
+E38000215,01H,NHS North Cumbria CCG,E54000049,Cumbria and North East,130
+E38000097,04C,NHS Leicester City CCG,E54000015,"Leicester, Leicestershire and Rutland",131
+E38000201,04V,NHS West Leicestershire CCG,E54000015,"Leicester, Leicestershire and Rutland",132
+E38000046,05C,NHS Dudley CCG,E54000016,The Black Country,133
+E38000144,05L,NHS Sandwell and West Birmingham CCG,E54000016,The Black Country,134
+E38000191,05Y,NHS Walsall CCG,E54000016,The Black Country,135
+E38000210,06A,NHS Wolverhampton CCG,E54000016,The Black Country,136
+E38000220,15E,NHS Birmingham and Solihull CCG,E54000017,Birmingham and Solihull,137
+E38000038,05A,NHS Coventry and Rugby CCG,E54000018,Coventry and Warwickshire,138
+E38000164,05R,NHS South Warwickshire CCG,E54000018,Coventry and Warwickshire,139
+E38000195,05H,NHS Warwickshire North CCG,E54000018,Coventry and Warwickshire,140
+E38000078,05F,NHS Herefordshire CCG,E54000019,Herefordshire and Worcestershire,141
+E38000139,05J,NHS Redditch and Bromsgrove CCG,E54000019,Herefordshire and Worcestershire,142
+E38000166,05T,NHS South Worcestershire CCG,E54000019,Herefordshire and Worcestershire,143
+E38000211,06D,NHS Wyre Forest CCG,E54000019,Herefordshire and Worcestershire,144
+E38000037,03V,NHS Corby CCG,E54000020,Northamptonshire,145
+E38000108,04G,NHS Nene CCG,E54000020,Northamptonshire,146
+E38000026,06H,NHS Cambridgeshire and Peterborough CCG,E54000021,Cambridgeshire and Peterborough,147
+E38000063,06M,NHS Great Yarmouth and Waveney CCG,E54000022,Norfolk and Waveney,148
+E38000124,06V,NHS North Norfolk CCG,E54000022,Norfolk and Waveney,149
+E38000203,07J,NHS West Norfolk CCG,E54000022,Norfolk and Waveney,150
+E38000218,06W,NHS Norwich CCG,E54000022,Norfolk and Waveney,151
+E38000219,06Y,NHS South Norfolk CCG,E54000022,Norfolk and Waveney,152
+E38000086,06L,NHS Ipswich and East Suffolk CCG,E54000023,Suffolk and North East Essex,153
+E38000117,06T,NHS North East Essex CCG,E54000023,Suffolk and North East Essex,154
+E38000204,07K,NHS West Suffolk CCG,E54000023,Suffolk and North East Essex,155
+E38000010,06F,NHS Bedfordshire CCG,E54000024,"Milton Keynes, Bedfordshire and Luton",156
+E38000102,06P,NHS Luton CCG,E54000024,"Milton Keynes, Bedfordshire and Luton",157
+E38000107,04F,NHS Milton Keynes CCG,E54000024,"Milton Keynes, Bedfordshire and Luton",158
+E38000049,06K,NHS East and North Hertfordshire CCG,E54000025,Hertfordshire and West Essex,159
+E38000079,06N,NHS Herts Valleys CCG,E54000025,Hertfordshire and West Essex,160
+E38000197,07H,NHS West Essex CCG,E54000025,Hertfordshire and West Essex,161
+E38000007,99E,NHS Basildon and Brentwood CCG,E54000026,Mid and South Essex,162
+E38000030,99F,NHS Castle Point and Rochford CCG,E54000026,Mid and South Essex,163
+E38000106,06Q,NHS Mid Essex CCG,E54000026,Mid and South Essex,164
+E38000168,99G,NHS Southend CCG,E54000026,Mid and South Essex,165
+E38000185,07G,NHS Thurrock CCG,E54000026,Mid and South Essex,166
+E38000020,07P,NHS Brent CCG,E54000027,North West London,167
+E38000031,09A,NHS Central London (Westminster) CCG,E54000027,North West London,168
+E38000048,07W,NHS Ealing CCG,E54000027,North West London,169
+E38000070,08C,NHS Hammersmith and Fulham CCG,E54000027,North West London,170
+E38000074,08E,NHS Harrow CCG,E54000027,North West London,171
+E38000082,08G,NHS Hillingdon CCG,E54000027,North West London,172
+E38000084,07Y,NHS Hounslow CCG,E54000027,North West London,173
+E38000202,08Y,NHS West London CCG,E54000027,North West London,174
+E38000005,07M,NHS Barnet CCG,E54000028,North Central London,175
+E38000027,07R,NHS Camden CCG,E54000028,North Central London,176
+E38000057,07X,NHS Enfield CCG,E54000028,North Central London,177
+E38000072,08D,NHS Haringey CCG,E54000028,North Central London,178
+E38000088,08H,NHS Islington CCG,E54000028,North Central London,179
+E38000004,07L,NHS Barking and Dagenham CCG,E54000029,North East London,180
+E38000035,07T,NHS City and Hackney CCG,E54000029,North East London,181
+E38000077,08F,NHS Havering CCG,E54000029,North East London,182
+E38000113,08M,NHS Newham CCG,E54000029,North East London,183
+E38000138,08N,NHS Redbridge CCG,E54000029,North East London,184
+E38000186,08V,NHS Tower Hamlets CCG,E54000029,North East London,185
+E38000192,08W,NHS Waltham Forest CCG,E54000029,North East London,186
+E38000011,07N,NHS Bexley CCG,E54000030,South East London,187
+E38000023,07Q,NHS Bromley CCG,E54000030,South East London,188
+E38000066,08A,NHS Greenwich CCG,E54000030,South East London,189
+E38000092,08K,NHS Lambeth CCG,E54000030,South East London,190
+E38000098,08L,NHS Lewisham CCG,E54000030,South East London,191
+E38000171,08Q,NHS Southwark CCG,E54000030,South East London,192
+E38000040,07V,NHS Croydon CCG,E54000031,South West London,193
+E38000090,08J,NHS Kingston CCG,E54000031,South West London,194
+E38000105,08R,NHS Merton CCG,E54000031,South West London,195
