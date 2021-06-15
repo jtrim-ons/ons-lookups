@@ -45,7 +45,7 @@ def get_dataset(url, title):
                 process_csv(csv)
                 csv_filename = f"csv/{csv_index:03}.csv"
                 md += "[CSV]({}) / [data.gov.uk]({})\n\n".format(csv_filename, url)
-                dataset_info += "[CSV]({}) / [data.gov.uk]({})\n\n".format(csv_filename, url)
+                dataset_info += "[CSV](../{}) / [data.gov.uk]({})\n\n".format(csv_filename, url)
                 with open(f"dataset_info/{csv_index:03}.md", "w") as f:
                     f.write(dataset_info)
                 with open(csv_filename, "w") as f:
